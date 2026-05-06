@@ -1,6 +1,6 @@
 clienteId,nombre,apellido,email,telefono,fechaNacimiento,activo,nivelRiesgo,etiquetasRiesgo,ingresoMensual
-CL-D001,Laura,Pérez,laura@demo.com,55551001,1990-03-15,true,bajo,cliente_vip,12000.00
-CL-D002,Miguel,García,miguel@demo.com,55551002,1985-07-22,true,medio,alto_volumen,45000.00
-CL-D003,Sofía,López,sofia@demo.com,55551003,1992-11-08,true,alto,historial_fraude|viajero_frecuente,8500.50
-CL-D004,Andrés,Martínez,andres@demo.com,55551004,1978-01-30,false,critico,historial_fraude,3200.00
-CL-D005,Valeria,Rodríguez,valeria@demo.com,55551005,1995-05-12,true,bajo,nuevo_usuario,9800.75
+CL-D001,Diego,Fuentes,diego.fuentes@gmail.com,47823901,1988-09-04,true,bajo,cliente_vip,18500.00
+CL-D002,Fernanda,Castillo,fcastillo@hotmail.com,52910384,1993-02-17,true,medio,alto_volumen|viajero_frecuente,62000.00
+CL-D003,Roberto,Alvarado,roberto.alv@yahoo.com,31847562,1975-06-30,true,alto,historial_fraude,5400.75
+CL-D004,Mariana,Salazar,msalazar@empresa.gt,66123490,1982-11-22,false,critico,historial_fraude|alto_volumen,2800.00
+CL-D005,Javier,Herrera,jherrera@correo.com,59034817,1997-03-08,true,bajo,nuevo_usuario,11200.50
