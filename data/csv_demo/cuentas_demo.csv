@@ -1,0 +1,6 @@
+cuentaId,numeroCuenta,tipoCuenta,saldo,fechaApertura,moneda,activa,limiteCredito,numeroPrestamos,bancosAsociados
+CU-D001,10010001,ahorro,15000.00,2020-01-10,GTQ,true,0.00,0,Banrural|BAC
+CU-D002,10010002,corriente,87500.50,2018-06-15,USD,true,50000.00,1,Industrial
+CU-D003,10010003,credito,-2300.00,2021-03-01,GTQ,true,25000.00,2,G&T Continental|HSBC
+CU-D004,10010004,monetaria,500.00,2019-09-20,GTQ,false,0.00,0,Banrural
+CU-D005,10010005,ahorro,320000.00,2015-12-01,USD,true,100000.00,3,Citibank|BAC|Industrial

@@ -1,0 +1,6 @@
+clienteId,cuentaId,fechaAsignacion,esTitular,porcentajePropiedad
+CL-D001,CU-D001,2020-01-10,true,100
+CL-D002,CU-D002,2018-06-15,true,100
+CL-D003,CU-D003,2021-03-01,true,75
+CL-D004,CU-D004,2019-09-20,true,100
+CL-D005,CU-D005,2015-12-01,true,100

@@ -1,0 +1,201 @@
+ubicacionId,ciudad,pais,latitud,longitud,zonaRiesgo,codigoPostal,region,poblacion,codigoPais
+UB-0001,Ciudad de México,México,-32.959733,-99.069311,false,93362-8911,Norteamérica,1769583,MX
+UB-0002,Caracas,Venezuela,-1.855674,-115.232598,true,81991,Sudamérica,1621945,VE
+UB-0003,New York,Estados Unidos,-52.611763,-90.174352,false,73129,Norteamérica,9192600,US
+UB-0004,San Salvador,El Salvador,-29.962836,10.395048,false,69172-4762,Centroamérica,2728638,SV
+UB-0005,Santa Ana,El Salvador,-35.621761,-5.475881,false,43501-1370,Centroamérica,1764803,SV
+UB-0006,Cancún,México,21.274493,-29.441095,true,89373,Norteamérica,778977,MX
+UB-0007,Cartago,Costa Rica,28.006583,-108.17997,false,42978,Centroamérica,4968715,CR
+UB-0008,Abuja,Nigeria,-3.038307,-14.314225,true,76267-9104,África,818805,NG
+UB-0009,Los Angeles,Estados Unidos,21.978595,9.97255,false,00179-1188,Norteamérica,6427459,US
+UB-0010,Colón,Panamá,-22.165104,-64.472855,false,82525-0716,Centroamérica,3564944,PA
+UB-0011,David,Panamá,3.323185,-28.630349,false,47478-0919,Centroamérica,2921230,PA
+UB-0012,Valencia,Venezuela,-32.967017,-50.660968,true,58930-6778,Sudamérica,4578972,VE
+UB-0013,Caracas,Venezuela,6.615283,6.427788,true,84718-5070,Sudamérica,988483,VE
+UB-0014,Miami,Estados Unidos,-18.895169,-110.071709,false,50131-7334,Norteamérica,9565702,US
+UB-0015,Tegucigalpa,Honduras,-19.393129,17.182138,false,63141,Centroamérica,7748256,HN
+UB-0016,Cali,Colombia,12.049008,-39.153407,false,86289-3247,Sudamérica,9857725,CO
+UB-0017,San Miguel,El Salvador,-35.261132,29.630641,false,10191-6902,Centroamérica,8598432,SV
+UB-0018,San José,Costa Rica,22.499262,-97.073802,false,37192-1085,Centroamérica,2734052,CR
+UB-0019,San Miguel,El Salvador,-20.654264,29.418207,true,04164,Centroamérica,8927065,SV
+UB-0020,David,Panamá,-53.966708,-11.891727,false,06249-1705,Centroamérica,9058867,PA
+UB-0021,David,Panamá,-28.584988,-96.276337,false,71456-3925,Centroamérica,104447,PA
+UB-0022,David,Panamá,-9.308649,-104.038377,false,71030-6507,Centroamérica,5057072,PA
+UB-0023,Valencia,Venezuela,-37.098001,-63.912922,true,74973,Sudamérica,2760343,VE
+UB-0024,Valencia,Venezuela,27.664414,-30.158312,true,15899,Sudamérica,8247443,VE
+UB-0025,Ciudad de Guatemala,Guatemala,24.084969,4.749829,false,64964,Centroamérica,5209230,GT
+UB-0026,Miami,Estados Unidos,-3.937875,-108.186443,false,02137-6925,Norteamérica,8203566,US
+UB-0027,Tijuana,México,-43.444768,-48.707643,false,63189-1689,Norteamérica,9274173,MX
+UB-0028,Cali,Colombia,-0.406547,24.654436,false,35712-9906,Sudamérica,9097886,CO
+UB-0029,Los Angeles,Estados Unidos,5.451826,-63.986925,false,95331-6622,Norteamérica,8733481,US
+UB-0030,San José,Costa Rica,-49.237669,-116.844861,false,21282,Centroamérica,9343261,CR
+UB-0031,Chicago,Estados Unidos,-48.610622,-25.334556,false,38304,Norteamérica,3891005,US
+UB-0032,Ciudad de México,México,-48.622839,-84.299305,false,36104,Norteamérica,8193903,MX
+UB-0033,Chicago,Estados Unidos,29.196282,-34.343536,false,40882-6158,Norteamérica,7980103,US
+UB-0034,Houston,Estados Unidos,-37.863108,-105.460378,false,50809-6291,Norteamérica,7281838,US
+UB-0035,San Pedro Sula,Honduras,22.745307,-111.874322,false,60334-0735,Centroamérica,1701177,HN
+UB-0036,Mixco,Guatemala,17.053326,-103.609645,false,96583-5459,Centroamérica,3264348,GT
+UB-0037,Chicago,Estados Unidos,-17.030652,-78.218228,false,29587-9234,Norteamérica,4241056,US
+UB-0038,Cancún,México,22.03702,-105.313691,false,15045,Norteamérica,9119560,MX
+UB-0039,Ciudad de Guatemala,Guatemala,21.382616,-95.053333,false,10889-1240,Centroamérica,8197706,GT
+UB-0040,San José,Costa Rica,26.219858,-95.304432,false,12465,Centroamérica,86161,CR
+UB-0041,Santa Ana,El Salvador,15.661642,-77.212616,false,67375,Centroamérica,9374245,SV
+UB-0042,San José,Costa Rica,-35.406919,-111.227506,false,19873-8382,Centroamérica,9146526,CR
+UB-0043,Escuintla,Guatemala,-2.424016,-44.572443,true,73832,Centroamérica,8960817,GT
+UB-0044,Bogotá,Colombia,-47.789968,-92.126256,false,47920,Sudamérica,1190194,CO
+UB-0045,Houston,Estados Unidos,25.125858,-83.067698,false,47954,Norteamérica,716754,US
+UB-0046,Lagos,Nigeria,-17.269758,-32.449157,true,11155,África,8820838,NG
+UB-0047,San Pedro Sula,Honduras,9.457262,-84.197107,false,32814,Centroamérica,6690184,HN
+UB-0048,Cali,Colombia,28.61165,20.360143,false,39092-5024,Sudamérica,206287,CO
+UB-0049,Cartago,Costa Rica,34.64868,-109.010892,false,57627-3454,Centroamérica,3626135,CR
+UB-0050,Maracaibo,Venezuela,-43.078909,-67.648675,true,09023-5169,Sudamérica,1204126,VE
+UB-0051,Los Angeles,Estados Unidos,-15.563388,-38.517306,false,98577-8755,Norteamérica,5125395,US
+UB-0052,Kano,Nigeria,-7.395338,-19.820519,true,22571-9671,África,9354682,NG
+UB-0053,David,Panamá,24.031427,-80.330112,false,20457,Centroamérica,1845765,PA
+UB-0054,Caracas,Venezuela,-30.488661,-29.275526,true,37840,Sudamérica,5802576,VE
+UB-0055,Los Angeles,Estados Unidos,-32.399087,16.223857,false,16465-7747,Norteamérica,902264,US
+UB-0056,Cancún,México,-51.032191,-69.966519,false,47764-7031,Norteamérica,2244789,MX
+UB-0057,Ciudad de Panamá,Panamá,-5.348762,-55.846962,false,41704-3062,Centroamérica,212230,PA
+UB-0058,Ciudad de México,México,7.191766,-97.641857,false,99705,Norteamérica,654451,MX
+UB-0059,La Ceiba,Honduras,-16.319196,-113.725671,false,35116,Centroamérica,6167837,HN
+UB-0060,Escuintla,Guatemala,-32.542323,-104.580957,false,70739,Centroamérica,9443286,GT
+UB-0061,San Miguel,El Salvador,28.318744,-84.4894,false,20519-3519,Centroamérica,2776327,SV
+UB-0062,Barranquilla,Colombia,11.290802,-70.17218,true,77388,Sudamérica,6957400,CO
+UB-0063,Los Angeles,Estados Unidos,8.115037,-62.618742,false,70870-4549,Norteamérica,699691,US
+UB-0064,San José,Costa Rica,27.660671,-67.551236,false,18036-8010,Centroamérica,3868418,CR
+UB-0065,Miami,Estados Unidos,-19.138062,-78.209541,false,29116-0462,Norteamérica,1214686,US
+UB-0066,Colón,Panamá,-19.028945,27.172453,false,08825,Centroamérica,9046207,PA
+UB-0067,Tegucigalpa,Honduras,32.336055,-93.214828,false,85856-0546,Centroamérica,4503786,HN
+UB-0068,Ciudad de Guatemala,Guatemala,-23.88816,-2.035773,false,89812,Centroamérica,7371474,GT
+UB-0069,Kano,Nigeria,-44.591879,14.92571,true,33620-0910,África,3238992,NG
+UB-0070,Ciudad de Panamá,Panamá,-54.847785,18.836275,false,51035,Centroamérica,9083725,PA
+UB-0071,Los Angeles,Estados Unidos,30.398704,18.115628,false,40832,Norteamérica,5316630,US
+UB-0072,Monterrey,México,5.020361,-71.072564,false,55281-5163,Norteamérica,5010271,MX
+UB-0073,Caracas,Venezuela,-37.734392,-20.260585,true,86656-1771,Sudamérica,6411002,VE
+UB-0074,Cartagena,Colombia,-18.453235,5.058775,false,65774,Sudamérica,5148175,CO
+UB-0075,Ciudad de Panamá,Panamá,-2.80137,-21.794156,false,93683,Centroamérica,7851207,PA
+UB-0076,Alajuela,Costa Rica,-8.99434,-0.93969,false,90965-0025,Centroamérica,2896949,CR
+UB-0077,Monterrey,México,1.964677,-69.721762,false,95592-4879,Norteamérica,3990441,MX
+UB-0078,Ciudad de Panamá,Panamá,-41.738143,-113.067942,false,46129-6640,Centroamérica,8021465,PA
+UB-0079,Lagos,Nigeria,-14.012545,12.920536,true,78967-7120,África,9708155,NG
+UB-0080,Houston,Estados Unidos,-33.0414,-21.591298,false,73419-1830,Norteamérica,143026,US
+UB-0081,Cancún,México,17.369887,-15.613234,false,96248,Norteamérica,7843853,MX
+UB-0082,Villa Nueva,Guatemala,21.350271,-51.530726,false,48480-1607,Centroamérica,7845419,GT
+UB-0083,Valencia,Venezuela,-1.409291,22.505941,true,46585-4043,Sudamérica,7475149,VE
+UB-0084,Kano,Nigeria,25.281827,-55.988886,true,90413,África,9241766,NG
+UB-0085,San José,Costa Rica,-12.279301,-81.121268,false,91311-1024,Centroamérica,4197994,CR
+UB-0086,David,Panamá,-33.467872,-54.019111,false,35566-7691,Centroamérica,4843722,PA
+UB-0087,Los Angeles,Estados Unidos,25.372415,-107.913351,false,31302-1096,Norteamérica,2580518,US
+UB-0088,Houston,Estados Unidos,8.577723,-110.365672,false,06551,Norteamérica,6888382,US
+UB-0089,La Ceiba,Honduras,-49.396086,4.933675,false,51134,Centroamérica,6584336,HN
+UB-0090,Kano,Nigeria,-53.242124,12.098501,true,33896,África,9708481,NG
+UB-0091,Santa Ana,El Salvador,-23.341708,-6.978731,true,02836,Centroamérica,7080010,SV
+UB-0092,Valencia,Venezuela,11.117065,-0.019774,true,91452-7321,Sudamérica,3750025,VE
+UB-0093,San José,Costa Rica,-11.292221,-61.67142,false,49954,Centroamérica,6833308,CR
+UB-0094,Barranquilla,Colombia,33.264978,-39.881456,false,01124-6934,Sudamérica,6660562,CO
+UB-0095,Kano,Nigeria,4.669978,-107.407881,true,35477-5558,África,7240929,NG
+UB-0096,Barranquilla,Colombia,-31.585932,-70.8971,false,02569,Sudamérica,7678588,CO
+UB-0097,San Pedro Sula,Honduras,-20.878641,-7.198526,false,32374,Centroamérica,7122684,HN
+UB-0098,Ciudad de Panamá,Panamá,12.412183,-112.187159,false,32129,Centroamérica,5921360,PA
+UB-0099,Miami,Estados Unidos,3.657919,-6.865019,false,33929,Norteamérica,4198725,US
+UB-0100,Miami,Estados Unidos,-33.530955,-48.965841,false,57073-9690,Norteamérica,1969136,US
+UB-0101,Lagos,Nigeria,-13.146941,-81.563446,true,74857-4073,África,6239034,NG
+UB-0102,Cartagena,Colombia,12.313309,-102.820069,false,76106,Sudamérica,2797534,CO
+UB-0103,Ciudad de Panamá,Panamá,28.599845,-33.630491,false,66248,Centroamérica,6346605,PA
+UB-0104,San Miguel,El Salvador,-1.711192,4.585745,false,01521,Centroamérica,4124336,SV
+UB-0105,Monterrey,México,-0.962955,-101.84174,false,71285,Norteamérica,9544772,MX
+UB-0106,Escuintla,Guatemala,4.536921,-109.65649,false,48701,Centroamérica,5774909,GT
+UB-0107,Mixco,Guatemala,-45.501502,24.118135,false,82773-0935,Centroamérica,7763146,GT
+UB-0108,Barranquilla,Colombia,-8.042793,-22.431388,false,04781,Sudamérica,9079043,CO
+UB-0109,Alajuela,Costa Rica,10.792359,-79.740669,false,07608,Centroamérica,4168725,CR
+UB-0110,Monterrey,México,-33.05229,-50.29373,false,37376,Norteamérica,6408385,MX
+UB-0111,Tegucigalpa,Honduras,-25.748725,-46.86751,false,08005-0601,Centroamérica,6002975,HN
+UB-0112,Colón,Panamá,-1.346049,12.016102,false,60927-5472,Centroamérica,9374626,PA
+UB-0113,Villa Nueva,Guatemala,-47.294833,-11.9888,false,49377-3371,Centroamérica,8246976,GT
+UB-0114,Caracas,Venezuela,7.154841,-23.114565,true,88337-4972,Sudamérica,8284615,VE
+UB-0115,San José,Costa Rica,-35.056324,-16.231927,true,77773,Centroamérica,5187284,CR
+UB-0116,Abuja,Nigeria,-12.406556,-40.36171,true,93650-0706,África,7188769,NG
+UB-0117,Maracaibo,Venezuela,-23.337053,-51.938211,true,28335,Sudamérica,5194280,VE
+UB-0118,Ciudad de Panamá,Panamá,-37.667414,-102.066789,false,47809,Centroamérica,9040305,PA
+UB-0119,Medellín,Colombia,-11.422127,-11.31225,false,68022,Sudamérica,8851946,CO
+UB-0120,Abuja,Nigeria,33.245957,4.894254,true,60504,África,5020190,NG
+UB-0121,Los Angeles,Estados Unidos,-53.726647,-39.879737,false,69796-6422,Norteamérica,4652180,US
+UB-0122,Ciudad de Guatemala,Guatemala,7.767565,-101.058076,false,49659-7004,Centroamérica,8285577,GT
+UB-0123,Ciudad de México,México,-12.754275,-53.92968,false,50827,Norteamérica,3143109,MX
+UB-0124,Escuintla,Guatemala,-12.004373,3.317347,false,70664,Centroamérica,6772755,GT
+UB-0125,San José,Costa Rica,6.780592,-97.240949,false,26721,Centroamérica,9492881,CR
+UB-0126,Ciudad de Panamá,Panamá,-44.339359,-5.333483,false,69299,Centroamérica,3836401,PA
+UB-0127,Maracaibo,Venezuela,-14.453698,-53.591849,true,47456,Sudamérica,9923813,VE
+UB-0128,Santa Ana,El Salvador,-49.579273,24.016317,false,35738,Centroamérica,1714863,SV
+UB-0129,New York,Estados Unidos,-47.693128,-84.020223,false,52336,Norteamérica,9310893,US
+UB-0130,Guadalajara,México,-14.454667,-30.928321,true,44604-7883,Norteamérica,4936520,MX
+UB-0131,Quetzaltenango,Guatemala,-29.555346,8.94101,false,34996-9796,Centroamérica,1244198,GT
+UB-0132,Los Angeles,Estados Unidos,1.255221,-20.822544,false,19996-7653,Norteamérica,3368855,US
+UB-0133,San Salvador,El Salvador,3.287125,16.261717,false,61996,Centroamérica,2436328,SV
+UB-0134,Ciudad de México,México,-27.314937,-7.656342,false,35982,Norteamérica,9599709,MX
+UB-0135,Colón,Panamá,6.981019,-15.039947,false,36798-9512,Centroamérica,4617533,PA
+UB-0136,Valencia,Venezuela,-10.55843,-107.933722,true,24313-1762,Sudamérica,718752,VE
+UB-0137,San Miguel,El Salvador,-32.466889,-106.300967,false,50791,Centroamérica,9700239,SV
+UB-0138,Lagos,Nigeria,34.961518,-19.157762,true,82253-7389,África,4571644,NG
+UB-0139,Lagos,Nigeria,13.67981,-93.721391,true,74854-8489,África,8756768,NG
+UB-0140,Alajuela,Costa Rica,-2.320334,-24.782292,false,85793-2952,Centroamérica,8299789,CR
+UB-0141,Cancún,México,-25.002245,-19.479974,false,43431,Norteamérica,2748193,MX
+UB-0142,San Pedro Sula,Honduras,-29.060398,21.779031,false,94334-9003,Centroamérica,9279089,HN
+UB-0143,Mixco,Guatemala,-32.284103,-102.61176,true,96547-4368,Centroamérica,6830932,GT
+UB-0144,Caracas,Venezuela,4.189435,-38.610961,true,91797,Sudamérica,6983143,VE
+UB-0145,Quetzaltenango,Guatemala,1.037049,-45.226035,false,11718-6496,Centroamérica,7466216,GT
+UB-0146,Quetzaltenango,Guatemala,-43.208809,-76.795628,false,10165,Centroamérica,8182114,GT
+UB-0147,Ciudad de México,México,-0.20155,-84.105381,false,41058-3244,Norteamérica,2707144,MX
+UB-0148,David,Panamá,-18.280838,-86.294901,true,41350,Centroamérica,1953561,PA
+UB-0149,San José,Costa Rica,-41.142599,19.897959,false,15916,Centroamérica,4946624,CR
+UB-0150,Valencia,Venezuela,-30.391759,5.208592,true,92227,Sudamérica,7972533,VE
+UB-0151,Houston,Estados Unidos,-20.477259,18.280222,false,62389,Norteamérica,8576867,US
+UB-0152,Bogotá,Colombia,16.100556,-57.758636,false,93543,Sudamérica,8568424,CO
+UB-0153,Ciudad de Panamá,Panamá,-28.129974,-31.959342,false,66657-6931,Centroamérica,8264801,PA
+UB-0154,Barranquilla,Colombia,-23.938845,-37.212387,false,61224,Sudamérica,9167243,CO
+UB-0155,Santa Ana,El Salvador,23.264151,27.116195,false,62389-3369,Centroamérica,4056492,SV
+UB-0156,Abuja,Nigeria,-33.97938,-3.668329,true,66455,África,782280,NG
+UB-0157,La Ceiba,Honduras,27.208715,-62.815328,false,91966-9378,Centroamérica,2601903,HN
+UB-0158,San José,Costa Rica,31.881823,-70.200794,false,16185-1070,Centroamérica,1733838,CR
+UB-0159,San José,Costa Rica,-13.876473,-11.633426,false,42491-1596,Centroamérica,6928299,CR
+UB-0160,Bogotá,Colombia,32.228327,-69.215815,false,60684-7254,Sudamérica,6718663,CO
+UB-0161,Monterrey,México,22.340797,-62.99859,false,03104,Norteamérica,5362692,MX
+UB-0162,Cartago,Costa Rica,-48.842133,-25.325847,true,91088,Centroamérica,4871419,CR
+UB-0163,Miami,Estados Unidos,-46.140119,-24.937826,false,73720-5020,Norteamérica,1736231,US
+UB-0164,San José,Costa Rica,26.308166,-113.101355,false,89973,Centroamérica,991524,CR
+UB-0165,Colón,Panamá,-41.898718,-40.325052,false,05221-0485,Centroamérica,9544697,PA
+UB-0166,Medellín,Colombia,-0.145739,-62.618355,false,08360,Sudamérica,4090453,CO
+UB-0167,Cartago,Costa Rica,-13.496508,-81.903399,false,50150-2009,Centroamérica,4333671,CR
+UB-0168,Mixco,Guatemala,5.98498,-96.303657,false,61238,Centroamérica,7460995,GT
+UB-0169,La Ceiba,Honduras,31.582617,-16.452973,false,85531-7131,Centroamérica,7714433,HN
+UB-0170,Ciudad de Panamá,Panamá,21.800191,-104.00201,false,89442,Centroamérica,6448231,PA
+UB-0171,Abuja,Nigeria,-3.266926,28.903807,true,41841-3616,África,5003150,NG
+UB-0172,Mixco,Guatemala,-4.066388,-17.130076,false,20518-3757,Centroamérica,872825,GT
+UB-0173,Kano,Nigeria,-10.294544,15.623294,true,05475-9540,África,4851541,NG
+UB-0174,Chicago,Estados Unidos,-35.289591,-91.480202,false,49285,Norteamérica,4254819,US
+UB-0175,Bogotá,Colombia,3.170655,-73.660067,false,38169-7764,Sudamérica,7445785,CO
+UB-0176,Villa Nueva,Guatemala,-43.172937,16.444172,false,06865-9767,Centroamérica,5531437,GT
+UB-0177,San Salvador,El Salvador,15.786153,11.46909,false,96835,Centroamérica,6188070,SV
+UB-0178,Valencia,Venezuela,27.213828,4.570893,true,39354,Sudamérica,4361242,VE
+UB-0179,Alajuela,Costa Rica,-24.515627,-102.724544,false,66455-0916,Centroamérica,1313313,CR
+UB-0180,Medellín,Colombia,10.179504,26.991336,false,22131,Sudamérica,9400154,CO
+UB-0181,Tegucigalpa,Honduras,-53.747321,-39.514154,false,42739,Centroamérica,7680043,HN
+UB-0182,La Ceiba,Honduras,-31.405473,-62.846175,false,97134-7966,Centroamérica,6282293,HN
+UB-0183,Guadalajara,México,0.759218,21.47537,false,91084,Norteamérica,5553032,MX
+UB-0184,Lagos,Nigeria,3.288714,-24.689412,true,56436-8545,África,7839116,NG
+UB-0185,David,Panamá,-42.420069,21.93923,false,34400-9091,Centroamérica,5156390,PA
+UB-0186,San José,Costa Rica,24.853338,-99.650393,true,15616,Centroamérica,7660879,CR
+UB-0187,La Ceiba,Honduras,7.683559,-38.971126,false,94173-5040,Centroamérica,9903935,HN
+UB-0188,Barranquilla,Colombia,20.032377,-27.652168,false,94628-9313,Sudamérica,4743260,CO
+UB-0189,Escuintla,Guatemala,-14.977373,-84.583104,false,22137,Centroamérica,6134862,GT
+UB-0190,Monterrey,México,33.005828,-66.198924,false,48626,Norteamérica,6729674,MX
+UB-0191,Ciudad de Panamá,Panamá,30.410971,3.628662,false,39306-2300,Centroamérica,1588024,PA
+UB-0192,Chicago,Estados Unidos,-50.447934,-69.973627,false,55769,Norteamérica,2162652,US
+UB-0193,Lagos,Nigeria,-48.825086,-5.226394,true,09284,África,3525523,NG
+UB-0194,Lagos,Nigeria,18.174768,-85.050198,true,76855,África,2525548,NG
+UB-0195,Lagos,Nigeria,-30.045264,27.60422,true,75984,África,2230906,NG
+UB-0196,Maracaibo,Venezuela,16.866244,-103.511048,true,02634-0134,Sudamérica,482519,VE
+UB-0197,Bogotá,Colombia,15.958838,-31.672062,false,28547-7692,Sudamérica,314762,CO
+UB-0198,Cali,Colombia,11.754625,-41.087171,true,52841,Sudamérica,1116326,CO
+UB-0199,Alajuela,Costa Rica,-8.808584,-103.641898,false,34058,Centroamérica,8503010,CR
+UB-0200,Chicago,Estados Unidos,15.49043,10.047136,true,08176-1865,Norteamérica,8798499,US

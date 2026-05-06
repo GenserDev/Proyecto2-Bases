@@ -1,0 +1,301 @@
+comercioId,nombre,categoria,pais,calificacion,esConocido,telefonoContacto,horario,registrado,totalTransacciones
+CO-0001,Armendáriz S.C.,transferencia,Colombia,3.2,true,906-391-2697x06558,L-V 9-17|24/7,2022-06-09,10508
+CO-0002,Ibarra-Santiago y Asociados,farmacia,Venezuela,1.6,true,270.564.6224x85205,24/7|L-D 10-22,2020-03-08,47
+CO-0003,Club León-Prieto,joyeria,Colombia,4.5,true,+54(6)6447221289,L-D 10-22|L-S 9-21,2017-03-12,47251
+CO-0004,Hidalgo S.C.,farmacia,Venezuela,4.3,true,1-441-615-0212x99449,L-D 10-22,2021-02-27,36140
+CO-0005,Cintrón-Curiel,restaurante,Nigeria,2.1,true,664.237.1752x74912,24/7|L-V 8-18,2012-02-28,34288
+CO-0006,"Despacho Moya, Fonseca y Almanza",farmacia,Guatemala,4.3,true,02959467875,L-S 9-21,2010-09-14,13243
+CO-0007,Laboratorios Esquivel-Alba,farmacia,Costa Rica,1.8,true,(752)861-6367x244,L-D 10-22,2018-09-19,43117
+CO-0008,Altamirano S.C.,casino,Nigeria,2.0,true,(192)639-4856x71309,L-S 9-21|L-V 8-18,2010-04-18,13679
+CO-0009,Gollum-Vargas S.A.,casino,México,2.9,true,766-132-9217,24/7,2022-07-08,48724
+CO-0010,Corporacin de la O y Barraza,aerolinea,Honduras,4.2,true,+17(3)9753220507,L-D 10-22,2015-12-18,34669
+CO-0011,Colunga y Márquez S.A.,supermercado,México,4.3,true,052-968-2538x705,L-S 9-21,2021-08-26,6364
+CO-0012,Corporacin Ríos-Ruiz,farmacia,Estados Unidos,3.1,true,969.660.9682x49344,L-S 9-21,2021-10-20,43049
+CO-0013,Ochoa S. R.L. de C.V.,gasolinera,Nigeria,3.5,true,05858735394,L-D 10-22,2022-07-09,27209
+CO-0014,Olivares-Lucero S. R.L. de C.V.,farmacia,Nigeria,2.4,true,1-168-076-1977x400,L-V 9-17|L-V 8-18,2013-09-28,11822
+CO-0015,"Valadez, Caldera y Ávalos",joyeria,Honduras,3.6,true,030.037.6330,24/7|L-D 10-22,2022-05-04,21276
+CO-0016,Quintanilla-Meléndez,hotel,El Salvador,4.1,true,1-571-097-3019x87072,24/7|L-S 9-21,2022-08-19,35758
+CO-0017,Laboratorios Negrón-Carranza,gasolinera,El Salvador,4.1,true,07343151974,24/7|L-V 9-17,2020-01-14,26023
+CO-0018,"Proyectos Sánchez, Lozano y Aguilera",supermercado,Guatemala,4.9,true,015-823-1554,L-D 10-22,2013-01-11,19781
+CO-0019,"Carrasco, Madrid y Mesa",supermercado,Panamá,4.9,true,1-900-558-9957,24/7,2010-06-27,45201
+CO-0020,"Grupo Arreola, Beltrán y Ceballos",tienda_online,Venezuela,3.0,true,737-474-1998x43007,L-V 8-18,2010-11-06,30170
+CO-0021,Longoria-Suárez S. R.L. de C.V.,hotel,Colombia,1.6,true,04916958214,L-D 10-22|L-S 9-21,2015-03-24,16793
+CO-0022,Club Castañeda-Romo,tienda_online,México,3.3,true,142.864.0090,L-V 8-18,2017-04-13,31623
+CO-0023,Aguilar-Amaya,restaurante,Costa Rica,4.3,true,214-027-8148x780,L-D 10-22,2016-09-26,2449
+CO-0024,Reynoso-Roldán S. R.L. de C.V.,transferencia,El Salvador,1.3,true,759.146.2383,24/7,2017-10-21,28462
+CO-0025,Industrias Escamilla y Parra,aerolinea,México,4.5,true,1-822-393-3407x581,L-D 10-22,2010-04-04,41542
+CO-0026,Montañez-Fajardo,aerolinea,Guatemala,2.2,true,1-935-059-5266x0671,24/7,2022-02-10,37022
+CO-0027,Corporacin Barrera y Rivera,restaurante,Honduras,3.0,true,142.044.2302x14069,L-S 9-21,2011-02-18,44147
+CO-0028,Castro S. R.L. de C.V.,aerolinea,Costa Rica,4.0,true,1-403-567-6224x91958,L-S 9-21,2019-09-09,18991
+CO-0029,Grupo Suárez y Pelayo,aerolinea,Colombia,1.5,true,(825)905-4424x13243,L-V 9-17,2022-10-26,48844
+CO-0030,Grupo Niño-Serrato,supermercado,Venezuela,2.6,true,+02(2)8451359779,L-V 9-17,2021-04-03,28474
+CO-0031,Despacho Saldaña y de Jesús,restaurante,Colombia,2.9,true,(116)989-1410x298,L-V 9-17,2018-11-13,42745
+CO-0032,"Club Gamez, Medina y Nevárez",transferencia,Estados Unidos,3.2,true,02052761697,L-S 9-21,2011-08-10,17449
+CO-0033,Grupo Huerta-Leal,aerolinea,Honduras,3.7,true,648.206.6103,L-V 8-18,2019-04-12,27757
+CO-0034,Industrias Arriaga y Carmona,hotel,Honduras,1.8,true,08728978222,L-D 10-22|L-V 8-18,2016-11-02,11092
+CO-0035,"Grupo Tejeda, Godoy y Soto",hotel,Nigeria,4.3,true,692-125-3567x2450,L-D 10-22|L-S 9-21,2019-11-18,2941
+CO-0036,Laboratorios Véliz-Tijerina,gasolinera,Estados Unidos,3.7,true,778-938-1692x661,L-V 8-18,2012-07-09,48469
+CO-0037,"Club Lerma, Saavedra y Leiva",supermercado,Estados Unidos,4.8,true,1-924-570-2633x61755,24/7,2010-04-23,22496
+CO-0038,"Miramontes, Correa y Vanegas",farmacia,Panamá,2.8,true,04888628958,24/7,2014-09-09,48497
+CO-0039,"Olivares, Partida y Calderón",joyeria,Venezuela,3.1,false,(161)467-5493x0170,L-D 10-22|L-V 9-17,2013-03-03,45552
+CO-0040,Mares y Urrutia y Asociados,supermercado,El Salvador,3.3,true,869.485.3114x914,24/7,2013-10-27,3939
+CO-0041,Munguía S. R.L. de C.V.,tienda_online,Estados Unidos,4.2,true,065.056.8414x784,L-V 8-18|L-V 9-17,2010-03-10,4364
+CO-0042,"Benavídez, Balderas y Nava",aerolinea,Panamá,3.7,true,+72(4)6787187001,L-V 8-18|L-D 10-22,2016-07-24,42559
+CO-0043,Despacho Rodarte-Gómez,aerolinea,Estados Unidos,4.9,true,(106)939-0803x335,24/7,2020-11-14,39131
+CO-0044,Fajardo-Narváez S. R.L. de C.V.,joyeria,Estados Unidos,3.0,false,(630)743-7320x5333,L-D 10-22|L-V 8-18,2010-11-22,16213
+CO-0045,Ponce-Hernández A.C.,joyeria,Costa Rica,2.6,true,(158)669-1320,L-V 8-18,2017-10-11,44847
+CO-0046,"Jaramillo, Solorzano y Cazares",hotel,Honduras,3.5,true,(732)114-7953,L-D 10-22,2016-03-09,4063
+CO-0047,"Lebrón, Ramón y Cervantes",tienda_online,El Salvador,4.6,true,951-170-7375,L-D 10-22,2016-04-14,14783
+CO-0048,Hinojosa-Acosta S. R.L. de C.V.,restaurante,Honduras,4.6,true,568-245-5699x5699,L-V 8-18,2018-07-29,34125
+CO-0049,"Proyectos Melgar, Serrano y Navarrete",transferencia,Estados Unidos,2.7,true,428-961-2223x6940,L-V 9-17,2017-01-03,39673
+CO-0050,Jimínez A.C.,hotel,Costa Rica,3.2,true,1-123-679-5365,L-S 9-21,2022-02-21,44829
+CO-0051,"Casares, Flores y Huerta",gasolinera,Colombia,2.2,true,1-320-205-8309,L-V 9-17,2013-04-04,43006
+CO-0052,Porras-Muñiz y Asociados,transferencia,Colombia,2.3,true,1-243-137-7508x786,L-S 9-21,2017-02-14,9536
+CO-0053,"Hernández, Trejo y Cortés",supermercado,Honduras,4.5,true,1-295-799-1158x14473,L-V 9-17|24/7,2019-12-09,48864
+CO-0054,Zepeda y Quintanilla S.A. de C.V.,tienda_online,Colombia,4.1,true,+92(6)5034935509,L-S 9-21,2014-02-22,1716
+CO-0055,"Club Reyna, Prieto y Jaimes",transferencia,Nigeria,2.1,true,480.767.2755x832,L-D 10-22,2015-03-18,15133
+CO-0056,Alonso y Pelayo S.A. de C.V.,supermercado,Honduras,1.3,true,444.194.7599x38011,L-S 9-21|L-V 9-17,2018-05-22,12057
+CO-0057,de Jesús-Valadez,aerolinea,Costa Rica,2.9,true,396.234.8221x27916,L-S 9-21,2015-01-28,2112
+CO-0058,Laboratorios Mota-Lomeli,aerolinea,Guatemala,4.7,true,1-060-221-9805,L-S 9-21|L-D 10-22,2014-08-03,4334
+CO-0059,Club Henríquez-Muñoz,restaurante,Costa Rica,4.5,true,252-007-8196,24/7|L-V 9-17,2015-07-15,28020
+CO-0060,Roldán y Carrasco e Hijos,aerolinea,Guatemala,3.4,true,1-768-274-4712,24/7|L-V 9-17,2022-10-30,38915
+CO-0061,Trejo A.C.,joyeria,Guatemala,3.1,true,1-926-356-2441x7612,L-V 9-17|L-V 8-18,2015-07-06,33993
+CO-0062,Cintrón y Asociados,joyeria,Guatemala,3.2,true,(243)206-5337x25563,L-S 9-21,2016-07-13,28806
+CO-0063,Madera-Olivárez,aerolinea,Panamá,4.1,true,1-622-536-8260x14562,L-V 9-17|L-S 9-21,2019-06-23,19295
+CO-0064,Perales-Caldera y Asociados,transferencia,Guatemala,3.8,true,488-501-9893,L-V 9-17,2020-02-18,5927
+CO-0065,Hurtado y Roque S. R.L. de C.V.,joyeria,Nigeria,4.8,false,(670)337-7752x4113,L-V 9-17,2019-04-11,21198
+CO-0066,Cedillo y Serrato A.C.,casino,Costa Rica,3.4,false,(204)619-1462x943,L-V 9-17,2012-01-09,16389
+CO-0067,Alejandro-Espinosa,hotel,Colombia,3.9,true,(245)675-2330x4838,L-V 8-18,2012-07-24,46283
+CO-0068,"Carvajal, Sisneros y Bahena",casino,México,3.1,true,01900350965,L-D 10-22|L-S 9-21,2018-06-30,36067
+CO-0069,Batista-Enríquez S.A.,aerolinea,Guatemala,4.1,true,(142)055-9535,L-D 10-22|L-S 9-21,2013-08-21,9476
+CO-0070,Cisneros-Pulido,restaurante,Guatemala,2.7,true,948-026-7212,L-V 9-17|24/7,2014-01-20,7704
+CO-0071,"Despacho Barraza, Quiñones y Suárez",restaurante,Estados Unidos,1.0,true,(635)231-0456x730,L-V 8-18|L-V 9-17,2021-02-28,32679
+CO-0072,Escobedo y Santana S.A. de C.V.,joyeria,Nigeria,4.5,true,1-281-200-9919x263,L-S 9-21,2020-09-02,29736
+CO-0073,"Osorio, Juárez y Abreu",aerolinea,Costa Rica,1.3,true,09979611252,L-S 9-21,2022-04-11,18226
+CO-0074,"Industrias Quiñones, Suárez y Mora",transferencia,Venezuela,4.3,true,1-493-586-4481,L-V 8-18,2014-02-23,9716
+CO-0075,Hernádez y Samaniego S.A.,supermercado,Honduras,1.1,true,1-399-955-5955,L-D 10-22,2016-09-10,21699
+CO-0076,"Verduzco, Zarate y Cintrón",farmacia,Guatemala,1.4,true,(735)763-3928,L-S 9-21,2016-05-18,40048
+CO-0077,Grupo Villa y Villa,transferencia,Nigeria,4.1,true,(405)049-0410,L-V 9-17,2022-12-26,23605
+CO-0078,"Proyectos Torres, Concepción y Soliz",supermercado,México,4.1,true,438-611-8218x016,24/7|L-V 9-17,2011-07-09,49705
+CO-0079,Parra S. R.L. de C.V.,aerolinea,Venezuela,1.3,true,958-243-4147,L-S 9-21|L-V 8-18,2016-02-27,21575
+CO-0080,"Despacho Marroquín, Alvarado y Brito",joyeria,Estados Unidos,3.8,true,728.480.7006,L-V 8-18,2022-10-25,47823
+CO-0081,Grupo Razo-Cavazos,joyeria,Costa Rica,3.9,true,175.194.9794x34929,L-V 9-17|24/7,2015-10-29,34432
+CO-0082,Valladares S.A.,transferencia,Nigeria,2.4,true,352-072-7686x4537,L-D 10-22,2022-08-15,32531
+CO-0083,Díaz y Uribe S.A. de C.V.,joyeria,Costa Rica,3.0,true,(298)164-3688x1280,L-D 10-22,2015-03-22,46437
+CO-0084,Murillo y Coronado S.A. de C.V.,tienda_online,Estados Unidos,1.0,true,326.130.9312,L-V 9-17,2012-08-24,48330
+CO-0085,Proyectos Valverde-Leiva,gasolinera,Nigeria,5.0,true,+45(7)3877262898,L-V 8-18|24/7,2017-11-04,36727
+CO-0086,Grupo Balderas y Navarrete,gasolinera,Guatemala,3.6,true,+67(6)3921308345,24/7|L-V 8-18,2016-11-26,19679
+CO-0087,Menchaca S.A.,joyeria,Guatemala,1.5,true,326.977.9587x15646,24/7|L-V 9-17,2022-10-05,40369
+CO-0088,Ureña-Rubio S.A. de C.V.,supermercado,Colombia,1.8,true,+02(4)1199384686,L-V 9-17|L-D 10-22,2010-10-19,42313
+CO-0089,"Armendáriz, Menéndez y Mayorga",restaurante,Costa Rica,1.6,true,04944117727,L-D 10-22|24/7,2020-05-16,27128
+CO-0090,Briseño-Ceja e Hijos,supermercado,Venezuela,2.2,true,259-866-7749,L-D 10-22|L-V 8-18,2014-09-03,37840
+CO-0091,Laboratorios Riojas y Montes,hotel,Honduras,1.3,true,532-478-2617x184,24/7,2010-09-13,22226
+CO-0092,Rael y Asociados,aerolinea,Venezuela,4.4,true,(533)534-1196x4144,L-S 9-21|L-V 8-18,2016-11-30,46220
+CO-0093,Orosco-Toledo y Asociados,hotel,Guatemala,2.1,true,02866908675,L-V 9-17,2015-05-01,24352
+CO-0094,"Gamboa, Concepción y Tafoya",casino,Panamá,1.9,true,1-299-058-2157x9240,L-S 9-21|L-V 8-18,2018-05-24,2450
+CO-0095,Serrato-Sosa A.C.,gasolinera,México,2.8,true,05168360505,L-V 9-17,2021-03-20,10097
+CO-0096,Sandoval S. R.L. de C.V.,gasolinera,Honduras,4.7,true,607-797-5671x987,24/7|L-S 9-21,2012-03-15,33826
+CO-0097,"Mascareñas, Monroy y Avilés",restaurante,Estados Unidos,3.9,true,(927)816-7225,L-V 9-17|L-V 8-18,2010-02-03,20380
+CO-0098,Laboratorios Caldera-Venegas,supermercado,Nigeria,4.5,true,07245557406,L-V 9-17|L-V 8-18,2012-04-24,34116
+CO-0099,Paredes y Hurtado S. R.L. de C.V.,tienda_online,Guatemala,3.3,true,1-165-925-2561,L-S 9-21|24/7,2014-07-01,12618
+CO-0100,Valadez y Mares S.A. de C.V.,tienda_online,Panamá,3.1,true,010.884.1710x9773,L-V 8-18|24/7,2013-05-08,10321
+CO-0101,Despacho Ortega-Guajardo,tienda_online,México,1.1,true,260-622-9139,L-S 9-21,2022-03-03,22958
+CO-0102,Ballesteros-Ureña,joyeria,Colombia,4.8,true,1-867-415-0814x4256,L-D 10-22|L-S 9-21,2013-11-04,4668
+CO-0103,Corporacin Apodaca y Murillo,tienda_online,Nigeria,4.6,true,(134)191-5761x5125,L-V 8-18|L-S 9-21,2010-08-26,30850
+CO-0104,Despacho Cabán y Montenegro,supermercado,México,2.5,true,869-178-5500x0553,L-V 9-17,2018-10-16,11729
+CO-0105,Laboratorios Corona y Vigil,transferencia,Nigeria,3.5,true,(266)837-2471x02513,L-D 10-22|24/7,2017-01-03,21779
+CO-0106,Despacho Narváez-Ávila,gasolinera,Venezuela,1.3,true,03962702273,L-D 10-22|L-S 9-21,2012-02-01,45783
+CO-0107,Laboratorios Tamayo-Muñoz,casino,Panamá,3.7,false,434-506-6584x13217,L-V 9-17|L-S 9-21,2015-01-08,9418
+CO-0108,Industrias Sepúlveda-Roque,transferencia,Panamá,4.7,true,1-809-276-5497x214,L-S 9-21|24/7,2017-04-14,29706
+CO-0109,Benavídez-Acevedo S.C.,casino,Costa Rica,1.5,false,703-053-1990,L-V 9-17|L-S 9-21,2016-05-01,22846
+CO-0110,"Valenzuela, Mares y Cruz",transferencia,Nigeria,1.5,true,420.717.9194x748,L-V 9-17,2012-05-26,21356
+CO-0111,Lira y Gamez y Asociados,joyeria,Panamá,3.1,true,231-917-0174x96219,L-D 10-22|L-V 9-17,2015-05-09,40689
+CO-0112,"Montaño, Sotelo y Villegas",gasolinera,Venezuela,1.6,true,137.972.9259x96723,L-V 9-17|L-V 8-18,2017-08-23,13647
+CO-0113,Proyectos Muro-Tello,transferencia,El Salvador,4.1,true,+41(8)5492511629,L-D 10-22|24/7,2022-03-19,45490
+CO-0114,"Club Fuentes, Guevara y Gálvez",gasolinera,Colombia,3.7,true,1-803-185-5685x31124,L-D 10-22,2020-11-30,7492
+CO-0115,Prieto S. R.L. de C.V.,transferencia,Nigeria,2.9,true,03711382024,L-V 9-17,2013-12-14,20187
+CO-0116,Villaseñor S.A.,aerolinea,México,3.4,true,(684)183-6377x0189,24/7|L-V 9-17,2011-05-19,5933
+CO-0117,Proyectos Espinoza y Pichardo,gasolinera,Colombia,4.5,true,283-161-1027x9634,L-S 9-21,2013-05-07,29686
+CO-0118,"Muñiz, Cabán y Ceja",joyeria,Nigeria,3.3,false,(118)481-8150x0282,L-S 9-21,2017-02-06,19643
+CO-0119,"Grupo Páez, Zambrano y de la Garza",transferencia,Panamá,4.7,true,(098)692-8640,24/7|L-V 8-18,2010-03-08,40074
+CO-0120,"Industrias Almaraz, Zamudio y Bermúdez",joyeria,Colombia,4.4,true,+01(7)6677877416,24/7,2022-04-24,3481
+CO-0121,"Industrias Urbina, Reynoso y Briseño",supermercado,Venezuela,4.3,true,(957)081-0312,L-V 8-18|24/7,2010-09-13,15416
+CO-0122,Ybarra-Oquendo,aerolinea,Nigeria,2.6,true,(896)003-3273x455,L-V 9-17|L-D 10-22,2018-07-23,28520
+CO-0123,Montalvo-Santiago,joyeria,Colombia,2.9,false,04647517777,L-D 10-22,2018-08-17,23611
+CO-0124,Narváez S.A.,aerolinea,Colombia,2.2,true,431.772.5075x55369,L-S 9-21,2010-04-06,4701
+CO-0125,"Mireles, Elizondo y Escobar",supermercado,Colombia,3.9,true,(083)042-0689,L-V 9-17|L-S 9-21,2011-11-25,8992
+CO-0126,Solís y Asociados,aerolinea,Costa Rica,4.6,true,887.766.5876x8563,L-D 10-22|L-S 9-21,2020-03-11,33385
+CO-0127,Roldán e Hijos,aerolinea,Venezuela,4.3,true,551-454-4322x95832,24/7|L-S 9-21,2014-03-03,27837
+CO-0128,Menchaca y Zepeda S.C.,transferencia,Guatemala,3.3,true,1-391-925-0805x610,L-D 10-22,2016-01-15,26924
+CO-0129,López-Montoya S.A.,joyeria,Guatemala,4.9,true,396.345.8873,24/7|L-V 8-18,2020-10-19,45252
+CO-0130,Burgos y Castro S.A. de C.V.,farmacia,Colombia,3.9,true,570-556-4780,L-V 9-17|L-V 8-18,2021-09-27,39981
+CO-0131,"Prieto, Reséndez y Ceballos",farmacia,Estados Unidos,2.9,true,(318)028-5605,L-D 10-22,2023-01-01,20479
+CO-0132,"Grupo Mesa, Cotto y Olvera",transferencia,Guatemala,4.6,true,644-321-7551,L-V 9-17,2020-03-08,33597
+CO-0133,Madera-Lozano,casino,Honduras,2.7,true,532.311.0521,24/7|L-S 9-21,2010-10-17,45550
+CO-0134,"Club Palomino, Balderas y Prieto",transferencia,Panamá,3.9,true,275.727.8770x9489,L-V 8-18|L-V 9-17,2022-12-20,11080
+CO-0135,Guzmán y Collado A.C.,transferencia,Guatemala,3.6,true,353.289.2776,L-D 10-22|L-V 8-18,2016-06-07,31769
+CO-0136,"Laboratorios Olivas, Monroy y Polanco",farmacia,Colombia,3.0,true,04947914359,24/7|L-S 9-21,2016-04-20,18036
+CO-0137,"Duarte, Botello y Collado",tienda_online,Guatemala,4.0,true,838.207.0113,L-D 10-22,2013-05-23,43198
+CO-0138,"Soto, Cortés y Hinojosa",casino,Colombia,2.0,true,499.437.1621,L-V 9-17,2014-01-21,34562
+CO-0139,Mateo-Camarillo,supermercado,Honduras,4.9,true,097.175.5493x00323,L-D 10-22,2013-06-16,32502
+CO-0140,Escobedo-Guardado A.C.,aerolinea,El Salvador,2.0,true,1-368-380-7921,L-S 9-21|L-D 10-22,2022-12-16,48127
+CO-0141,Proyectos García-Soto,hotel,Guatemala,3.6,true,1-943-410-8046x6696,L-V 8-18,2013-10-04,30409
+CO-0142,Almonte-Henríquez,aerolinea,Costa Rica,2.2,true,169.470.7445x720,L-V 9-17,2018-10-01,31102
+CO-0143,Rascón-Mares,tienda_online,Colombia,3.1,true,177-164-4909x319,L-V 8-18|24/7,2020-01-25,25035
+CO-0144,Canales y Asociados,hotel,Venezuela,3.7,true,603.578.6180x5179,L-V 8-18,2021-12-01,41774
+CO-0145,"Ocampo, Osorio y Abrego",hotel,El Salvador,3.4,true,240.460.3256,24/7|L-D 10-22,2015-12-28,6440
+CO-0146,Berríos S.A. de C.V.,tienda_online,Nigeria,2.6,true,975.559.9522,L-D 10-22,2014-05-16,34075
+CO-0147,Casanova-Jaime,hotel,Colombia,2.3,true,031.987.7225x993,L-V 8-18,2011-07-11,783
+CO-0148,Parra S.A.,aerolinea,México,3.1,true,1-483-955-1667,24/7|L-S 9-21,2016-05-09,16508
+CO-0149,Regalado-de la Fuente,gasolinera,Guatemala,1.1,true,209-671-8473x174,L-V 8-18,2014-11-12,39281
+CO-0150,"Ojeda, Rubio y Colón",farmacia,México,1.3,true,621.322.0589x17344,L-V 9-17,2022-09-12,12108
+CO-0151,Grupo Palomo-Venegas,farmacia,Colombia,2.0,true,1-697-181-3800x957,L-V 8-18|L-V 9-17,2016-03-14,27982
+CO-0152,"Industrias Vásquez, Ornelas y Vela",hotel,Panamá,1.6,true,124.737.9803x1723,24/7,2011-05-27,25087
+CO-0153,Pedroza-Caraballo e Hijos,aerolinea,Honduras,5.0,true,(632)349-1724x37483,24/7|L-S 9-21,2019-11-19,4548
+CO-0154,Lara-Meraz e Hijos,casino,Estados Unidos,3.4,true,299-678-6942x110,L-V 9-17,2012-06-07,9428
+CO-0155,Proyectos Urbina y Arriaga,joyeria,Estados Unidos,3.5,true,197-830-7937x7798,L-V 9-17,2015-10-23,6769
+CO-0156,Olivo-Patiño,supermercado,México,1.3,true,944.948.8200x41696,L-V 9-17|L-V 8-18,2021-03-01,9755
+CO-0157,Alcántar-Romero e Hijos,supermercado,Guatemala,3.7,true,+00(9)2539463200,L-S 9-21|24/7,2018-10-11,37659
+CO-0158,Cavazos y Moreno e Hijos,supermercado,Venezuela,3.8,true,211-577-4909x18706,L-V 9-17|L-D 10-22,2019-01-22,47694
+CO-0159,Industrias Escobar y Cazares,farmacia,Venezuela,1.9,true,(688)745-8802x955,L-V 9-17|L-V 8-18,2022-09-21,35081
+CO-0160,"Grupo Núñez, Zamudio y Molina",hotel,Honduras,3.7,true,1-972-668-7532x9960,L-V 8-18|L-D 10-22,2018-03-12,35037
+CO-0161,Grupo Valladares y Cotto,hotel,México,4.4,true,1-524-254-0793x19552,L-S 9-21|L-D 10-22,2022-06-09,2577
+CO-0162,"Industrias Niño, Corral y Garza",aerolinea,Estados Unidos,2.2,true,1-871-959-9958x535,L-V 8-18|24/7,2020-11-29,5561
+CO-0163,Industrias Toledo y Porras,casino,Colombia,1.1,true,384.864.5342x0290,L-D 10-22,2015-05-08,32062
+CO-0164,Padilla S. R.L. de C.V.,aerolinea,México,4.2,true,112-257-0448x244,L-V 9-17|L-D 10-22,2010-05-15,2427
+CO-0165,Corporacin Holguín-Arredondo,hotel,Guatemala,2.4,true,1-228-007-0601x0648,L-V 9-17,2012-08-26,13872
+CO-0166,Laboratorios Trujillo-Prieto,joyeria,Venezuela,1.6,true,1-092-615-7272x6234,L-V 8-18,2010-10-30,48199
+CO-0167,Grupo Ureña-Ballesteros,restaurante,Costa Rica,3.6,true,+97(2)6747870821,L-D 10-22|L-V 8-18,2015-06-12,45960
+CO-0168,"Industrias Gastélum, Rodrígez y Lugo",restaurante,Guatemala,1.7,true,345.218.8952x3795,24/7,2012-03-08,29896
+CO-0169,Laboy-Cavazos A.C.,transferencia,Colombia,4.3,true,1-052-507-3129,L-V 8-18,2012-07-24,32580
+CO-0170,Jurado y Saldaña S.C.,transferencia,Nigeria,1.9,true,355-701-1100x1201,L-V 9-17,2017-07-26,48360
+CO-0171,Matías-Camacho e Hijos,aerolinea,Honduras,1.5,true,138-225-2783,24/7,2014-10-13,2987
+CO-0172,Proyectos Ocasio y Portillo,transferencia,Colombia,2.3,true,1-815-029-3027x738,24/7,2013-03-03,49646
+CO-0173,Orta-Godoy,aerolinea,Colombia,3.8,true,344-285-2102x80205,L-V 9-17,2015-06-19,38141
+CO-0174,Vela S.C.,supermercado,Colombia,1.4,true,+45(9)3650085380,L-S 9-21|L-V 8-18,2020-12-03,5290
+CO-0175,Peralta A.C.,supermercado,Guatemala,1.7,true,237.518.5642,L-D 10-22,2016-05-13,27277
+CO-0176,Despacho Arteaga y Méndez,casino,Estados Unidos,1.6,true,(831)905-9349x383,L-D 10-22|L-V 9-17,2019-03-30,15679
+CO-0177,"Aguirre, Castellanos y Calvillo",restaurante,Nigeria,3.8,true,1-435-586-6400,L-V 9-17,2011-12-23,41103
+CO-0178,Grupo Laureano y Quintanilla,tienda_online,Honduras,2.7,true,1-863-022-5870x5859,L-S 9-21,2012-08-20,34747
+CO-0179,Bueno y Yáñez S.A. de C.V.,farmacia,Nigeria,2.4,true,1-630-962-4005x5032,L-V 9-17,2014-09-01,18115
+CO-0180,"Puga, Negrón y Narváez",supermercado,Estados Unidos,1.5,true,02226942070,L-V 9-17,2021-02-27,11555
+CO-0181,Contreras-Cantú,restaurante,Guatemala,1.2,true,1-142-703-1968x188,24/7|L-S 9-21,2019-10-01,16474
+CO-0182,Laboratorios Ríos-Verdugo,hotel,Nigeria,4.2,true,1-188-181-4284x607,L-V 8-18|L-D 10-22,2011-03-06,35216
+CO-0183,Proyectos Lomeli y Toro,restaurante,Colombia,4.1,true,137-788-6211x5386,L-D 10-22|L-V 8-18,2011-08-04,15420
+CO-0184,Barajas S.A.,casino,Honduras,2.7,true,756-593-0144,L-S 9-21|L-V 8-18,2017-04-25,14927
+CO-0185,Cisneros-Salcido,farmacia,Estados Unidos,4.0,true,(260)395-9813x4558,L-V 9-17,2014-12-13,4818
+CO-0186,Cedillo y Elizondo A.C.,casino,Guatemala,4.6,true,1-961-894-7180,L-S 9-21,2020-03-16,11669
+CO-0187,Rojas y Asociados,aerolinea,Honduras,1.5,true,1-506-034-5936x623,24/7,2016-01-19,13252
+CO-0188,Club Rascón y Ayala,hotel,Colombia,1.1,true,(813)288-2664x532,24/7,2013-01-23,7281
+CO-0189,Segura S.C.,casino,Colombia,4.0,true,+81(8)6120319277,24/7,2013-07-08,41811
+CO-0190,Despacho Leyva-Posada,transferencia,Colombia,3.3,true,496.775.3002,L-V 8-18,2019-03-27,34194
+CO-0191,"Lemus, Regalado y Palomino",casino,Estados Unidos,3.4,true,394.966.9945,24/7|L-V 8-18,2019-08-09,48246
+CO-0192,Echeverría-Valverde S.A. de C.V.,gasolinera,Estados Unidos,2.3,true,266.879.8830,L-D 10-22,2013-05-05,37598
+CO-0193,Industrias Candelaria-Maldonado,supermercado,El Salvador,4.9,true,672-909-6426x0939,L-V 9-17,2021-04-23,2203
+CO-0194,"Salinas, Rosas y Dávila",aerolinea,Venezuela,2.6,true,553.390.8782,L-V 9-17,2021-02-09,15762
+CO-0195,"Delgado, Tirado y Almanza",farmacia,Venezuela,4.0,true,1-267-636-8202,L-S 9-21|L-D 10-22,2018-01-15,19384
+CO-0196,Riojas-Perales,gasolinera,México,1.1,true,994.551.4984x6250,L-S 9-21|L-V 9-17,2022-10-17,48974
+CO-0197,Club Zambrano-Laureano,transferencia,Guatemala,4.9,true,1-472-278-1238x1327,L-S 9-21|L-V 9-17,2014-02-24,24275
+CO-0198,Palacios-Gollum,casino,Guatemala,4.4,true,135.098.1637x000,L-V 9-17,2017-06-20,34794
+CO-0199,"Despacho Solorio, Olivas y Crespo",supermercado,Panamá,2.7,true,065.644.7269,L-D 10-22|L-S 9-21,2011-10-26,40662
+CO-0200,Vallejo-Acuña,hotel,Guatemala,3.1,true,085.327.8517x7453,L-V 8-18|L-D 10-22,2018-08-04,23959
+CO-0201,Báez-Terrazas,casino,Honduras,2.5,true,1-253-595-5385x09544,L-D 10-22,2014-08-05,9070
+CO-0202,"Villagómez, Zamora y Jaime",hotel,Estados Unidos,3.2,true,+00(2)1687916164,L-D 10-22|L-S 9-21,2015-01-21,21001
+CO-0203,"Manzanares, Esquivel y Maldonado",hotel,Panamá,3.0,true,493.737.3763x496,24/7|L-V 8-18,2011-06-04,24432
+CO-0204,Laboratorios Narváez y Olmos,hotel,Costa Rica,2.9,true,(903)231-2081x6672,L-V 9-17,2021-12-06,44453
+CO-0205,Club Loera y Elizondo,joyeria,Costa Rica,3.5,true,492.419.2560x380,L-S 9-21,2020-04-08,5721
+CO-0206,Despacho Robles y Jaime,farmacia,El Salvador,4.6,true,445-549-9441,L-V 8-18|L-D 10-22,2013-09-11,18084
+CO-0207,Acuña y Vargas A.C.,farmacia,Colombia,3.0,true,(184)320-8043x4071,L-D 10-22,2010-07-05,19213
+CO-0208,Montañez y Villaseñor S.C.,aerolinea,Venezuela,4.7,true,221-363-4539x21922,24/7|L-V 9-17,2019-12-16,48346
+CO-0209,Correa-Ortega,supermercado,Panamá,1.8,true,1-921-262-8879,L-S 9-21,2021-08-27,42249
+CO-0210,Proyectos Pedraza y Lugo,hotel,El Salvador,3.3,true,818.137.4354x4596,L-V 9-17|L-D 10-22,2020-04-09,19928
+CO-0211,Corporacin Mata-Cedillo,transferencia,Colombia,4.6,true,324.038.2710,L-S 9-21|24/7,2015-02-01,31735
+CO-0212,Fajardo-Valladares,hotel,Panamá,4.1,true,495-420-9009x1183,L-S 9-21,2017-12-02,18637
+CO-0213,Briseño y Regalado y Asociados,casino,Nigeria,4.7,true,255.652.4165x038,L-S 9-21|L-D 10-22,2013-06-11,10567
+CO-0214,Club Ulloa y de León,gasolinera,México,1.2,true,(075)634-2143x748,L-D 10-22|L-S 9-21,2019-11-21,17066
+CO-0215,"Roldán, Tórrez y Tórrez",hotel,Colombia,1.8,true,(399)330-4560,24/7,2017-09-17,9695
+CO-0216,Arriaga y Véliz S.A. de C.V.,hotel,Costa Rica,3.2,true,243.094.9985x065,L-D 10-22,2016-10-06,7961
+CO-0217,Hinojosa y Robledo y Asociados,supermercado,El Salvador,4.7,true,200.308.7318,L-V 9-17,2017-03-08,10227
+CO-0218,Corporacin Zaragoza y Solano,supermercado,Venezuela,4.9,true,(328)721-7177,24/7|L-V 9-17,2016-07-02,49424
+CO-0219,Zapata-Barraza S.A.,transferencia,Colombia,4.2,true,(929)105-6195x7351,24/7|L-V 8-18,2020-09-28,2626
+CO-0220,Márquez y Briones S. R.L. de C.V.,restaurante,Venezuela,1.5,true,044.893.1174,L-V 9-17,2014-12-11,29227
+CO-0221,Laboratorios Chacón y Valentín,hotel,México,2.3,true,+26(6)2518954410,L-D 10-22,2021-10-22,14558
+CO-0222,Ornelas-Valles S.A. de C.V.,tienda_online,Estados Unidos,1.1,true,239.596.1225x924,L-V 8-18|L-V 9-17,2014-05-12,32143
+CO-0223,Sierra-Vázquez S.C.,hotel,Nigeria,3.4,true,+95(1)1818638154,24/7,2018-12-01,9695
+CO-0224,Laboratorios Sandoval-Almonte,aerolinea,Honduras,2.5,true,987.133.0713x54918,24/7,2017-09-26,23026
+CO-0225,Laboratorios Jaime-Longoria,tienda_online,Costa Rica,4.5,true,656.730.1004x013,L-S 9-21,2019-12-19,48596
+CO-0226,Amaya-Galindo,aerolinea,Costa Rica,2.2,true,(137)304-6100,L-V 9-17|L-S 9-21,2011-12-07,9413
+CO-0227,Niño-Espinal A.C.,gasolinera,Panamá,2.9,true,485-263-1548x7855,L-V 8-18|L-V 9-17,2011-12-26,433
+CO-0228,Haro-Manzanares y Asociados,aerolinea,Panamá,2.7,true,799.071.1629x7814,L-D 10-22|L-S 9-21,2014-06-21,12190
+CO-0229,Maestas-Ortiz,aerolinea,Panamá,3.2,true,(916)651-8162x73659,24/7,2016-10-25,32381
+CO-0230,"Despacho Escobar, Guardado y Ocampo",joyeria,Estados Unidos,1.1,true,944.080.7097,L-S 9-21,2015-11-22,19671
+CO-0231,Acevedo y Verduzco S. R.L. de C.V.,casino,Panamá,2.7,false,+59(1)8715703295,L-S 9-21|L-V 8-18,2012-09-04,18167
+CO-0232,Lucio-Pulido,casino,México,3.4,true,342-992-3625x293,L-D 10-22|L-V 9-17,2022-09-08,28578
+CO-0233,Club Mendoza y Zavala,tienda_online,Costa Rica,4.9,true,535.847.1708,24/7,2021-06-30,48035
+CO-0234,Orellana-Urías S.C.,transferencia,Guatemala,4.4,true,07021566109,L-D 10-22,2011-04-25,9577
+CO-0235,"Club Pizarro, Ávalos y Delgado",hotel,Costa Rica,4.5,true,817-342-1831x05273,24/7,2013-08-30,3466
+CO-0236,Despacho Sosa-Cabán,tienda_online,Honduras,2.7,true,1-369-027-4005,L-V 8-18|24/7,2016-07-17,34708
+CO-0237,"Ferrer, Heredia y Fierro",farmacia,Venezuela,1.8,true,881.678.0013x405,L-V 8-18,2013-10-01,35632
+CO-0238,Urbina A.C.,hotel,Honduras,4.3,true,411-042-1212,24/7|L-D 10-22,2012-02-25,35023
+CO-0239,Tapia-Sarabia S. R.L. de C.V.,transferencia,Honduras,4.3,true,233-933-6818x86544,L-S 9-21,2021-08-15,18442
+CO-0240,Palomo e Hijos,hotel,Costa Rica,2.6,true,1-642-780-4775,L-V 8-18,2014-11-20,10128
+CO-0241,Naranjo A.C.,joyeria,Estados Unidos,4.2,false,(578)419-0941x225,L-V 9-17,2020-04-30,5006
+CO-0242,Industrias Rodríguez y Peres,farmacia,Colombia,4.7,true,04799775240,24/7|L-D 10-22,2018-02-18,9110
+CO-0243,Proyectos Garica y Acevedo,casino,Nigeria,3.1,true,1-411-475-1791,L-S 9-21|24/7,2010-08-24,48788
+CO-0244,Corona-Valencia,farmacia,Estados Unidos,1.5,true,1-845-464-4183,L-S 9-21,2016-11-23,8214
+CO-0245,Rivera y Gracia S. R.L. de C.V.,gasolinera,Colombia,4.9,true,1-040-241-0759x59625,L-V 8-18|L-D 10-22,2010-06-04,31736
+CO-0246,Jiménez-Romo,aerolinea,Guatemala,1.8,true,1-585-787-1419,L-D 10-22,2011-05-01,30741
+CO-0247,Jáquez-Robledo A.C.,farmacia,Panamá,1.2,true,06208878781,L-V 8-18|L-D 10-22,2012-10-11,39439
+CO-0248,"Aguilera, Anguiano y Paredes",gasolinera,Nigeria,4.6,true,453-713-8885,24/7,2010-08-28,5949
+CO-0249,Aguilera y Arteaga S.C.,restaurante,Panamá,4.8,true,214.271.1578x3572,24/7|L-S 9-21,2021-03-25,47746
+CO-0250,Bahena S.A. de C.V.,transferencia,Estados Unidos,3.0,true,480.204.2459x691,L-V 8-18,2022-12-20,916
+CO-0251,Soria y Zamora A.C.,joyeria,Estados Unidos,4.9,false,(428)907-9474x24474,L-D 10-22,2010-02-05,47536
+CO-0252,Anaya y Mendoza S.C.,farmacia,Estados Unidos,4.7,true,1-776-452-2061x693,24/7|L-S 9-21,2019-11-11,44140
+CO-0253,Berríos-Acevedo y Asociados,farmacia,Colombia,4.3,true,191-529-7967x1900,L-V 9-17|L-S 9-21,2021-07-14,14912
+CO-0254,Grupo Velasco-Mercado,aerolinea,México,4.0,true,(149)309-8602x102,L-V 8-18|L-V 9-17,2012-06-22,34060
+CO-0255,Barreto-Puente,restaurante,Costa Rica,4.0,true,350.895.9022x29396,L-D 10-22|L-V 8-18,2011-11-05,21503
+CO-0256,Godoy-Navarrete,casino,Panamá,2.8,false,323-936-2182x75101,L-V 9-17|L-S 9-21,2022-06-04,26691
+CO-0257,Despacho Macías-Marroquín,tienda_online,El Salvador,1.8,true,1-565-577-3640x4432,L-V 9-17,2018-03-30,11750
+CO-0258,Díaz y León S. R.L. de C.V.,supermercado,Costa Rica,3.7,true,(210)064-4960x81923,L-V 9-17|L-V 8-18,2012-09-03,9395
+CO-0259,"Grupo Cornejo, Casanova y Meraz",aerolinea,El Salvador,3.8,true,630.395.7757x74419,L-S 9-21,2011-06-15,23836
+CO-0260,Despacho Bueno-Flores,gasolinera,Honduras,1.8,true,(332)153-0912x847,L-V 8-18|L-S 9-21,2019-07-12,47526
+CO-0261,Despacho Ruiz-Viera,casino,Nigeria,3.4,false,230.797.4397x6989,24/7|L-V 9-17,2019-01-27,31754
+CO-0262,Gollum S.A. de C.V.,joyeria,Costa Rica,1.4,false,(584)749-6648,L-V 9-17|L-D 10-22,2015-03-06,41180
+CO-0263,Grupo Piña y Fierro,restaurante,Guatemala,1.4,true,563.718.1738x632,L-V 8-18,2021-03-04,44440
+CO-0264,Henríquez-Lugo,supermercado,Colombia,2.5,true,04380028025,L-S 9-21|24/7,2012-02-29,49818
+CO-0265,Proyectos Navarro y Gamboa,farmacia,Venezuela,4.1,true,952.047.1002,L-S 9-21|24/7,2021-03-02,32129
+CO-0266,Soliz-Juárez S. R.L. de C.V.,joyeria,Honduras,4.2,false,(645)729-0393x25506,L-V 8-18,2019-08-27,7807
+CO-0267,"Castillo, Rangel y Badillo",aerolinea,Costa Rica,2.3,true,(255)476-4137x4424,L-V 9-17|L-D 10-22,2010-10-22,2153
+CO-0268,Guerra y Cano y Asociados,restaurante,Venezuela,3.6,true,598-587-6622,L-S 9-21|L-V 9-17,2019-08-30,8813
+CO-0269,Laboratorios Matos y Aguayo,tienda_online,El Salvador,2.9,true,1-742-108-4806x527,L-D 10-22,2021-01-01,43258
+CO-0270,Industrias Villanueva-Chacón,joyeria,Nigeria,2.9,true,137.066.9958,L-D 10-22,2011-04-02,25649
+CO-0271,Montañez y Asociados,tienda_online,Costa Rica,3.4,true,534-700-8801,L-D 10-22|24/7,2016-05-19,21003
+CO-0272,Industrias Mares y de León,supermercado,Guatemala,3.4,true,840-166-8465,24/7,2017-10-28,48631
+CO-0273,Gollum-Bañuelos,transferencia,Guatemala,4.1,true,(488)040-7043x31991,L-V 9-17|L-V 8-18,2019-08-09,22619
+CO-0274,Segovia-Escamilla S.A.,hotel,El Salvador,2.4,true,+64(5)4189172798,L-S 9-21,2015-04-07,42472
+CO-0275,Industrias Vaca-Rendón,tienda_online,Nigeria,1.3,true,063.110.1518x54756,24/7,2012-07-26,22124
+CO-0276,Brito y Loera A.C.,restaurante,Guatemala,3.2,true,470-228-3889,L-V 9-17,2019-06-23,37227
+CO-0277,"Despacho Aguayo, Vallejo y Linares",joyeria,Panamá,1.1,true,1-905-482-5129x319,L-D 10-22|L-V 8-18,2017-02-05,24755
+CO-0278,Industrias Mejía-Armendáriz,transferencia,El Salvador,2.3,true,06722054970,L-V 9-17,2012-03-30,45276
+CO-0279,"Despacho Arreola, Lucero y Camacho",gasolinera,Honduras,3.0,true,02197042049,L-S 9-21|24/7,2018-02-24,28573
+CO-0280,Despacho Escalante y Arenas,gasolinera,Costa Rica,3.5,true,818-122-7241x2307,L-D 10-22,2014-10-20,18832
+CO-0281,"Club Tamez, Espinosa y Mayorga",tienda_online,Guatemala,2.2,true,741-739-5501,L-S 9-21|L-V 8-18,2022-12-20,6208
+CO-0282,Gurule-Ávalos S.C.,transferencia,Honduras,2.1,true,265.783.0496x807,L-V 9-17|L-S 9-21,2017-10-16,5024
+CO-0283,"Laboratorios Negrete, Luevano y Tapia",tienda_online,Venezuela,4.2,true,1-378-054-0247x96728,L-D 10-22|24/7,2014-06-28,27152
+CO-0284,Arce-Granados,aerolinea,Panamá,3.5,true,04255603890,L-D 10-22|L-S 9-21,2010-06-02,41146
+CO-0285,Toro-de Anda,joyeria,Nigeria,3.0,true,1-637-333-9430,24/7|L-V 9-17,2022-09-12,47619
+CO-0286,"Ulibarri, Jimínez y Raya",supermercado,Venezuela,1.8,true,690.854.4198x9452,L-S 9-21|L-D 10-22,2013-05-17,48918
+CO-0287,"Despacho Leal, Castañeda y Véliz",tienda_online,El Salvador,2.6,true,974-875-6834x2196,L-S 9-21,2019-04-02,17493
+CO-0288,"Club Galindo, Mondragón y Ordóñez",tienda_online,Colombia,2.0,true,+73(5)8580396352,L-V 9-17,2015-05-08,7442
+CO-0289,Corporacin Ferrer y Marín,restaurante,Estados Unidos,1.1,true,01129830151,L-V 9-17|L-D 10-22,2022-07-23,28582
+CO-0290,Proyectos Cardenas-Ballesteros,aerolinea,Guatemala,1.8,true,441-593-2814x0352,L-S 9-21|L-V 8-18,2015-10-18,18204
+CO-0291,"Rosario, Matos y Roldán",joyeria,Guatemala,4.9,false,248-128-1915x1694,L-V 8-18|L-D 10-22,2011-11-19,20572
+CO-0292,"Juárez, Madera y Menéndez",transferencia,Panamá,4.5,true,(030)697-6388,24/7|L-V 8-18,2018-11-26,47463
+CO-0293,Industrias Ibarra y Mena,restaurante,Estados Unidos,1.4,true,+50(4)6426559125,L-D 10-22,2021-10-12,16502
+CO-0294,"Proyectos Mota, Lira y Manzanares",casino,Estados Unidos,3.4,true,523-431-3014,24/7|L-V 9-17,2015-04-17,27713
+CO-0295,Rico y Asociados,gasolinera,Colombia,1.4,true,(149)432-3159,24/7,2019-11-10,26763
+CO-0296,"Club Tórrez, Mojica y Jaramillo",tienda_online,Nigeria,1.2,true,369-269-8393,L-V 8-18|24/7,2022-03-29,27772
+CO-0297,Club Alarcón-Aguilar,casino,Panamá,4.5,true,+48(5)3099059306,24/7,2020-08-29,46902
+CO-0298,"Industrias Abrego, Sanches y Mota",hotel,Panamá,1.1,true,1-790-221-4446x25328,L-V 8-18,2015-05-18,16579
+CO-0299,Laboratorios Farías-Carvajal,joyeria,Honduras,4.6,true,01301132101,L-D 10-22,2015-04-21,28993
+CO-0300,Rojas S.A. de C.V.,aerolinea,Guatemala,4.6,true,+06(1)4469000122,24/7|L-D 10-22,2012-01-10,49588

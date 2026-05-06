@@ -1,0 +1,6 @@
+transaccionId,monto,fecha,descripcion,estado,esSospechosa,canal,moneda,categoriaGasto,horaLocal
+TX-D0001,250.00,2024-03-10,Compra supermercado,aprobada,false,POS,GTQ,alimentacion,14
+TX-D0002,48500.00,2024-03-10,Transferencia internacional,aprobada,false,transferencia,USD,transferencia,2
+TX-D0003,125.50,2024-04-22,Farmacia central,aprobada,false,app_movil,GTQ,salud,10
+TX-D0004,35000.00,2024-04-22,Retiro ATM,aprobada,false,ATM,GTQ,retiro_efectivo,3
+TX-D0005,890.00,2024-05-01,Restaurante zona viva,aprobada,false,POS,GTQ,alimentacion,21

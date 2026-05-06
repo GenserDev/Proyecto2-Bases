@@ -1,0 +1,401 @@
+dispositivoId,tipo,sistemaOperativo,ip,ultimoUso,confiable,marcaModelo,versionApp,usuariosAsociados,ubicacionesRegistradas
+DV-0001,tablet,Android 13,133.51.168.135,2023-03-04,true,HP EliteBook,2.6.13,1,Lagos|Los Angeles
+DV-0002,movil,Windows 11,106.69.42.65,2024-09-14,false,iPhone 14,2.1.4,3,Santa Ana|Cancún|Mixco
+DV-0003,desktop,Linux,181.121.0.129,2024-06-27,true,Xiaomi Redmi,2.7.13,1,Abuja|San José|Maracaibo
+DV-0004,movil,macOS 14,72.35.114.67,2024-04-07,true,iPhone 14,2.6.10,2,Tijuana|San Pedro Sula
+DV-0005,desktop,Windows 11,164.206.139.157,2024-11-12,false,Xiaomi Redmi,2.5.4,4,Cancún
+DV-0006,movil,macOS 14,195.90.82.56,2023-04-09,true,iPad Pro,2.5.4,1,Mixco|David|Escuintla
+DV-0007,desktop,macOS 14,44.133.98.254,2023-02-22,false,Xiaomi Redmi,2.9.9,3,Chicago
+DV-0008,movil,macOS 14,108.154.165.148,2023-08-18,true,Samsung Galaxy S23,2.5.11,1,Chicago|Tegucigalpa
+DV-0009,tablet,Linux,104.53.89.114,2024-09-20,true,iPad Pro,2.8.0,2,Valencia
+DV-0010,desktop,Windows 11,104.179.207.184,2023-12-26,true,Samsung Galaxy S23,2.2.4,2,Colón
+DV-0011,movil,Android 13,4.178.215.10,2024-06-27,true,iPhone 14,2.6.13,2,David|Valencia
+DV-0012,desktop,Linux,12.40.66.202,2024-09-02,true,Samsung Galaxy S23,2.0.4,1,San Salvador|Bogotá|Cancún
+DV-0013,tablet,macOS 14,171.80.103.65,2024-05-12,true,Dell XPS,2.7.13,2,Cartago
+DV-0014,desktop,macOS 14,178.179.20.64,2023-04-24,true,Xiaomi Redmi,2.9.15,2,Tegucigalpa
+DV-0015,tablet,Android 13,96.100.4.2,2023-01-08,true,iPhone 14,2.4.6,1,San Miguel|David
+DV-0016,desktop,macOS 14,72.218.97.187,2023-06-29,false,iPhone 14,2.6.7,5,Escuintla|Valencia|Santa Ana
+DV-0017,tablet,Android 13,218.233.34.247,2024-03-22,true,Samsung Galaxy S23,2.7.2,2,Cali|Chicago|Miami
+DV-0018,desktop,Windows 11,137.153.158.63,2023-04-28,true,HP EliteBook,2.0.10,1,San José|Houston|Valencia
+DV-0019,movil,iOS 16,92.237.213.35,2024-03-22,false,Dell XPS,2.6.2,4,Cali|David
+DV-0020,movil,Android 13,121.116.240.68,2024-06-06,true,iPad Pro,2.1.6,2,San Pedro Sula|San José
+DV-0021,movil,Android 13,156.201.151.72,2023-05-30,true,Xiaomi Redmi,2.3.5,1,Santa Ana|Valencia|Maracaibo
+DV-0022,desktop,Linux,91.54.250.35,2024-08-16,true,HP EliteBook,2.9.10,2,Los Angeles
+DV-0023,desktop,Windows 11,132.205.76.104,2023-10-09,false,Dell XPS,2.0.11,5,David
+DV-0024,movil,Android 13,156.198.55.33,2024-01-13,true,Xiaomi Redmi,2.1.2,2,Cancún|Mixco
+DV-0025,tablet,Android 13,119.213.42.177,2024-04-05,true,Dell XPS,2.3.10,2,Colón|San Salvador|Los Angeles
+DV-0026,desktop,Android 13,189.70.235.91,2024-05-31,false,iPad Pro,2.2.1,2,Los Angeles|Houston|San José
+DV-0027,desktop,Windows 11,116.147.87.79,2024-02-01,true,HP EliteBook,2.5.1,2,David
+DV-0028,tablet,macOS 14,159.180.235.224,2023-10-18,false,Xiaomi Redmi,2.9.4,3,Cancún
+DV-0029,desktop,Windows 11,159.234.34.106,2024-11-02,true,iPad Pro,2.6.4,1,Mixco|Ciudad de Guatemala
+DV-0030,desktop,iOS 16,215.0.120.70,2024-11-17,true,iPad Pro,2.8.2,2,Valencia|Caracas|David
+DV-0031,movil,Windows 11,88.59.90.151,2024-05-12,true,iPhone 14,2.3.4,1,San Miguel
+DV-0032,movil,Linux,67.222.242.83,2024-07-06,true,iPad Pro,2.8.1,2,Los Angeles|Ciudad de Guatemala|Ciudad de Guatemala
+DV-0033,movil,Linux,203.85.142.110,2023-06-19,true,iPad Pro,2.7.1,2,Bogotá|San Pedro Sula
+DV-0034,desktop,Linux,26.32.184.129,2023-10-19,true,iPad Pro,2.7.7,1,Chicago|Caracas
+DV-0035,tablet,macOS 14,49.149.54.56,2024-04-17,true,Xiaomi Redmi,2.6.13,1,Ciudad de Guatemala
+DV-0036,desktop,Android 13,102.121.27.137,2024-10-18,false,HP EliteBook,2.5.3,5,San Miguel
+DV-0037,movil,Windows 11,173.127.38.20,2024-04-05,false,Dell XPS,2.2.13,1,Los Angeles
+DV-0038,movil,macOS 14,41.43.238.121,2023-02-24,true,HP EliteBook,2.8.11,1,Cancún|Valencia
+DV-0039,desktop,Android 13,147.63.96.245,2024-10-27,true,Xiaomi Redmi,2.2.4,1,Chicago|Houston
+DV-0040,tablet,macOS 14,156.146.217.160,2024-04-04,true,Dell XPS,2.0.2,1,Miami|Colón
+DV-0041,tablet,Linux,80.225.150.112,2024-06-24,true,HP EliteBook,2.1.9,1,Abuja|San Salvador
+DV-0042,tablet,Linux,2.126.191.111,2024-04-13,true,Samsung Galaxy S23,2.1.15,1,Chicago|Chicago|Cali
+DV-0043,desktop,macOS 14,76.96.217.192,2023-01-02,true,Dell XPS,2.5.7,2,Escuintla
+DV-0044,tablet,Windows 11,150.179.160.230,2023-03-11,true,Dell XPS,2.8.0,2,New York|Santa Ana
+DV-0045,desktop,Windows 11,26.184.25.81,2023-01-17,true,Xiaomi Redmi,2.1.11,1,Escuintla|Santa Ana|Cartago
+DV-0046,tablet,Windows 11,15.89.134.37,2023-05-17,true,Samsung Galaxy S23,2.5.10,1,San José|Houston|Chicago
+DV-0047,movil,Android 13,38.80.138.89,2024-04-13,true,Samsung Galaxy S23,2.4.6,1,New York
+DV-0048,desktop,Linux,13.182.51.61,2024-02-12,true,Dell XPS,2.7.8,1,Caracas|San Miguel|Valencia
+DV-0049,movil,Windows 11,86.130.211.131,2023-10-07,true,Samsung Galaxy S23,2.5.13,2,Los Angeles|Ciudad de Guatemala|David
+DV-0050,desktop,macOS 14,205.184.134.140,2024-01-12,true,Dell XPS,2.4.2,2,Cali
+DV-0051,movil,Linux,183.47.28.160,2023-10-28,true,Xiaomi Redmi,2.1.2,2,San Miguel|David|Los Angeles
+DV-0052,desktop,iOS 16,88.243.214.112,2024-12-07,true,HP EliteBook,2.5.14,1,Valencia|San José|Cali
+DV-0053,movil,Android 13,170.168.90.21,2024-11-18,true,iPad Pro,2.6.11,1,Colón
+DV-0054,tablet,macOS 14,21.113.37.223,2023-02-05,true,iPhone 14,2.1.7,2,Ciudad de Guatemala|Chicago
+DV-0055,movil,macOS 14,219.90.249.152,2024-01-15,false,Xiaomi Redmi,2.7.2,5,Houston
+DV-0056,desktop,Windows 11,71.255.178.11,2023-09-13,true,Samsung Galaxy S23,2.0.5,2,Ciudad de Guatemala|Mixco|Abuja
+DV-0057,desktop,macOS 14,149.233.10.137,2023-08-08,true,Dell XPS,2.4.15,1,Los Angeles
+DV-0058,desktop,iOS 16,3.20.75.72,2024-12-31,true,HP EliteBook,2.1.10,2,Santa Ana|Mixco|San Pedro Sula
+DV-0059,desktop,iOS 16,54.26.148.42,2024-12-29,true,iPad Pro,2.2.11,1,Caracas
+DV-0060,movil,macOS 14,44.39.151.67,2023-01-27,true,Xiaomi Redmi,2.8.11,2,Los Angeles|San José|Cancún
+DV-0061,desktop,macOS 14,113.97.229.80,2024-06-22,false,HP EliteBook,2.6.2,2,San José|Santa Ana
+DV-0062,tablet,Linux,133.211.107.66,2023-12-19,true,iPhone 14,2.8.5,1,Chicago|San Salvador
+DV-0063,tablet,iOS 16,212.187.10.75,2023-11-08,true,iPhone 14,2.2.10,1,Houston|San Miguel
+DV-0064,desktop,iOS 16,222.179.137.19,2024-10-12,true,Dell XPS,2.4.4,2,San Pedro Sula|Cancún|Chicago
+DV-0065,tablet,Linux,142.98.65.89,2023-06-07,true,iPhone 14,2.9.10,1,Cancún
+DV-0066,tablet,Linux,168.65.27.245,2023-09-29,false,iPad Pro,2.3.13,5,Caracas|Ciudad de México|Santa Ana
+DV-0067,tablet,Windows 11,198.190.220.147,2024-05-09,true,iPhone 14,2.6.9,2,Houston
+DV-0068,desktop,macOS 14,96.114.62.159,2024-05-10,false,HP EliteBook,2.3.10,5,David
+DV-0069,desktop,Windows 11,34.118.127.165,2024-02-13,true,iPhone 14,2.5.3,2,San José
+DV-0070,desktop,iOS 16,140.101.248.4,2023-05-25,false,Samsung Galaxy S23,2.0.9,4,Tijuana|Cali|David
+DV-0071,tablet,Windows 11,132.25.245.112,2023-07-14,true,iPhone 14,2.7.14,2,Ciudad de México|Caracas
+DV-0072,desktop,Linux,49.229.126.225,2024-04-13,false,iPhone 14,2.3.11,1,San Miguel
+DV-0073,tablet,macOS 14,166.151.162.186,2023-10-20,true,Dell XPS,2.0.3,2,San Miguel
+DV-0074,desktop,Windows 11,184.65.246.251,2023-02-16,true,HP EliteBook,2.0.6,2,San Miguel|Santa Ana|Ciudad de Guatemala
+DV-0075,tablet,Windows 11,148.200.95.39,2024-09-30,true,iPad Pro,2.9.3,1,Miami
+DV-0076,desktop,Linux,126.178.206.218,2024-01-10,true,iPhone 14,2.3.12,1,New York
+DV-0077,desktop,macOS 14,208.173.76.8,2024-06-15,false,HP EliteBook,2.2.4,3,David|David|Miami
+DV-0078,tablet,Windows 11,89.91.0.226,2024-08-30,true,Xiaomi Redmi,2.8.15,2,Caracas|Valencia
+DV-0079,movil,macOS 14,168.233.94.175,2024-08-20,true,Xiaomi Redmi,2.0.15,2,Maracaibo|Cancún|Chicago
+DV-0080,movil,Linux,110.51.75.19,2024-05-06,true,iPhone 14,2.8.12,1,Cali|New York|Chicago
+DV-0081,movil,iOS 16,172.113.186.150,2023-01-20,true,HP EliteBook,2.5.13,1,Houston|Miami
+DV-0082,tablet,macOS 14,119.48.23.149,2023-03-05,true,iPad Pro,2.2.6,2,Chicago|Houston|Ciudad de Guatemala
+DV-0083,movil,macOS 14,209.6.172.144,2024-06-29,true,Xiaomi Redmi,2.8.11,2,Chicago|Caracas|Cali
+DV-0084,desktop,iOS 16,30.200.221.64,2023-11-01,true,Xiaomi Redmi,2.3.15,2,Valencia|Mixco
+DV-0085,tablet,Windows 11,40.192.139.184,2023-10-22,true,Samsung Galaxy S23,2.9.12,2,Maracaibo|Colón
+DV-0086,desktop,Android 13,187.76.77.72,2023-12-21,true,HP EliteBook,2.4.15,1,San Pedro Sula
+DV-0087,tablet,Windows 11,45.132.102.163,2023-05-21,true,Samsung Galaxy S23,2.9.7,1,Escuintla
+DV-0088,movil,iOS 16,153.34.134.126,2023-02-23,true,Samsung Galaxy S23,2.6.10,2,Bogotá
+DV-0089,movil,Linux,144.253.248.189,2023-06-11,true,HP EliteBook,2.7.15,1,David|San Miguel
+DV-0090,movil,Linux,81.78.26.60,2023-08-26,true,Dell XPS,2.0.5,2,New York
+DV-0091,desktop,macOS 14,52.42.57.169,2023-07-10,true,iPad Pro,2.4.1,1,Chicago|Ciudad de Guatemala
+DV-0092,desktop,Windows 11,136.113.113.191,2024-04-10,false,iPad Pro,2.8.15,2,San José|San José|Caracas
+DV-0093,desktop,iOS 16,25.74.184.90,2024-04-14,true,iPad Pro,2.4.5,1,David|San Miguel|Chicago
+DV-0094,movil,iOS 16,24.229.110.93,2024-09-17,true,iPad Pro,2.6.13,2,Miami
+DV-0095,movil,iOS 16,183.121.197.157,2024-05-03,true,Xiaomi Redmi,2.3.0,2,Cali|Los Angeles
+DV-0096,desktop,Windows 11,59.120.125.212,2024-08-19,true,iPad Pro,2.9.0,2,Valencia|Houston|Cali
+DV-0097,movil,macOS 14,157.151.129.116,2023-11-11,false,iPhone 14,2.6.9,1,San Miguel|Valencia|San José
+DV-0098,movil,macOS 14,149.18.51.142,2023-06-06,true,HP EliteBook,2.9.11,2,Mixco|Chicago|Cartago
+DV-0099,tablet,iOS 16,70.38.238.106,2023-09-11,true,iPad Pro,2.9.2,2,Lagos|Valencia|Santa Ana
+DV-0100,movil,Android 13,159.50.179.145,2024-07-14,true,Dell XPS,2.3.4,1,Houston|Los Angeles
+DV-0101,movil,Linux,100.199.15.69,2024-05-15,false,Samsung Galaxy S23,2.8.14,1,Los Angeles|Chicago
+DV-0102,tablet,Android 13,10.25.212.84,2024-07-26,true,HP EliteBook,2.4.0,2,Ciudad de México|Cali
+DV-0103,movil,Android 13,129.215.222.200,2024-03-09,true,Xiaomi Redmi,2.1.1,1,New York|San Miguel
+DV-0104,movil,macOS 14,149.22.244.61,2024-01-19,true,HP EliteBook,2.7.12,2,Bogotá
+DV-0105,tablet,iOS 16,210.57.144.239,2024-10-31,true,Xiaomi Redmi,2.1.5,2,Los Angeles|San Pedro Sula|Tegucigalpa
+DV-0106,movil,Windows 11,136.36.45.105,2024-04-19,true,iPad Pro,2.8.13,2,Cali
+DV-0107,movil,Windows 11,207.17.113.54,2023-07-13,true,iPad Pro,2.1.1,2,Maracaibo|Caracas|Cali
+DV-0108,movil,Linux,172.156.240.235,2023-02-04,true,HP EliteBook,2.9.1,1,New York|Miami|Los Angeles
+DV-0109,movil,Android 13,219.180.35.81,2023-05-24,true,Dell XPS,2.4.7,2,Ciudad de Guatemala|Maracaibo|Bogotá
+DV-0110,movil,Windows 11,201.83.42.132,2023-05-27,true,iPad Pro,2.8.7,2,San José|San Salvador
+DV-0111,tablet,iOS 16,21.110.22.249,2024-10-03,true,iPad Pro,2.6.15,1,San José|Escuintla
+DV-0112,tablet,Windows 11,101.177.54.215,2024-12-14,true,HP EliteBook,2.6.4,2,Valencia|Cartago
+DV-0113,movil,iOS 16,92.76.235.153,2023-11-04,true,iPad Pro,2.2.14,1,Tijuana|Mixco|Houston
+DV-0114,movil,Windows 11,174.75.62.9,2023-07-28,false,Xiaomi Redmi,2.1.14,3,San Pedro Sula
+DV-0115,movil,Android 13,45.54.236.120,2023-10-02,true,HP EliteBook,2.9.1,1,Cartago
+DV-0116,tablet,Linux,168.178.181.71,2023-08-11,true,HP EliteBook,2.3.10,2,Miami
+DV-0117,tablet,Android 13,39.85.200.95,2024-05-05,true,iPhone 14,2.9.6,2,Mixco
+DV-0118,desktop,macOS 14,128.43.164.19,2024-04-22,true,Dell XPS,2.5.9,2,Chicago|Ciudad de México
+DV-0119,tablet,macOS 14,178.30.34.38,2023-11-24,true,iPhone 14,2.5.10,2,Chicago
+DV-0120,tablet,iOS 16,58.219.0.119,2023-01-17,true,Xiaomi Redmi,2.8.13,2,Caracas
+DV-0121,desktop,Linux,44.197.106.175,2023-09-09,true,HP EliteBook,2.8.10,2,San Pedro Sula|San José
+DV-0122,desktop,iOS 16,124.182.45.88,2023-12-27,true,iPhone 14,2.2.15,1,San José|San Salvador|Houston
+DV-0123,movil,Android 13,123.33.114.191,2023-01-07,false,HP EliteBook,2.2.7,1,Colón|Ciudad de México|Miami
+DV-0124,desktop,Android 13,107.169.65.88,2024-09-24,true,iPad Pro,2.9.15,2,Ciudad de México
+DV-0125,desktop,Android 13,160.117.38.64,2023-01-18,true,Dell XPS,2.4.9,1,Houston|Bogotá|Cali
+DV-0126,movil,Android 13,157.126.71.77,2023-04-09,true,Dell XPS,2.2.7,1,Houston|San Miguel|Valencia
+DV-0127,desktop,Android 13,73.206.198.196,2024-01-18,true,HP EliteBook,2.7.7,1,Bogotá|Cancún
+DV-0128,tablet,Android 13,203.231.138.181,2023-04-06,true,HP EliteBook,2.6.12,2,Santa Ana
+DV-0129,movil,Android 13,8.182.10.62,2024-05-26,false,HP EliteBook,2.5.3,5,Tegucigalpa
+DV-0130,tablet,Linux,62.113.174.91,2024-05-01,true,Xiaomi Redmi,2.0.2,2,Chicago|Escuintla|New York
+DV-0131,desktop,Android 13,190.100.59.37,2023-08-01,true,Dell XPS,2.2.12,1,David|Chicago
+DV-0132,desktop,Linux,199.128.151.203,2023-12-06,true,HP EliteBook,2.2.2,2,Cartago
+DV-0133,movil,Windows 11,91.244.75.250,2024-09-11,true,Dell XPS,2.9.12,2,Santa Ana
+DV-0134,desktop,macOS 14,159.180.47.79,2023-08-22,true,Xiaomi Redmi,2.8.12,2,Bogotá
+DV-0135,desktop,Android 13,184.175.52.53,2024-09-25,true,Xiaomi Redmi,2.3.2,1,Colón|Ciudad de Guatemala
+DV-0136,tablet,iOS 16,90.90.88.230,2024-02-03,true,Xiaomi Redmi,2.5.3,1,David
+DV-0137,desktop,Android 13,28.144.2.10,2023-05-16,true,Samsung Galaxy S23,2.2.13,2,Mixco|Chicago|Tijuana
+DV-0138,movil,Windows 11,103.103.96.217,2024-07-21,false,Samsung Galaxy S23,2.9.10,4,San Miguel
+DV-0139,movil,Linux,215.109.63.203,2023-09-06,true,Dell XPS,2.8.5,2,Los Angeles
+DV-0140,desktop,macOS 14,84.37.141.175,2023-05-30,true,Samsung Galaxy S23,2.2.13,2,David|Chicago
+DV-0141,desktop,Windows 11,62.205.76.63,2023-09-10,true,iPad Pro,2.7.6,2,Los Angeles
+DV-0142,desktop,Windows 11,189.106.144.124,2024-09-27,true,HP EliteBook,2.5.14,2,San José|Ciudad de Guatemala
+DV-0143,desktop,Linux,221.140.216.39,2024-12-12,false,iPhone 14,2.7.10,2,David|San Miguel
+DV-0144,tablet,macOS 14,199.89.148.99,2024-08-12,true,iPhone 14,2.5.12,2,Valencia|Abuja
+DV-0145,movil,Linux,198.244.62.11,2024-07-12,true,iPhone 14,2.8.0,2,Miami|Los Angeles|San Miguel
+DV-0146,movil,macOS 14,13.103.195.232,2024-11-20,true,HP EliteBook,2.2.9,1,Escuintla|Colón
+DV-0147,desktop,Android 13,115.208.176.129,2024-04-04,true,Dell XPS,2.7.12,2,New York|Valencia|Houston
+DV-0148,tablet,Linux,2.127.84.153,2024-10-15,true,Samsung Galaxy S23,2.1.7,2,San José
+DV-0149,tablet,macOS 14,32.206.14.166,2023-12-06,true,HP EliteBook,2.1.0,1,Tegucigalpa|Chicago
+DV-0150,tablet,Linux,149.184.168.141,2024-12-05,true,Dell XPS,2.3.14,2,San José|Maracaibo
+DV-0151,tablet,Linux,217.128.252.232,2023-06-04,true,Xiaomi Redmi,2.0.15,1,Tijuana|Cancún
+DV-0152,tablet,iOS 16,159.6.15.77,2023-12-23,false,Xiaomi Redmi,2.5.14,2,Chicago|Valencia|Cartago
+DV-0153,tablet,macOS 14,139.202.178.95,2023-11-23,true,Samsung Galaxy S23,2.4.1,1,David
+DV-0154,tablet,iOS 16,135.74.133.128,2023-09-07,true,Dell XPS,2.2.5,2,Cali|San José|Tegucigalpa
+DV-0155,tablet,iOS 16,18.231.140.120,2023-07-10,true,iPad Pro,2.6.12,1,San José|Caracas|Los Angeles
+DV-0156,desktop,Android 13,95.134.246.220,2024-12-22,true,iPhone 14,2.3.8,1,Cartago|San Pedro Sula|Valencia
+DV-0157,movil,macOS 14,201.17.237.241,2023-04-27,true,Xiaomi Redmi,2.7.10,2,Miami|Cancún|Abuja
+DV-0158,desktop,Linux,151.176.71.0,2023-06-26,true,iPad Pro,2.4.2,1,Abuja|Cali
+DV-0159,movil,Windows 11,78.232.216.40,2024-12-11,true,iPhone 14,2.8.12,2,Los Angeles|Chicago|Ciudad de Guatemala
+DV-0160,desktop,Linux,128.160.71.85,2024-12-11,true,iPad Pro,2.2.5,2,Los Angeles|Valencia
+DV-0161,desktop,Linux,52.90.39.250,2023-02-24,true,Xiaomi Redmi,2.0.15,1,Ciudad de Guatemala
+DV-0162,tablet,macOS 14,194.96.79.81,2024-02-23,true,iPad Pro,2.7.13,2,David|Cancún
+DV-0163,movil,Windows 11,105.29.211.233,2023-02-03,true,Xiaomi Redmi,2.3.9,1,Chicago|Cali
+DV-0164,desktop,Linux,54.63.197.176,2024-06-07,true,Samsung Galaxy S23,2.9.3,2,Valencia|San Pedro Sula|Cartago
+DV-0165,tablet,macOS 14,96.20.99.245,2024-07-13,false,iPhone 14,2.6.3,2,New York|Los Angeles
+DV-0166,movil,macOS 14,99.6.151.127,2023-05-01,true,iPhone 14,2.3.11,2,San José
+DV-0167,movil,iOS 16,121.172.246.205,2023-03-02,false,Dell XPS,2.5.8,5,David|David|Lagos
+DV-0168,tablet,Windows 11,194.124.50.237,2024-06-10,true,iPad Pro,2.1.4,2,San José
+DV-0169,movil,iOS 16,221.87.16.8,2023-09-13,true,iPhone 14,2.5.7,2,Colón|Chicago
+DV-0170,tablet,macOS 14,16.185.188.231,2024-01-20,true,HP EliteBook,2.1.2,2,Cali|San José|Houston
+DV-0171,desktop,macOS 14,120.95.107.85,2024-05-14,true,Xiaomi Redmi,2.9.0,1,San José|Santa Ana|Escuintla
+DV-0172,movil,Linux,6.85.139.160,2024-02-12,true,iPhone 14,2.6.6,2,David|San Miguel
+DV-0173,tablet,iOS 16,83.86.234.132,2024-08-02,true,HP EliteBook,2.5.1,1,Santa Ana
+DV-0174,desktop,Android 13,191.223.214.48,2023-05-08,true,iPhone 14,2.7.14,1,Caracas|Houston
+DV-0175,tablet,Windows 11,222.186.245.251,2023-06-12,true,Xiaomi Redmi,2.1.11,2,Valencia
+DV-0176,tablet,iOS 16,136.137.184.195,2023-02-23,true,HP EliteBook,2.4.7,2,Cancún|Lagos|Cartago
+DV-0177,desktop,Android 13,206.175.114.217,2023-05-16,false,Dell XPS,2.3.14,1,Houston
+DV-0178,movil,macOS 14,69.30.1.141,2024-12-11,true,iPhone 14,2.7.2,1,Cancún|San Pedro Sula
+DV-0179,movil,Windows 11,38.228.12.36,2024-01-12,true,Xiaomi Redmi,2.2.12,1,Bogotá|Colón|Santa Ana
+DV-0180,movil,Linux,210.76.244.139,2024-10-27,true,iPhone 14,2.7.11,1,Cali|Colón|Tijuana
+DV-0181,desktop,iOS 16,121.49.195.216,2023-03-30,true,Samsung Galaxy S23,2.2.3,2,Cali|David
+DV-0182,movil,Windows 11,33.198.119.135,2024-10-22,true,Samsung Galaxy S23,2.3.9,1,David|Miami|Houston
+DV-0183,movil,macOS 14,187.184.133.114,2023-10-30,true,iPad Pro,2.0.7,2,Abuja|Cali
+DV-0184,tablet,Android 13,16.137.77.34,2024-06-24,true,Samsung Galaxy S23,2.5.10,1,Chicago|Tijuana
+DV-0185,tablet,iOS 16,115.139.9.5,2024-04-27,true,Samsung Galaxy S23,2.0.2,1,Miami|New York
+DV-0186,desktop,Linux,184.207.16.199,2023-10-21,true,iPad Pro,2.8.13,2,Miami|Cancún|Santa Ana
+DV-0187,tablet,iOS 16,164.28.38.63,2023-10-12,true,Samsung Galaxy S23,2.4.2,1,San Pedro Sula
+DV-0188,tablet,Android 13,74.202.217.198,2023-11-14,true,iPad Pro,2.6.7,1,Cancún
+DV-0189,movil,macOS 14,139.118.121.107,2024-09-18,true,Dell XPS,2.0.9,1,Ciudad de México
+DV-0190,tablet,Android 13,87.199.127.54,2023-06-17,true,HP EliteBook,2.5.8,1,Los Angeles|Cali
+DV-0191,desktop,Android 13,163.240.151.170,2023-01-31,true,Xiaomi Redmi,2.6.8,1,Lagos|Chicago
+DV-0192,desktop,macOS 14,66.88.93.88,2024-06-07,true,Xiaomi Redmi,2.0.15,1,David|San Miguel
+DV-0193,tablet,Android 13,166.241.25.54,2023-08-22,true,iPad Pro,2.8.0,1,Cali
+DV-0194,desktop,macOS 14,182.192.165.238,2023-06-03,false,iPhone 14,2.0.13,2,Cali|Tijuana
+DV-0195,desktop,Windows 11,207.67.188.247,2023-03-21,true,Dell XPS,2.5.3,1,Tegucigalpa
+DV-0196,movil,macOS 14,194.187.246.228,2023-03-12,true,HP EliteBook,2.4.9,2,Mixco
+DV-0197,desktop,iOS 16,20.192.142.55,2023-10-26,true,Dell XPS,2.4.7,2,Cancún|Ciudad de México
+DV-0198,movil,Linux,128.200.107.2,2023-09-09,true,iPhone 14,2.0.13,1,San Pedro Sula
+DV-0199,tablet,Android 13,55.33.179.172,2023-12-10,true,Samsung Galaxy S23,2.6.9,1,Houston
+DV-0200,desktop,macOS 14,162.243.182.114,2023-03-03,true,iPhone 14,2.4.2,1,Houston
+DV-0201,desktop,macOS 14,9.95.183.248,2023-03-28,true,Dell XPS,2.1.4,2,Cancún
+DV-0202,desktop,iOS 16,99.245.155.127,2023-08-31,true,Xiaomi Redmi,2.4.10,2,Cali|David|Los Angeles
+DV-0203,movil,iOS 16,41.207.17.248,2023-05-20,true,Dell XPS,2.1.4,1,Los Angeles
+DV-0204,desktop,Android 13,18.135.224.97,2024-07-02,true,Xiaomi Redmi,2.3.14,2,San Miguel|Abuja
+DV-0205,tablet,Windows 11,115.190.195.34,2024-12-22,false,iPad Pro,2.9.1,2,Colón|Cancún
+DV-0206,desktop,macOS 14,185.40.160.53,2024-06-09,true,Samsung Galaxy S23,2.4.8,1,Miami
+DV-0207,tablet,Linux,92.79.81.190,2023-09-13,true,Samsung Galaxy S23,2.7.3,1,Ciudad de México
+DV-0208,movil,iOS 16,20.239.180.33,2023-07-22,false,HP EliteBook,2.5.2,5,San Miguel|Santa Ana|Caracas
+DV-0209,movil,macOS 14,125.28.96.113,2023-05-12,true,Samsung Galaxy S23,2.5.3,1,San Salvador|David
+DV-0210,desktop,macOS 14,23.205.226.113,2024-05-23,true,Samsung Galaxy S23,2.6.13,1,Miami|Valencia
+DV-0211,desktop,iOS 16,161.213.76.127,2023-02-05,true,Dell XPS,2.9.7,2,Tijuana|Mixco
+DV-0212,movil,Windows 11,210.71.46.253,2024-01-28,true,iPhone 14,2.6.6,1,San Pedro Sula|Caracas|Ciudad de Guatemala
+DV-0213,desktop,macOS 14,153.11.207.132,2024-07-11,true,HP EliteBook,2.5.10,2,Valencia|Caracas
+DV-0214,movil,Android 13,1.99.157.183,2023-10-15,true,Samsung Galaxy S23,2.7.11,1,Cartago
+DV-0215,movil,Windows 11,53.221.73.148,2024-06-30,true,iPad Pro,2.0.7,2,Valencia|Cali
+DV-0216,tablet,Windows 11,52.48.181.134,2024-08-28,true,Samsung Galaxy S23,2.5.4,1,San Pedro Sula|David
+DV-0217,movil,Android 13,148.179.122.41,2023-02-27,true,iPhone 14,2.9.7,1,Chicago|Ciudad de México|David
+DV-0218,movil,iOS 16,208.62.251.31,2023-12-15,true,iPad Pro,2.2.10,1,Colón
+DV-0219,movil,Android 13,192.116.238.245,2024-06-22,true,Xiaomi Redmi,2.1.11,2,Cartago|David|David
+DV-0220,movil,macOS 14,23.69.140.217,2024-10-16,true,HP EliteBook,2.5.5,2,Escuintla
+DV-0221,movil,macOS 14,190.223.229.223,2023-11-11,true,iPad Pro,2.4.4,1,Ciudad de México|Houston|Chicago
+DV-0222,tablet,Android 13,195.195.93.130,2023-07-06,true,Dell XPS,2.5.7,1,Colón|David
+DV-0223,movil,Windows 11,33.183.43.237,2023-11-24,true,iPhone 14,2.1.10,2,San Miguel
+DV-0224,tablet,Android 13,55.199.32.52,2023-12-25,true,Xiaomi Redmi,2.1.0,1,Los Angeles|San Pedro Sula
+DV-0225,movil,macOS 14,95.221.18.104,2024-05-19,true,HP EliteBook,2.5.12,1,Chicago|San José
+DV-0226,movil,iOS 16,58.203.143.52,2024-04-07,true,Samsung Galaxy S23,2.0.9,1,San Miguel|Cartago
+DV-0227,movil,macOS 14,200.31.174.22,2023-06-14,false,iPad Pro,2.1.2,3,San José|Chicago|Lagos
+DV-0228,tablet,iOS 16,73.7.125.87,2024-09-13,false,HP EliteBook,2.2.1,1,Miami|Caracas
+DV-0229,tablet,Linux,63.48.90.168,2023-09-29,true,iPad Pro,2.4.9,1,San Salvador
+DV-0230,tablet,macOS 14,102.242.109.65,2023-06-07,true,Samsung Galaxy S23,2.5.0,2,San Miguel
+DV-0231,tablet,Linux,55.45.116.34,2024-05-06,true,iPhone 14,2.1.0,1,Santa Ana
+DV-0232,movil,macOS 14,64.185.225.186,2023-04-29,true,Xiaomi Redmi,2.6.15,2,San Miguel|Cancún|San José
+DV-0233,movil,Windows 11,81.24.207.26,2024-01-26,true,Xiaomi Redmi,2.2.14,1,Los Angeles|San José
+DV-0234,desktop,Linux,11.68.240.66,2023-03-05,true,iPhone 14,2.1.2,2,Tijuana|Cartago|Cancún
+DV-0235,movil,macOS 14,36.122.62.184,2024-06-19,true,HP EliteBook,2.8.15,1,David|Cancún
+DV-0236,tablet,Android 13,128.132.79.68,2024-05-29,true,Dell XPS,2.8.4,1,Valencia|David
+DV-0237,movil,iOS 16,188.212.31.55,2023-02-13,true,HP EliteBook,2.1.13,1,Colón|Ciudad de Guatemala|San Miguel
+DV-0238,tablet,Android 13,122.209.187.228,2023-03-31,true,HP EliteBook,2.8.12,2,Houston|San José
+DV-0239,movil,Linux,61.248.84.200,2024-08-24,true,Dell XPS,2.6.3,2,Colón
+DV-0240,tablet,Android 13,157.113.114.126,2023-04-19,true,Dell XPS,2.1.9,2,San Miguel|Ciudad de Guatemala
+DV-0241,tablet,Linux,172.90.202.139,2024-04-29,true,Samsung Galaxy S23,2.2.8,2,San José
+DV-0242,tablet,macOS 14,93.23.209.96,2023-02-09,true,HP EliteBook,2.5.7,1,Chicago|San José|Valencia
+DV-0243,desktop,Windows 11,165.207.142.63,2023-10-15,false,HP EliteBook,2.1.7,2,Cali|Los Angeles
+DV-0244,desktop,Windows 11,104.234.63.13,2024-03-02,true,Dell XPS,2.1.6,2,Tijuana
+DV-0245,tablet,Windows 11,61.127.178.137,2023-02-27,true,Dell XPS,2.2.2,2,Chicago|Miami|Los Angeles
+DV-0246,tablet,Linux,194.103.175.141,2023-01-30,true,iPhone 14,2.3.6,1,New York
+DV-0247,desktop,iOS 16,7.184.46.240,2023-10-08,true,Xiaomi Redmi,2.7.12,1,Caracas|Cali|Valencia
+DV-0248,desktop,iOS 16,179.204.26.86,2024-04-30,true,Dell XPS,2.8.11,2,San Miguel
+DV-0249,tablet,Android 13,196.250.78.30,2023-10-19,true,Samsung Galaxy S23,2.6.1,1,Maracaibo|Miami|Tegucigalpa
+DV-0250,tablet,iOS 16,152.57.104.130,2023-10-03,true,iPad Pro,2.6.0,1,Los Angeles|San José
+DV-0251,movil,iOS 16,94.137.142.218,2023-09-16,true,Dell XPS,2.4.8,2,Valencia|San José
+DV-0252,desktop,Windows 11,157.113.207.49,2024-11-24,true,Dell XPS,2.9.12,1,Chicago
+DV-0253,desktop,Linux,23.240.53.79,2024-10-24,true,Dell XPS,2.9.9,2,Cartago|Chicago|Santa Ana
+DV-0254,desktop,Windows 11,14.198.6.32,2023-10-11,true,Xiaomi Redmi,2.4.6,1,Cartago|Cali|San Salvador
+DV-0255,tablet,macOS 14,96.208.18.19,2024-11-07,true,Xiaomi Redmi,2.2.0,2,San Miguel|Tijuana
+DV-0256,tablet,Android 13,142.111.172.223,2024-08-20,true,iPad Pro,2.9.6,2,Lagos|Tegucigalpa|Bogotá
+DV-0257,desktop,Windows 11,4.237.131.121,2024-06-03,true,Xiaomi Redmi,2.2.5,2,Chicago
+DV-0258,desktop,Linux,28.98.239.75,2023-07-07,false,iPad Pro,2.5.2,2,Tegucigalpa|Cali
+DV-0259,desktop,Windows 11,3.9.55.227,2024-01-16,true,Xiaomi Redmi,2.9.9,2,Chicago
+DV-0260,tablet,Linux,158.73.109.124,2024-08-17,false,Dell XPS,2.1.15,2,Abuja|Bogotá|Ciudad de Guatemala
+DV-0261,desktop,Android 13,210.80.246.107,2023-06-04,true,iPhone 14,2.3.10,2,San José|Colón|David
+DV-0262,movil,Android 13,137.89.42.217,2024-05-14,true,Xiaomi Redmi,2.2.10,1,Los Angeles
+DV-0263,movil,Linux,186.64.203.191,2023-06-12,true,HP EliteBook,2.1.4,2,Cali|Miami|Chicago
+DV-0264,movil,Linux,109.31.192.179,2023-07-24,true,iPad Pro,2.5.0,2,Caracas|Caracas|Bogotá
+DV-0265,tablet,iOS 16,47.161.30.107,2023-08-20,false,iPad Pro,2.5.9,2,Ciudad de Guatemala
+DV-0266,desktop,iOS 16,221.129.133.247,2023-03-08,true,Samsung Galaxy S23,2.4.9,2,Houston|Ciudad de Guatemala|David
+DV-0267,tablet,iOS 16,194.193.206.102,2023-12-17,true,HP EliteBook,2.5.6,1,Caracas|Tegucigalpa
+DV-0268,movil,iOS 16,13.254.168.137,2023-01-23,true,Dell XPS,2.8.5,1,Lagos|San José
+DV-0269,desktop,Windows 11,4.99.228.176,2024-07-01,true,Dell XPS,2.0.1,1,Caracas|San Salvador|Houston
+DV-0270,desktop,macOS 14,163.168.215.183,2023-05-07,false,Dell XPS,2.4.15,2,Houston
+DV-0271,movil,Windows 11,160.127.29.73,2024-03-06,true,iPad Pro,2.1.8,1,Cartago|Chicago
+DV-0272,movil,Windows 11,157.210.66.65,2023-04-27,true,Samsung Galaxy S23,2.7.6,1,Houston|Caracas
+DV-0273,desktop,Windows 11,71.38.138.151,2023-06-14,true,Samsung Galaxy S23,2.8.15,1,Chicago|David|Cali
+DV-0274,tablet,Android 13,13.29.119.33,2023-04-24,false,Dell XPS,2.7.4,1,Santa Ana|San Pedro Sula|Cartago
+DV-0275,tablet,iOS 16,146.17.21.192,2024-04-12,true,Xiaomi Redmi,2.4.14,1,Valencia
+DV-0276,desktop,Windows 11,47.58.90.100,2024-11-24,true,Xiaomi Redmi,2.6.3,1,Ciudad de México
+DV-0277,tablet,iOS 16,119.206.70.88,2023-12-03,true,Xiaomi Redmi,2.7.8,1,David|Valencia
+DV-0278,desktop,macOS 14,199.71.87.149,2023-10-06,false,HP EliteBook,2.7.13,2,Los Angeles
+DV-0279,movil,iOS 16,126.86.241.152,2023-04-17,true,HP EliteBook,2.9.15,2,San José
+DV-0280,desktop,Linux,198.68.96.212,2023-01-30,true,iPad Pro,2.2.15,2,Tijuana
+DV-0281,movil,Windows 11,19.170.148.188,2024-11-01,true,Xiaomi Redmi,2.0.7,2,Houston|Houston|San José
+DV-0282,tablet,iOS 16,121.206.210.198,2024-05-08,false,Xiaomi Redmi,2.6.4,5,San Salvador|Ciudad de México|San José
+DV-0283,tablet,macOS 14,223.219.54.224,2024-05-22,true,iPhone 14,2.1.15,2,David
+DV-0284,movil,Linux,223.251.53.39,2023-08-17,true,Dell XPS,2.6.12,1,San José
+DV-0285,tablet,macOS 14,161.204.152.176,2023-04-01,true,HP EliteBook,2.7.10,1,Cali|San José
+DV-0286,desktop,macOS 14,83.162.161.87,2023-02-06,false,Dell XPS,2.8.0,1,San José|Santa Ana|David
+DV-0287,tablet,iOS 16,94.6.53.133,2024-11-01,true,iPad Pro,2.7.10,2,Tegucigalpa
+DV-0288,desktop,Linux,208.161.242.220,2024-09-26,true,Dell XPS,2.7.11,2,Cartago
+DV-0289,movil,Android 13,22.30.106.155,2023-12-16,true,Xiaomi Redmi,2.4.11,1,David
+DV-0290,tablet,macOS 14,163.71.129.242,2023-04-20,true,Xiaomi Redmi,2.9.6,1,Miami
+DV-0291,movil,Windows 11,185.129.43.242,2023-04-21,true,HP EliteBook,2.0.3,2,Escuintla|Cancún
+DV-0292,movil,macOS 14,143.60.169.87,2023-01-05,true,Dell XPS,2.0.13,2,Maracaibo|Valencia|Houston
+DV-0293,tablet,iOS 16,135.118.65.25,2023-04-17,true,HP EliteBook,2.9.10,2,Ciudad de Guatemala|Houston
+DV-0294,desktop,macOS 14,216.37.118.163,2023-12-18,true,Xiaomi Redmi,2.7.4,1,Ciudad de Guatemala|Houston
+DV-0295,tablet,Windows 11,178.112.48.221,2024-12-19,true,Dell XPS,2.5.6,1,San José
+DV-0296,tablet,Windows 11,144.250.18.62,2024-11-19,true,iPhone 14,2.2.10,1,Mixco|Chicago
+DV-0297,tablet,macOS 14,105.236.1.66,2024-11-21,true,iPad Pro,2.8.9,2,Houston
+DV-0298,desktop,iOS 16,165.174.47.208,2023-02-24,false,iPad Pro,2.0.6,3,San Miguel
+DV-0299,movil,Android 13,201.133.16.210,2024-12-08,true,Xiaomi Redmi,2.3.1,2,Cartago|San José
+DV-0300,tablet,Linux,108.243.200.107,2023-08-18,true,iPad Pro,2.8.12,1,Houston|San Miguel|Escuintla
+DV-0301,desktop,macOS 14,50.47.102.189,2024-03-02,false,iPad Pro,2.5.1,1,San Miguel|Caracas|San José
+DV-0302,desktop,iOS 16,49.0.95.148,2024-10-10,true,iPad Pro,2.5.6,1,Los Angeles|Valencia
+DV-0303,movil,iOS 16,222.197.255.200,2023-06-27,true,iPad Pro,2.8.3,2,Cali
+DV-0304,desktop,iOS 16,54.154.222.178,2023-06-14,true,Dell XPS,2.4.0,2,Lagos|Colón
+DV-0305,desktop,Linux,135.181.131.200,2023-02-22,false,iPad Pro,2.9.9,4,Mixco|Valencia|Santa Ana
+DV-0306,desktop,Linux,157.26.244.175,2023-08-14,true,iPhone 14,2.8.2,1,San Pedro Sula|Miami
+DV-0307,movil,iOS 16,173.88.173.6,2024-11-10,false,Xiaomi Redmi,2.5.11,3,Cartago
+DV-0308,desktop,Linux,85.190.105.242,2024-10-26,true,Samsung Galaxy S23,2.1.11,2,San José
+DV-0309,tablet,iOS 16,107.164.178.118,2023-02-10,true,iPad Pro,2.5.12,1,San Miguel|San Pedro Sula
+DV-0310,movil,Linux,169.12.120.160,2024-01-19,true,Dell XPS,2.8.14,2,San Miguel
+DV-0311,movil,Windows 11,90.111.241.202,2024-06-10,true,Samsung Galaxy S23,2.1.5,1,Santa Ana|Miami|Escuintla
+DV-0312,movil,macOS 14,87.208.73.242,2023-04-17,true,iPhone 14,2.8.13,1,Bogotá|Colón|Caracas
+DV-0313,desktop,Android 13,36.164.46.31,2023-03-31,true,Samsung Galaxy S23,2.0.5,2,Santa Ana|Chicago|Tegucigalpa
+DV-0314,desktop,macOS 14,66.151.194.236,2024-04-06,true,iPad Pro,2.6.13,2,Ciudad de Guatemala
+DV-0315,tablet,Android 13,93.225.170.90,2024-10-18,true,iPad Pro,2.9.2,1,Santa Ana|Valencia|Chicago
+DV-0316,tablet,Windows 11,78.223.244.220,2024-09-13,false,Samsung Galaxy S23,2.4.14,4,Escuintla|Caracas
+DV-0317,tablet,iOS 16,137.57.144.202,2023-05-20,true,iPad Pro,2.6.9,1,Bogotá|San Pedro Sula
+DV-0318,movil,Linux,141.233.142.237,2024-07-22,true,iPhone 14,2.1.1,1,Ciudad de Guatemala|Miami|San Pedro Sula
+DV-0319,movil,Windows 11,42.163.133.157,2023-08-04,true,iPad Pro,2.5.6,2,Chicago|Colón|David
+DV-0320,tablet,Windows 11,119.11.20.93,2023-07-18,true,Samsung Galaxy S23,2.2.1,2,Mixco|Santa Ana|San Miguel
+DV-0321,desktop,Android 13,45.90.50.188,2023-07-22,true,iPad Pro,2.9.15,2,Los Angeles|Escuintla
+DV-0322,movil,Windows 11,140.182.150.104,2024-09-26,true,Samsung Galaxy S23,2.3.10,2,David|San José
+DV-0323,tablet,Linux,48.191.50.157,2023-06-06,true,Dell XPS,2.9.11,2,David|Ciudad de México
+DV-0324,movil,macOS 14,210.4.90.22,2023-10-11,true,Xiaomi Redmi,2.2.10,2,Los Angeles|Valencia
+DV-0325,desktop,Linux,189.63.3.218,2023-04-22,true,iPhone 14,2.9.2,2,San Pedro Sula
+DV-0326,tablet,Android 13,74.7.8.255,2023-03-19,true,Samsung Galaxy S23,2.8.0,2,Miami|New York|Mixco
+DV-0327,tablet,macOS 14,140.233.4.99,2024-10-31,true,iPhone 14,2.5.12,1,San Pedro Sula|San Miguel|Los Angeles
+DV-0328,tablet,Android 13,202.227.128.175,2024-02-11,true,Xiaomi Redmi,2.8.0,1,Bogotá|David|Cartago
+DV-0329,desktop,iOS 16,94.182.140.161,2023-07-03,true,Dell XPS,2.9.4,2,New York|Tegucigalpa
+DV-0330,movil,Android 13,110.72.5.108,2023-09-28,true,Xiaomi Redmi,2.3.1,1,Valencia|Ciudad de Guatemala|Chicago
+DV-0331,movil,Android 13,185.234.70.125,2024-10-26,true,Xiaomi Redmi,2.1.8,2,San Pedro Sula|Chicago|Valencia
+DV-0332,desktop,Windows 11,113.252.158.48,2024-08-24,true,iPad Pro,2.1.8,2,Houston
+DV-0333,desktop,macOS 14,6.159.223.192,2024-05-08,true,Dell XPS,2.0.4,2,Tegucigalpa
+DV-0334,tablet,Windows 11,72.247.128.90,2023-08-05,false,iPhone 14,2.2.5,3,Lagos|Abuja|Escuintla
+DV-0335,desktop,Android 13,217.16.86.92,2024-05-08,true,iPad Pro,2.7.15,1,David|San José|Tijuana
+DV-0336,movil,iOS 16,164.63.42.48,2024-08-10,false,Dell XPS,2.2.4,5,Chicago
+DV-0337,movil,Windows 11,58.98.184.69,2023-07-04,false,Dell XPS,2.6.0,3,Miami
+DV-0338,desktop,macOS 14,110.254.187.177,2023-06-24,true,iPhone 14,2.6.4,1,Escuintla|Chicago|San Miguel
+DV-0339,tablet,Windows 11,165.196.222.252,2024-04-09,true,Dell XPS,2.9.2,1,Ciudad de Guatemala|Los Angeles
+DV-0340,movil,Linux,214.76.247.88,2024-05-31,false,iPad Pro,2.6.4,5,Valencia
+DV-0341,tablet,Linux,217.90.36.236,2023-02-09,true,Dell XPS,2.8.3,1,Escuintla|Los Angeles
+DV-0342,tablet,Android 13,21.29.115.133,2024-11-25,true,iPad Pro,2.6.13,2,Houston
+DV-0343,movil,macOS 14,181.57.110.190,2024-01-26,true,Xiaomi Redmi,2.9.3,2,San Miguel
+DV-0344,movil,Android 13,92.114.76.68,2023-10-18,true,Dell XPS,2.8.13,2,Ciudad de México
+DV-0345,movil,Linux,164.254.7.42,2024-06-19,true,Samsung Galaxy S23,2.8.0,2,Miami|Houston|David
+DV-0346,movil,iOS 16,3.16.113.33,2024-03-12,true,iPad Pro,2.9.8,2,Cali|Chicago|Valencia
+DV-0347,tablet,macOS 14,107.199.113.105,2023-07-28,true,HP EliteBook,2.8.15,1,Mixco|Chicago
+DV-0348,desktop,Linux,31.42.231.14,2023-12-19,true,iPad Pro,2.6.4,1,Tegucigalpa|Los Angeles|Houston
+DV-0349,movil,iOS 16,30.18.76.42,2024-06-04,true,HP EliteBook,2.5.1,1,Santa Ana|Ciudad de México
+DV-0350,movil,macOS 14,131.127.64.73,2024-09-06,true,HP EliteBook,2.1.2,2,Valencia
+DV-0351,movil,macOS 14,171.87.187.215,2024-02-15,false,Dell XPS,2.8.9,5,Maracaibo
+DV-0352,tablet,macOS 14,102.190.251.15,2024-03-25,true,Samsung Galaxy S23,2.3.9,1,Ciudad de Guatemala
+DV-0353,tablet,iOS 16,167.174.238.172,2024-09-21,true,iPhone 14,2.0.11,1,Ciudad de México|David|Cancún
+DV-0354,desktop,Windows 11,187.250.138.108,2024-11-16,true,HP EliteBook,2.6.6,1,Lagos|Santa Ana|Cancún
+DV-0355,tablet,Linux,193.107.198.246,2024-08-19,true,Xiaomi Redmi,2.5.8,1,Caracas|San José|Miami
+DV-0356,desktop,iOS 16,144.229.206.145,2024-02-21,true,Dell XPS,2.1.2,2,Abuja|Chicago
+DV-0357,tablet,Linux,105.159.51.11,2023-09-14,true,iPad Pro,2.7.12,2,Cartago
+DV-0358,desktop,macOS 14,7.169.122.39,2024-08-23,true,Samsung Galaxy S23,2.7.3,2,Ciudad de Guatemala
+DV-0359,movil,iOS 16,218.124.174.136,2023-11-20,true,HP EliteBook,2.5.0,2,San Miguel
+DV-0360,tablet,Windows 11,182.113.150.82,2023-03-19,false,Dell XPS,2.2.15,3,Miami|Chicago
+DV-0361,tablet,iOS 16,61.85.201.54,2024-05-25,true,iPad Pro,2.3.7,1,Miami|Tegucigalpa
+DV-0362,movil,Linux,38.225.30.52,2023-12-31,true,iPhone 14,2.1.3,1,Escuintla|Ciudad de México|San José
+DV-0363,tablet,Android 13,195.102.39.12,2024-05-08,false,Xiaomi Redmi,2.9.10,4,San José|Ciudad de México|Valencia
+DV-0364,tablet,Windows 11,20.86.88.63,2024-02-12,true,iPhone 14,2.9.4,1,Cali|Chicago|San Pedro Sula
+DV-0365,desktop,macOS 14,148.48.237.81,2024-12-03,false,iPhone 14,2.7.3,5,David|Houston
+DV-0366,tablet,iOS 16,1.43.163.87,2024-01-24,false,Dell XPS,2.1.10,3,San Miguel|Valencia|Mixco
+DV-0367,desktop,macOS 14,129.64.14.43,2024-09-19,true,Xiaomi Redmi,2.5.5,2,Miami|Tijuana
+DV-0368,desktop,Windows 11,180.233.43.204,2024-02-15,true,Xiaomi Redmi,2.7.5,1,Bogotá|Tegucigalpa|Cartago
+DV-0369,movil,Linux,38.93.208.197,2024-03-18,true,HP EliteBook,2.3.4,1,Ciudad de México|Valencia
+DV-0370,movil,Linux,128.72.95.110,2024-06-30,true,iPad Pro,2.5.15,2,Mixco|Chicago
+DV-0371,movil,iOS 16,169.62.146.235,2023-03-03,false,iPhone 14,2.4.15,1,Cali|David
+DV-0372,desktop,Linux,77.208.140.204,2024-07-24,true,Xiaomi Redmi,2.5.0,2,Valencia
+DV-0373,tablet,iOS 16,202.33.113.182,2024-08-13,true,Dell XPS,2.8.5,2,David|Bogotá
+DV-0374,tablet,macOS 14,35.235.214.87,2023-03-22,true,HP EliteBook,2.9.9,2,Colón|David|Santa Ana
+DV-0375,desktop,macOS 14,22.246.7.247,2024-10-08,true,Dell XPS,2.9.12,1,David
+DV-0376,desktop,Windows 11,11.153.253.62,2024-10-30,true,Xiaomi Redmi,2.4.12,2,Maracaibo|Valencia
+DV-0377,tablet,macOS 14,49.72.10.202,2024-02-28,true,iPhone 14,2.2.0,1,Cali|Escuintla|San Miguel
+DV-0378,tablet,Android 13,179.71.137.82,2023-08-04,true,iPhone 14,2.6.3,1,Chicago
+DV-0379,movil,macOS 14,126.204.119.66,2024-06-20,true,Samsung Galaxy S23,2.1.8,1,San José
+DV-0380,desktop,Windows 11,1.148.154.68,2023-08-23,true,iPhone 14,2.4.14,1,Houston
+DV-0381,movil,Android 13,219.60.109.30,2024-11-10,true,Xiaomi Redmi,2.5.15,2,San José|Mixco|Los Angeles
+DV-0382,tablet,Linux,184.38.91.36,2023-07-01,false,Dell XPS,2.9.14,5,Houston|Santa Ana
+DV-0383,desktop,Windows 11,79.223.62.254,2024-05-08,true,Dell XPS,2.3.2,2,Valencia|Tijuana
+DV-0384,desktop,Android 13,90.168.201.92,2023-01-01,true,Dell XPS,2.2.11,2,San Pedro Sula|Ciudad de México
+DV-0385,desktop,macOS 14,110.101.248.225,2023-11-03,true,Samsung Galaxy S23,2.6.9,1,Mixco
+DV-0386,desktop,Linux,159.167.221.171,2024-03-23,true,HP EliteBook,2.3.5,2,Tegucigalpa|San Miguel
+DV-0387,tablet,iOS 16,67.84.147.102,2024-06-13,false,Dell XPS,2.4.9,5,Tijuana|Caracas
+DV-0388,movil,iOS 16,2.17.11.237,2023-10-24,true,Samsung Galaxy S23,2.7.14,2,San José|Ciudad de México|Caracas
+DV-0389,movil,Android 13,124.152.190.207,2024-07-01,true,Samsung Galaxy S23,2.2.3,2,Los Angeles|Lagos
+DV-0390,movil,iOS 16,142.107.174.143,2023-04-03,true,iPhone 14,2.0.15,1,Tijuana|David
+DV-0391,desktop,Windows 11,65.96.233.178,2024-04-19,true,iPad Pro,2.0.10,1,San Salvador
+DV-0392,desktop,Android 13,169.13.141.14,2024-07-10,true,HP EliteBook,2.2.6,2,Ciudad de México|Abuja
+DV-0393,tablet,iOS 16,31.125.251.217,2024-01-30,true,HP EliteBook,2.3.1,1,Cali|Maracaibo
+DV-0394,tablet,iOS 16,46.116.187.5,2024-04-29,false,HP EliteBook,2.4.10,2,San Pedro Sula|New York|Cali
+DV-0395,tablet,Android 13,150.11.182.151,2023-09-17,true,HP EliteBook,2.4.6,2,Escuintla
+DV-0396,movil,iOS 16,102.172.140.37,2024-10-10,true,HP EliteBook,2.5.0,1,Cancún|Abuja
+DV-0397,movil,Android 13,74.51.52.102,2023-02-13,true,Dell XPS,2.7.4,2,Cali
+DV-0398,movil,Linux,40.23.71.36,2023-12-13,true,iPad Pro,2.0.1,2,Colón|Houston|San Pedro Sula
+DV-0399,movil,macOS 14,4.205.198.64,2023-08-27,true,Xiaomi Redmi,2.8.11,2,Caracas|Caracas|Houston
+DV-0400,tablet,iOS 16,212.121.220.124,2023-09-14,true,Samsung Galaxy S23,2.7.14,2,Houston|Ciudad de México|Caracas

@@ -1,0 +1,801 @@
+tarjetaId,ultimosCuatroDigitos,tipoTarjeta,limiteCredito,fechaVencimiento,bloqueada,intentosFallidos,redesContactadas,fechaEmision,banco
+TJ-0001,8955,prepago,26697.81,2025-02-06,false,2,Visa,2021-02-25,Banistmo
+TJ-0002,7322,credito,28188.27,2025-04-11,false,1,Amex|Mastercard,2018-12-29,Citibank
+TJ-0003,1749,debito,31757.81,2028-04-12,false,1,Amex|Visa,2022-04-07,Davivienda
+TJ-0004,1561,credito,24479.2,2025-10-01,false,2,Visa|Amex,2019-04-05,HSBC
+TJ-0005,4164,debito,11328.14,2028-09-16,false,1,Mastercard,2023-10-14,Industrial
+TJ-0006,1471,prepago,11875.31,2028-06-27,false,2,Amex|Mastercard,2019-02-27,HSBC
+TJ-0007,5653,prepago,27882.61,2028-08-13,false,1,Mastercard,2022-05-07,Davivienda
+TJ-0008,1578,debito,19566.99,2029-10-10,false,2,Mastercard|Amex,2018-10-08,Citibank
+TJ-0009,2654,credito,21824.34,2027-12-22,false,1,Mastercard,2022-02-05,Banistmo
+TJ-0010,5975,credito,46380.29,2025-01-01,false,2,Amex,2022-12-03,Industrial
+TJ-0011,3401,credito,36268.2,2025-07-05,false,1,Mastercard|Amex,2020-05-26,Industrial
+TJ-0012,8812,debito,39935.49,2024-03-16,false,2,Visa,2022-03-31,Davivienda
+TJ-0013,8881,credito,30003.23,2025-10-20,false,1,Mastercard,2021-03-05,Davivienda
+TJ-0014,1206,credito,8035.29,2024-08-23,false,0,Mastercard|Amex,2021-08-08,BAC
+TJ-0015,6604,debito,29902.85,2024-05-08,false,2,Amex,2020-05-05,Davivienda
+TJ-0016,8507,credito,26500.99,2029-05-13,false,0,Mastercard|Visa,2022-05-24,Industrial
+TJ-0017,5621,credito,26781.44,2024-08-31,true,3,Amex,2018-11-22,HSBC
+TJ-0018,3578,prepago,16053.46,2026-07-14,false,0,Amex|Mastercard,2019-03-12,Davivienda
+TJ-0019,7762,debito,49528.11,2028-08-19,false,1,Amex,2023-07-27,Industrial
+TJ-0020,9550,prepago,40123.92,2025-10-04,false,0,Visa|Mastercard,2021-09-02,Banistmo
+TJ-0021,3718,credito,13240.77,2025-06-15,true,6,Visa|Mastercard,2022-04-15,Davivienda
+TJ-0022,2672,credito,18611.86,2028-02-20,false,2,Mastercard,2019-02-23,G&T Continental
+TJ-0023,9304,credito,17503.9,2028-08-17,false,1,Visa|Amex,2020-01-07,Industrial
+TJ-0024,8992,prepago,28112.94,2027-02-02,false,1,Amex,2022-04-13,Industrial
+TJ-0025,6347,credito,24208.13,2027-08-15,false,2,Mastercard|Amex,2019-09-29,BAC
+TJ-0026,5252,prepago,28210.75,2026-10-25,false,2,Visa|Amex,2020-09-27,Davivienda
+TJ-0027,2258,debito,18982.57,2026-07-16,false,0,Amex,2018-05-10,G&T Continental
+TJ-0028,7236,prepago,29770.86,2025-05-13,false,1,Amex,2020-10-15,Banistmo
+TJ-0029,2397,credito,13921.02,2025-01-13,true,4,Amex,2019-05-28,Citibank
+TJ-0030,7199,prepago,34150.53,2025-08-08,false,1,Mastercard|Visa,2021-03-31,Banrural
+TJ-0031,4611,debito,4846.11,2025-01-16,false,0,Amex,2019-03-01,Banrural
+TJ-0032,2696,debito,1475.67,2027-11-01,false,0,Visa,2021-07-13,Banrural
+TJ-0033,1036,debito,16279.14,2024-06-06,false,2,Mastercard|Visa,2021-01-30,BAC
+TJ-0034,7330,debito,5904.29,2029-08-23,false,1,Visa,2018-03-31,Industrial
+TJ-0035,6794,debito,14316.55,2029-04-24,true,5,Mastercard,2021-09-05,Davivienda
+TJ-0036,1895,debito,36556.55,2024-04-21,false,0,Mastercard,2020-12-23,HSBC
+TJ-0037,9605,debito,1181.79,2026-07-29,false,0,Amex,2020-07-25,Banistmo
+TJ-0038,5733,credito,10105.28,2028-07-14,false,1,Visa,2022-04-28,BAC
+TJ-0039,7989,debito,18179.05,2024-09-24,false,2,Mastercard,2023-06-26,Banistmo
+TJ-0040,1593,credito,2311.35,2029-12-26,false,2,Amex|Mastercard,2021-04-24,Banistmo
+TJ-0041,3715,debito,12067.11,2024-06-02,false,1,Visa|Amex,2021-02-24,Davivienda
+TJ-0042,9536,debito,23730.08,2027-05-15,false,2,Amex|Mastercard,2023-09-15,HSBC
+TJ-0043,8656,credito,45010.97,2026-10-06,false,1,Visa,2018-08-08,Davivienda
+TJ-0044,1064,credito,22781.27,2026-06-27,false,2,Mastercard|Amex,2020-03-19,Industrial
+TJ-0045,1605,debito,26862.45,2025-03-29,false,0,Visa|Mastercard,2018-08-02,BAC
+TJ-0046,1387,credito,46173.77,2027-01-02,false,1,Visa|Mastercard,2021-09-30,Banistmo
+TJ-0047,4726,credito,12431.38,2029-10-26,false,1,Amex|Mastercard,2022-03-13,G&T Continental
+TJ-0048,2784,debito,39031.59,2024-04-18,false,0,Mastercard,2020-09-25,BAC
+TJ-0049,1907,debito,31242.25,2026-01-07,false,1,Mastercard|Visa,2022-04-30,Banrural
+TJ-0050,8825,prepago,41742.11,2026-08-22,false,0,Visa|Mastercard,2022-10-18,G&T Continental
+TJ-0051,9115,prepago,36415.95,2026-03-14,false,2,Amex|Mastercard,2021-09-11,Industrial
+TJ-0052,3513,debito,33283.8,2028-05-08,false,2,Amex|Visa,2020-12-04,Banrural
+TJ-0053,4955,debito,29248.84,2025-05-24,false,1,Mastercard|Visa,2022-10-30,BAC
+TJ-0054,2659,debito,43762.97,2027-08-01,false,1,Visa,2019-05-13,Banistmo
+TJ-0055,1401,debito,35176.81,2026-02-08,false,1,Mastercard|Amex,2022-06-30,Industrial
+TJ-0056,9767,prepago,30202.54,2024-03-04,false,0,Amex|Mastercard,2022-01-17,Davivienda
+TJ-0057,4781,prepago,36150.02,2026-10-23,true,5,Amex|Visa,2022-06-07,Banistmo
+TJ-0058,3472,debito,16785.56,2024-08-12,false,1,Amex,2019-12-13,Banistmo
+TJ-0059,1116,credito,33673.65,2025-03-31,false,2,Visa,2021-08-31,Banistmo
+TJ-0060,2153,prepago,23523.98,2026-11-22,true,7,Visa,2018-12-26,Industrial
+TJ-0061,9388,credito,33102.28,2026-03-02,true,7,Amex|Visa,2022-07-17,Davivienda
+TJ-0062,4572,credito,4006.7,2026-12-10,false,2,Mastercard,2023-03-25,Industrial
+TJ-0063,7761,debito,48501.93,2028-09-12,false,0,Visa,2018-10-22,G&T Continental
+TJ-0064,1343,debito,11452.82,2024-11-30,false,2,Mastercard|Visa,2023-05-23,Banistmo
+TJ-0065,4659,credito,8621.49,2028-08-20,true,7,Amex,2022-11-23,Industrial
+TJ-0066,4101,debito,45739.98,2024-09-27,false,1,Mastercard|Amex,2018-03-03,Industrial
+TJ-0067,2109,prepago,29006.69,2026-07-23,false,2,Mastercard,2019-07-28,G&T Continental
+TJ-0068,7591,debito,45663.96,2025-12-17,false,1,Mastercard,2020-12-01,Citibank
+TJ-0069,3710,credito,16338.04,2028-08-24,false,1,Mastercard|Amex,2020-10-14,Banistmo
+TJ-0070,9882,debito,25857.49,2025-04-20,false,0,Visa|Amex,2018-07-09,Banistmo
+TJ-0071,9515,credito,16703.25,2029-08-08,false,1,Mastercard,2021-07-23,Citibank
+TJ-0072,1914,prepago,45582.47,2025-11-14,false,1,Amex|Visa,2019-12-05,Citibank
+TJ-0073,3489,credito,35948.73,2026-12-27,false,1,Mastercard,2019-11-21,Banrural
+TJ-0074,7501,debito,36517.45,2026-06-05,false,0,Mastercard,2023-09-15,HSBC
+TJ-0075,1109,credito,31501.95,2027-11-12,true,10,Visa|Mastercard,2020-03-12,Citibank
+TJ-0076,6174,debito,4304.95,2025-08-21,false,1,Mastercard|Visa,2018-10-29,Banrural
+TJ-0077,4548,debito,48195.59,2029-02-10,false,0,Amex,2023-12-02,Banistmo
+TJ-0078,6818,debito,47934.25,2029-03-11,false,1,Visa,2019-10-19,Citibank
+TJ-0079,5778,prepago,42657.95,2026-04-20,false,0,Visa,2018-06-25,Citibank
+TJ-0080,5083,credito,37412.66,2029-09-12,false,2,Amex,2019-11-12,HSBC
+TJ-0081,3282,prepago,23850.54,2025-12-02,false,0,Mastercard,2023-11-07,Industrial
+TJ-0082,8231,credito,36097.19,2027-12-17,true,7,Visa|Amex,2018-01-11,Davivienda
+TJ-0083,2049,prepago,23010.27,2024-04-02,false,2,Visa|Mastercard,2020-11-03,Banrural
+TJ-0084,3624,debito,31040.53,2028-10-26,false,0,Mastercard|Visa,2019-10-06,Citibank
+TJ-0085,2497,prepago,35759.35,2024-03-16,false,1,Visa,2023-10-04,Banrural
+TJ-0086,9810,debito,35790.26,2025-06-11,false,1,Visa,2018-07-15,BAC
+TJ-0087,1175,debito,7597.38,2026-09-12,false,1,Visa,2023-12-07,Industrial
+TJ-0088,4119,prepago,14314.11,2025-08-06,true,7,Mastercard,2021-09-17,Industrial
+TJ-0089,8122,prepago,7935.74,2024-05-03,false,2,Mastercard,2022-06-12,Industrial
+TJ-0090,7984,prepago,19889.84,2029-04-14,false,2,Visa|Amex,2020-04-25,BAC
+TJ-0091,5562,debito,4149.6,2024-03-18,false,1,Mastercard,2022-05-21,HSBC
+TJ-0092,1070,credito,34602.94,2027-03-23,false,1,Amex|Visa,2019-02-13,Citibank
+TJ-0093,2556,debito,20953.62,2025-08-07,false,2,Amex|Visa,2023-10-14,BAC
+TJ-0094,5845,credito,6831.75,2024-01-25,false,1,Amex,2022-07-29,Banistmo
+TJ-0095,4197,credito,17164.91,2025-10-27,true,8,Visa|Amex,2019-10-29,G&T Continental
+TJ-0096,1786,debito,25657.5,2026-03-01,false,1,Amex|Mastercard,2020-08-20,Citibank
+TJ-0097,1938,prepago,42690.83,2027-06-07,false,1,Visa|Mastercard,2020-03-23,Citibank
+TJ-0098,2745,credito,6674.76,2027-09-12,true,5,Mastercard|Amex,2020-01-14,Davivienda
+TJ-0099,9901,prepago,27376.84,2028-07-04,false,0,Visa,2022-12-29,HSBC
+TJ-0100,1306,credito,1973.73,2028-01-09,false,2,Amex,2023-04-13,Banrural
+TJ-0101,8074,credito,40164.36,2027-06-21,false,0,Amex,2020-06-20,Citibank
+TJ-0102,6381,prepago,38640.2,2028-02-01,false,2,Visa,2021-08-28,Citibank
+TJ-0103,8257,debito,22800.95,2024-12-27,false,0,Mastercard,2020-07-04,BAC
+TJ-0104,6428,debito,21172.18,2025-08-07,false,1,Mastercard|Visa,2018-12-26,Banistmo
+TJ-0105,6843,prepago,28951.57,2024-06-08,true,4,Amex|Visa,2020-01-14,Banrural
+TJ-0106,4300,debito,35756.68,2028-03-19,false,0,Amex,2020-03-12,HSBC
+TJ-0107,2152,credito,33909.33,2029-10-15,false,2,Visa,2023-07-24,HSBC
+TJ-0108,2733,prepago,6724.77,2026-10-06,false,2,Amex|Visa,2023-03-26,Banrural
+TJ-0109,6379,prepago,20303.42,2024-07-18,false,0,Amex,2023-06-13,Citibank
+TJ-0110,3384,prepago,18909.26,2029-09-28,false,1,Amex,2020-11-23,Industrial
+TJ-0111,8658,debito,35137.15,2024-07-28,false,2,Amex,2018-01-17,Davivienda
+TJ-0112,5662,prepago,29537.23,2027-05-02,false,1,Mastercard|Amex,2021-06-22,HSBC
+TJ-0113,1708,debito,20746.61,2025-11-28,true,9,Mastercard,2021-11-07,HSBC
+TJ-0114,5877,debito,41686.89,2025-03-22,false,2,Visa|Mastercard,2020-10-18,Citibank
+TJ-0115,9444,credito,46124.18,2029-10-13,false,1,Mastercard,2022-10-24,Citibank
+TJ-0116,6148,debito,25861.77,2026-07-02,false,2,Mastercard|Amex,2018-10-23,Banistmo
+TJ-0117,6069,credito,49558.14,2024-06-08,false,1,Visa,2022-12-19,Banrural
+TJ-0118,8634,debito,47907.78,2025-01-19,false,2,Mastercard,2018-04-15,BAC
+TJ-0119,9758,credito,20007.31,2025-10-03,false,0,Visa,2023-08-15,Citibank
+TJ-0120,4871,credito,21031.21,2027-10-24,false,0,Amex|Visa,2020-02-07,Industrial
+TJ-0121,3264,prepago,40256.97,2027-07-14,true,6,Mastercard,2020-09-01,Citibank
+TJ-0122,6423,credito,14952.43,2029-01-19,false,0,Amex|Visa,2020-02-11,G&T Continental
+TJ-0123,5025,debito,24621.5,2024-11-02,false,1,Amex|Mastercard,2018-05-17,Industrial
+TJ-0124,6143,debito,17889.15,2029-01-23,false,0,Visa,2018-06-17,Banistmo
+TJ-0125,5120,credito,10533.52,2027-06-20,true,7,Amex|Mastercard,2023-04-10,Banistmo
+TJ-0126,3623,credito,27999.6,2026-10-18,true,4,Mastercard,2018-02-28,Banistmo
+TJ-0127,8169,prepago,20855.84,2025-09-22,false,0,Amex,2020-08-28,BAC
+TJ-0128,5850,debito,21543.07,2027-12-15,false,0,Mastercard,2022-02-28,Citibank
+TJ-0129,6572,prepago,17315.39,2025-05-31,false,1,Amex,2021-09-25,Banistmo
+TJ-0130,9166,debito,38639.86,2027-06-30,true,6,Amex,2019-07-15,Davivienda
+TJ-0131,4140,prepago,36435.57,2024-09-09,false,1,Visa|Amex,2023-10-30,G&T Continental
+TJ-0132,5000,debito,28712.69,2025-08-05,false,1,Visa,2020-01-23,G&T Continental
+TJ-0133,8276,debito,47495.98,2024-04-05,true,9,Mastercard,2018-06-02,Banistmo
+TJ-0134,8573,credito,45966.66,2024-10-01,false,1,Visa,2018-06-08,BAC
+TJ-0135,4420,debito,16157.6,2024-05-15,false,1,Amex|Mastercard,2019-11-02,Banrural
+TJ-0136,2210,prepago,32803.62,2026-08-31,false,2,Amex,2018-10-25,G&T Continental
+TJ-0137,7191,prepago,30860.61,2025-04-05,false,0,Visa|Amex,2023-05-22,Banrural
+TJ-0138,7846,credito,43428.71,2025-05-30,false,0,Amex,2023-03-13,Davivienda
+TJ-0139,3979,debito,39190.79,2027-07-16,false,1,Mastercard|Amex,2019-11-14,G&T Continental
+TJ-0140,4170,credito,8780.19,2029-10-24,true,3,Visa,2022-09-23,BAC
+TJ-0141,5238,debito,35480.73,2028-02-06,false,2,Visa|Mastercard,2023-07-05,Banistmo
+TJ-0142,7831,prepago,41273.86,2028-10-13,true,7,Visa|Mastercard,2021-11-04,G&T Continental
+TJ-0143,4563,debito,27955.5,2026-10-23,false,1,Amex|Mastercard,2018-02-27,Davivienda
+TJ-0144,5466,debito,16585.94,2029-04-01,true,10,Mastercard,2018-12-20,G&T Continental
+TJ-0145,9420,prepago,30726.52,2025-09-19,false,2,Visa|Mastercard,2023-11-10,BAC
+TJ-0146,3233,prepago,40035.8,2025-08-23,false,1,Amex,2022-03-27,HSBC
+TJ-0147,1439,credito,17738.41,2029-07-11,true,4,Visa|Mastercard,2022-05-05,Banistmo
+TJ-0148,1173,credito,4639.27,2028-07-02,false,1,Mastercard|Amex,2018-09-20,G&T Continental
+TJ-0149,9580,credito,44980.78,2025-12-14,false,1,Amex,2022-01-18,Industrial
+TJ-0150,5424,credito,42084.29,2024-03-14,false,0,Amex,2020-12-07,BAC
+TJ-0151,1045,prepago,6806.49,2024-01-05,false,2,Mastercard|Visa,2022-02-12,G&T Continental
+TJ-0152,8656,prepago,6069.57,2024-08-12,true,10,Visa|Mastercard,2020-07-15,Industrial
+TJ-0153,9977,prepago,19276.51,2028-12-18,false,2,Mastercard|Visa,2021-04-17,Banistmo
+TJ-0154,1879,debito,48747.83,2025-01-10,true,3,Visa,2023-04-05,BAC
+TJ-0155,9132,prepago,37108.55,2024-04-25,false,2,Visa,2022-03-05,BAC
+TJ-0156,5735,prepago,24204.21,2026-07-29,false,2,Visa,2018-12-02,BAC
+TJ-0157,3820,prepago,45159.79,2029-04-11,false,1,Mastercard|Amex,2021-09-29,Industrial
+TJ-0158,7918,debito,30155.15,2029-01-22,false,2,Mastercard|Visa,2021-11-20,G&T Continental
+TJ-0159,5225,prepago,32773.86,2024-08-18,false,1,Mastercard,2021-03-10,Banrural
+TJ-0160,4460,debito,15294.32,2028-02-09,false,0,Visa,2023-02-22,Industrial
+TJ-0161,7942,debito,37336.37,2029-01-06,false,1,Amex,2022-03-24,BAC
+TJ-0162,6246,debito,25323.82,2024-12-28,false,1,Amex|Visa,2022-01-27,HSBC
+TJ-0163,7405,prepago,25947.86,2027-01-31,false,1,Amex,2018-08-27,Industrial
+TJ-0164,6528,prepago,20637.62,2027-03-06,false,2,Amex,2021-12-27,Davivienda
+TJ-0165,6418,credito,28681.93,2028-11-23,false,0,Mastercard,2022-03-12,Industrial
+TJ-0166,8231,prepago,29966.96,2025-02-02,false,0,Amex,2018-08-21,Citibank
+TJ-0167,2160,prepago,13263.98,2028-10-03,false,2,Amex|Visa,2019-11-11,Banrural
+TJ-0168,7751,credito,25503.92,2026-05-08,false,0,Amex|Visa,2021-01-31,BAC
+TJ-0169,1653,credito,8242.04,2028-09-10,false,1,Mastercard,2023-07-22,G&T Continental
+TJ-0170,6437,debito,27785.8,2025-11-02,true,10,Amex,2019-08-01,Banrural
+TJ-0171,5618,debito,48615.4,2026-11-12,false,2,Mastercard|Amex,2022-05-03,BAC
+TJ-0172,5061,debito,47962.13,2029-05-27,false,2,Amex|Mastercard,2020-01-09,Banrural
+TJ-0173,2286,debito,9974.92,2027-10-08,false,2,Mastercard,2021-11-10,G&T Continental
+TJ-0174,3964,debito,22854.7,2028-10-18,false,2,Amex|Mastercard,2023-04-12,Citibank
+TJ-0175,6396,prepago,13641.14,2029-01-25,false,1,Visa,2021-02-11,BAC
+TJ-0176,3231,prepago,46845.38,2026-05-22,true,9,Amex,2021-09-06,Banistmo
+TJ-0177,8433,debito,33510.92,2024-09-19,false,2,Mastercard,2022-03-24,Industrial
+TJ-0178,1445,credito,8506.37,2027-02-15,false,2,Mastercard|Amex,2020-09-19,Banistmo
+TJ-0179,6725,debito,6822.59,2024-10-13,false,1,Amex|Mastercard,2019-07-12,G&T Continental
+TJ-0180,4932,credito,48338.31,2029-03-21,false,0,Mastercard|Amex,2023-10-25,BAC
+TJ-0181,4802,credito,19559.6,2025-06-21,false,2,Mastercard,2021-05-11,Industrial
+TJ-0182,4492,debito,48050.88,2025-12-22,false,2,Visa|Mastercard,2019-10-26,HSBC
+TJ-0183,6769,debito,10214.6,2024-09-13,false,0,Amex,2018-11-10,Industrial
+TJ-0184,1234,debito,27682.01,2026-01-31,false,2,Amex|Visa,2022-06-07,Banistmo
+TJ-0185,5895,debito,31506.56,2029-09-22,true,8,Mastercard|Visa,2021-12-19,Banistmo
+TJ-0186,5857,credito,26621.38,2024-04-27,false,0,Mastercard,2019-07-26,Banrural
+TJ-0187,9573,prepago,27474.43,2028-11-07,false,2,Mastercard,2021-01-21,Banistmo
+TJ-0188,9617,debito,9604.55,2029-08-16,false,0,Mastercard|Visa,2021-09-06,G&T Continental
+TJ-0189,2298,prepago,11790.75,2025-11-17,true,10,Amex,2019-11-18,Industrial
+TJ-0190,1274,credito,43505.58,2028-04-12,false,2,Mastercard|Visa,2022-12-18,Davivienda
+TJ-0191,3231,debito,47292.31,2027-10-16,false,0,Visa|Mastercard,2022-04-01,BAC
+TJ-0192,3450,credito,25785.13,2029-06-01,false,1,Mastercard,2022-11-28,Banrural
+TJ-0193,1118,debito,9917.84,2026-07-21,false,0,Amex|Mastercard,2022-02-17,Davivienda
+TJ-0194,7967,credito,10451.01,2025-06-12,false,1,Amex|Visa,2018-08-18,HSBC
+TJ-0195,6564,prepago,18466.19,2029-04-08,false,0,Visa,2023-03-09,Industrial
+TJ-0196,3073,credito,27986.79,2029-01-09,false,0,Amex|Visa,2020-11-08,BAC
+TJ-0197,3496,debito,17766.96,2027-04-04,false,1,Amex,2023-01-17,Davivienda
+TJ-0198,5803,credito,6095.95,2029-05-06,false,2,Mastercard,2022-09-22,HSBC
+TJ-0199,8540,credito,26854.53,2027-11-07,false,1,Mastercard,2021-02-14,HSBC
+TJ-0200,8065,debito,37559.43,2026-04-28,false,0,Amex,2018-10-16,G&T Continental
+TJ-0201,6411,debito,27198.29,2028-11-27,false,0,Amex,2022-09-30,G&T Continental
+TJ-0202,5288,debito,29551.5,2027-02-16,false,0,Mastercard|Visa,2023-06-23,Banistmo
+TJ-0203,6292,credito,3898.69,2025-06-11,true,3,Visa,2023-09-27,BAC
+TJ-0204,4953,prepago,47320.8,2029-08-05,false,0,Visa|Amex,2020-10-11,Citibank
+TJ-0205,1873,debito,44663.53,2024-11-06,false,0,Visa,2022-02-08,Industrial
+TJ-0206,5590,credito,16977.79,2029-02-20,false,0,Amex,2023-01-17,Davivienda
+TJ-0207,8549,credito,49901.24,2028-04-09,false,1,Amex|Mastercard,2023-03-11,HSBC
+TJ-0208,9104,debito,28848.95,2028-02-28,false,1,Mastercard,2021-08-20,Industrial
+TJ-0209,7336,credito,28594.11,2024-12-05,false,1,Mastercard,2023-10-07,Citibank
+TJ-0210,5689,credito,28398.39,2027-11-14,false,0,Visa|Mastercard,2019-08-11,BAC
+TJ-0211,9676,prepago,48849.33,2025-11-02,false,0,Amex|Mastercard,2019-01-30,Banrural
+TJ-0212,4030,credito,15669.1,2028-03-12,false,1,Amex|Mastercard,2021-08-02,G&T Continental
+TJ-0213,4350,credito,39685.11,2025-07-09,true,10,Amex|Mastercard,2023-03-13,Industrial
+TJ-0214,9960,credito,15709.09,2024-08-20,true,6,Amex|Visa,2019-12-07,Banrural
+TJ-0215,5661,debito,1470.74,2025-12-09,false,2,Mastercard,2020-08-14,HSBC
+TJ-0216,1361,prepago,13275.21,2025-12-22,false,2,Amex,2018-06-08,Citibank
+TJ-0217,3699,debito,24431.56,2027-07-22,false,2,Amex,2018-04-21,HSBC
+TJ-0218,8838,prepago,45741.81,2024-12-28,false,0,Visa,2021-08-23,HSBC
+TJ-0219,2414,prepago,45102.18,2024-12-22,false,0,Mastercard,2020-08-13,HSBC
+TJ-0220,7011,debito,4364.21,2026-05-27,false,2,Amex|Visa,2023-03-07,Banistmo
+TJ-0221,2428,credito,25184.87,2027-04-04,false,0,Visa,2019-09-10,BAC
+TJ-0222,2414,prepago,35679.72,2029-08-20,false,0,Visa,2019-01-13,HSBC
+TJ-0223,6002,prepago,2684.12,2029-11-23,false,2,Amex,2023-12-04,Banrural
+TJ-0224,7752,debito,40668.91,2025-10-08,false,0,Amex,2019-03-18,BAC
+TJ-0225,2148,prepago,11630.95,2027-08-07,false,1,Visa,2022-12-17,G&T Continental
+TJ-0226,8062,prepago,20535.93,2024-08-08,false,1,Mastercard,2018-12-15,BAC
+TJ-0227,4566,prepago,27844.94,2025-01-12,false,2,Amex,2023-05-17,HSBC
+TJ-0228,1494,credito,12719.71,2026-04-23,true,5,Visa,2021-01-20,HSBC
+TJ-0229,8042,credito,47949.33,2024-11-09,false,1,Mastercard|Amex,2018-08-26,Davivienda
+TJ-0230,3514,debito,35666.83,2029-02-24,false,0,Visa,2022-03-26,Industrial
+TJ-0231,1427,credito,33444.71,2029-08-25,true,4,Amex,2018-08-13,Citibank
+TJ-0232,8200,credito,47751.21,2028-04-01,false,0,Mastercard,2022-06-23,Davivienda
+TJ-0233,6658,prepago,30769.24,2028-07-07,true,9,Amex|Visa,2019-07-15,Industrial
+TJ-0234,8556,credito,2434.63,2025-03-18,false,2,Amex|Visa,2018-04-19,Davivienda
+TJ-0235,2076,debito,33142.25,2028-09-19,false,0,Visa,2020-06-04,HSBC
+TJ-0236,1501,debito,17544.62,2029-12-29,false,1,Mastercard|Visa,2019-12-02,Industrial
+TJ-0237,1085,prepago,25151.49,2025-08-05,false,2,Amex|Visa,2022-03-12,Citibank
+TJ-0238,6833,debito,49947.87,2025-04-06,false,0,Amex,2022-09-20,BAC
+TJ-0239,6092,prepago,43234.64,2026-08-21,false,1,Amex|Visa,2023-06-27,Industrial
+TJ-0240,4154,credito,47689.53,2029-12-18,false,0,Mastercard,2020-08-22,Banistmo
+TJ-0241,6965,prepago,16248.85,2028-09-20,false,1,Amex|Mastercard,2020-12-24,Banrural
+TJ-0242,9046,credito,7383.2,2028-06-27,false,0,Mastercard,2021-09-25,Citibank
+TJ-0243,8246,debito,20582.16,2025-05-14,false,1,Amex|Mastercard,2018-01-20,Banrural
+TJ-0244,5413,debito,40163.4,2028-02-23,true,10,Amex,2019-04-07,HSBC
+TJ-0245,7213,credito,4561.89,2028-04-10,false,0,Mastercard,2022-05-03,BAC
+TJ-0246,7144,credito,5376.97,2025-11-12,false,1,Mastercard,2021-10-31,Citibank
+TJ-0247,5417,debito,48596.03,2026-11-23,false,0,Amex|Visa,2022-04-05,HSBC
+TJ-0248,4792,debito,23151.77,2026-12-29,false,0,Mastercard,2021-01-21,Citibank
+TJ-0249,6537,prepago,18354.44,2028-08-07,false,1,Visa,2020-08-03,BAC
+TJ-0250,2519,prepago,47808.77,2025-07-17,false,0,Visa|Amex,2023-11-11,Banistmo
+TJ-0251,8726,debito,34662.46,2025-02-09,false,2,Amex|Visa,2022-05-19,Industrial
+TJ-0252,1906,prepago,16917.36,2029-01-21,false,0,Mastercard,2018-05-01,Banrural
+TJ-0253,6909,credito,27636.19,2024-10-12,false,0,Amex|Mastercard,2018-03-20,Industrial
+TJ-0254,9645,prepago,13342.0,2027-01-19,false,0,Mastercard|Visa,2018-03-05,Banistmo
+TJ-0255,8979,prepago,17205.26,2027-10-05,false,2,Mastercard,2020-01-13,Citibank
+TJ-0256,7343,debito,29227.81,2027-04-17,false,0,Amex,2023-05-04,Citibank
+TJ-0257,3136,debito,17796.95,2029-08-12,false,0,Visa,2022-08-27,Banrural
+TJ-0258,8320,credito,14274.2,2029-03-03,false,2,Amex|Mastercard,2020-01-25,Industrial
+TJ-0259,2925,debito,35868.34,2026-07-22,false,0,Mastercard|Amex,2019-01-09,BAC
+TJ-0260,8290,credito,23791.04,2025-02-27,true,5,Amex|Mastercard,2023-01-11,Banistmo
+TJ-0261,4922,credito,42965.31,2027-05-20,false,2,Visa|Mastercard,2019-12-13,Industrial
+TJ-0262,6744,credito,39571.6,2026-04-07,false,2,Mastercard,2019-11-24,Davivienda
+TJ-0263,7641,prepago,25105.19,2025-05-25,false,2,Visa,2019-07-22,Banistmo
+TJ-0264,7199,debito,32223.47,2029-04-18,false,0,Mastercard,2023-10-22,G&T Continental
+TJ-0265,2060,prepago,43399.93,2029-04-03,false,0,Visa|Amex,2023-06-21,Banrural
+TJ-0266,7824,credito,4727.26,2028-07-01,true,7,Mastercard|Visa,2019-02-27,Industrial
+TJ-0267,8495,debito,40211.98,2025-12-07,true,7,Visa|Mastercard,2020-01-27,Industrial
+TJ-0268,8911,debito,28418.83,2029-07-22,false,1,Visa,2023-04-05,Banrural
+TJ-0269,6580,credito,9456.51,2025-01-23,false,0,Amex,2018-05-07,G&T Continental
+TJ-0270,7654,debito,29015.81,2024-09-04,false,2,Amex|Mastercard,2022-08-15,BAC
+TJ-0271,8051,debito,45617.66,2026-04-12,false,2,Amex,2022-01-18,Davivienda
+TJ-0272,6037,debito,38141.05,2029-12-09,true,5,Amex,2018-01-05,BAC
+TJ-0273,8739,credito,41766.36,2024-03-27,false,1,Visa,2023-06-20,BAC
+TJ-0274,9390,prepago,21428.83,2028-11-15,false,2,Visa,2018-05-30,Davivienda
+TJ-0275,1575,prepago,48231.22,2029-10-09,false,0,Amex|Mastercard,2019-09-26,Banistmo
+TJ-0276,5988,prepago,22572.65,2028-08-03,false,2,Amex,2022-08-06,Citibank
+TJ-0277,8778,debito,33986.68,2027-01-06,true,8,Mastercard|Amex,2019-06-30,Banistmo
+TJ-0278,6905,prepago,14532.66,2029-09-19,false,0,Mastercard,2021-01-16,Davivienda
+TJ-0279,6734,credito,43096.12,2024-06-14,false,0,Mastercard|Visa,2019-09-03,BAC
+TJ-0280,3941,debito,30961.36,2026-07-13,false,0,Visa,2022-05-13,HSBC
+TJ-0281,7082,debito,11911.35,2024-02-11,false,2,Mastercard,2020-11-22,BAC
+TJ-0282,4720,debito,5240.53,2029-10-10,false,1,Amex,2019-09-01,HSBC
+TJ-0283,8841,debito,6986.41,2027-11-04,false,2,Mastercard,2018-04-12,BAC
+TJ-0284,6868,credito,20572.58,2028-07-29,false,2,Visa,2019-07-12,Davivienda
+TJ-0285,4556,debito,7346.41,2029-12-22,false,1,Visa|Amex,2023-03-22,G&T Continental
+TJ-0286,4589,debito,34034.3,2026-02-01,false,1,Visa,2018-05-25,Industrial
+TJ-0287,8725,prepago,35249.09,2024-08-05,false,0,Visa|Amex,2020-10-25,BAC
+TJ-0288,8303,credito,14087.79,2026-02-21,false,0,Amex,2019-05-23,Industrial
+TJ-0289,7015,debito,32096.25,2024-12-03,false,0,Amex|Mastercard,2018-02-21,HSBC
+TJ-0290,8207,credito,30029.65,2028-03-02,false,2,Mastercard,2022-09-21,Banistmo
+TJ-0291,7326,debito,19106.93,2027-12-31,false,1,Amex|Visa,2019-01-28,Citibank
+TJ-0292,9837,credito,23714.8,2025-10-06,false,1,Visa|Mastercard,2020-04-24,G&T Continental
+TJ-0293,8377,credito,32736.96,2028-10-21,false,2,Amex|Visa,2020-12-13,G&T Continental
+TJ-0294,4496,prepago,40336.66,2024-06-04,false,0,Amex|Mastercard,2023-10-23,Industrial
+TJ-0295,2315,prepago,19242.43,2026-09-01,false,0,Amex,2023-09-20,Citibank
+TJ-0296,7891,debito,40095.52,2024-11-26,false,2,Visa,2021-09-20,BAC
+TJ-0297,8117,prepago,32818.17,2028-07-16,false,2,Mastercard,2023-02-18,Industrial
+TJ-0298,9097,debito,24080.53,2027-05-04,false,2,Visa|Amex,2022-01-07,Banrural
+TJ-0299,1015,credito,26859.12,2026-01-28,false,1,Mastercard,2022-04-11,G&T Continental
+TJ-0300,6328,debito,28733.0,2028-06-28,false,0,Mastercard|Visa,2022-08-26,Industrial
+TJ-0301,5213,prepago,17504.03,2027-03-29,false,0,Amex,2021-11-25,Citibank
+TJ-0302,5685,debito,18752.4,2028-02-16,false,0,Mastercard,2018-08-27,Davivienda
+TJ-0303,1877,credito,37178.21,2025-01-07,false,0,Amex,2023-03-31,Industrial
+TJ-0304,7161,credito,34461.92,2025-11-18,false,1,Amex|Mastercard,2020-04-19,G&T Continental
+TJ-0305,4350,debito,45988.08,2029-01-25,false,1,Amex,2018-09-25,Banistmo
+TJ-0306,1083,credito,29432.76,2024-05-16,false,2,Mastercard,2023-10-29,Banistmo
+TJ-0307,1375,prepago,22675.89,2025-09-23,false,1,Mastercard|Amex,2020-03-20,Davivienda
+TJ-0308,6948,prepago,47032.81,2025-01-09,false,1,Visa|Amex,2020-03-21,Davivienda
+TJ-0309,7796,debito,45849.29,2028-02-07,true,4,Mastercard,2021-12-04,Davivienda
+TJ-0310,5454,debito,22331.12,2027-05-14,false,1,Visa|Amex,2022-12-10,BAC
+TJ-0311,6334,credito,25557.5,2024-05-02,false,2,Mastercard|Amex,2021-11-13,Banrural
+TJ-0312,8249,prepago,40143.53,2027-05-25,false,2,Mastercard|Visa,2023-12-06,Industrial
+TJ-0313,5480,credito,40949.12,2027-12-24,false,0,Amex|Mastercard,2020-05-27,BAC
+TJ-0314,6298,credito,8340.05,2024-07-03,false,2,Mastercard|Amex,2019-11-09,HSBC
+TJ-0315,5885,credito,18558.03,2029-12-04,false,1,Visa|Amex,2020-02-04,Banrural
+TJ-0316,7371,credito,41304.68,2029-08-28,false,1,Visa,2023-11-05,BAC
+TJ-0317,6084,debito,31472.99,2028-04-12,false,1,Mastercard,2018-08-29,Industrial
+TJ-0318,5252,debito,14534.03,2028-10-28,false,2,Amex,2018-12-02,Banistmo
+TJ-0319,3906,credito,40811.99,2024-06-30,true,6,Amex|Mastercard,2021-12-09,Banistmo
+TJ-0320,2149,prepago,28588.42,2024-06-30,false,0,Visa|Mastercard,2023-11-05,Industrial
+TJ-0321,7108,credito,42409.53,2028-08-30,false,2,Visa|Amex,2020-07-04,Citibank
+TJ-0322,1005,credito,9200.16,2027-10-19,false,1,Amex,2018-02-17,Banrural
+TJ-0323,1510,credito,10033.61,2027-04-20,false,1,Visa|Amex,2022-03-16,BAC
+TJ-0324,2484,prepago,15464.98,2025-04-19,false,0,Amex|Mastercard,2018-05-29,Citibank
+TJ-0325,2554,prepago,40835.97,2026-06-30,false,2,Amex|Mastercard,2018-11-30,Banistmo
+TJ-0326,9068,credito,24668.33,2024-02-16,false,2,Amex|Visa,2020-04-15,G&T Continental
+TJ-0327,6990,credito,25029.39,2025-02-19,false,2,Visa|Amex,2020-06-20,Industrial
+TJ-0328,2216,credito,14692.98,2027-12-16,false,0,Visa,2020-12-22,BAC
+TJ-0329,4493,debito,43766.32,2024-10-26,false,1,Mastercard|Amex,2022-04-28,G&T Continental
+TJ-0330,5176,prepago,1338.35,2028-06-24,false,0,Amex,2020-01-13,Banistmo
+TJ-0331,3151,prepago,2608.42,2026-07-29,false,0,Amex|Mastercard,2018-10-28,Banistmo
+TJ-0332,2528,credito,6398.2,2028-11-02,false,0,Amex,2018-12-02,Banrural
+TJ-0333,3158,prepago,35812.32,2026-07-31,false,2,Visa,2018-08-31,G&T Continental
+TJ-0334,9322,debito,29459.65,2025-07-09,false,0,Visa|Amex,2019-04-17,HSBC
+TJ-0335,6584,prepago,22093.27,2029-08-30,false,2,Visa,2022-05-04,Banrural
+TJ-0336,7628,prepago,3371.71,2027-03-26,false,1,Mastercard,2019-10-31,Banrural
+TJ-0337,1802,credito,39837.72,2024-01-25,true,4,Mastercard|Visa,2018-02-24,HSBC
+TJ-0338,7669,credito,43945.7,2024-11-04,false,2,Visa|Mastercard,2018-06-06,Industrial
+TJ-0339,6335,debito,14743.98,2027-12-14,false,0,Visa|Mastercard,2023-08-17,BAC
+TJ-0340,3157,prepago,47288.56,2026-12-10,false,1,Mastercard|Visa,2021-11-27,BAC
+TJ-0341,3320,prepago,49157.3,2024-11-16,false,1,Amex,2018-03-07,HSBC
+TJ-0342,8443,prepago,22710.07,2028-10-31,false,0,Visa|Mastercard,2023-02-04,Banistmo
+TJ-0343,2402,prepago,40514.68,2026-03-10,false,0,Mastercard,2021-03-16,Davivienda
+TJ-0344,7567,credito,24001.25,2027-04-17,false,2,Amex|Mastercard,2018-02-28,G&T Continental
+TJ-0345,7347,credito,30828.77,2028-12-31,false,1,Visa,2022-05-18,Banistmo
+TJ-0346,9849,debito,22333.93,2026-02-15,false,1,Mastercard,2022-06-27,Banistmo
+TJ-0347,1753,credito,20395.87,2028-03-30,false,0,Amex|Mastercard,2021-04-24,BAC
+TJ-0348,6962,debito,47640.43,2026-04-24,false,0,Mastercard,2019-08-30,HSBC
+TJ-0349,4327,debito,8417.21,2028-05-17,false,0,Amex,2021-08-07,HSBC
+TJ-0350,2024,debito,9807.89,2028-01-22,false,0,Visa|Amex,2022-01-14,Industrial
+TJ-0351,2436,credito,36230.61,2029-10-10,false,1,Mastercard|Visa,2021-09-11,Industrial
+TJ-0352,3447,credito,8321.73,2025-05-21,false,0,Visa,2021-01-14,HSBC
+TJ-0353,4706,prepago,6341.14,2027-02-09,false,2,Mastercard,2018-05-07,Davivienda
+TJ-0354,5345,prepago,45439.76,2026-03-17,false,2,Mastercard|Visa,2021-05-29,BAC
+TJ-0355,2583,credito,21927.12,2029-12-14,false,0,Visa,2020-06-07,Davivienda
+TJ-0356,9471,credito,25610.16,2024-03-04,false,0,Visa|Mastercard,2019-10-29,Banistmo
+TJ-0357,8588,prepago,38845.49,2028-11-17,false,0,Mastercard|Amex,2023-01-24,HSBC
+TJ-0358,6682,credito,21433.56,2027-05-15,false,2,Visa,2023-07-17,G&T Continental
+TJ-0359,5840,prepago,10098.29,2027-08-11,false,0,Visa|Amex,2023-03-24,G&T Continental
+TJ-0360,6425,credito,49260.34,2026-10-28,false,1,Visa|Amex,2023-09-24,Davivienda
+TJ-0361,5292,debito,20438.8,2028-11-17,false,1,Amex|Visa,2023-12-21,G&T Continental
+TJ-0362,9112,debito,16726.69,2029-08-12,false,1,Amex,2019-06-14,BAC
+TJ-0363,6134,credito,4540.51,2026-05-31,false,2,Amex|Mastercard,2020-02-16,Banrural
+TJ-0364,3232,debito,7291.33,2024-05-21,false,1,Amex|Visa,2020-11-18,HSBC
+TJ-0365,2995,credito,40458.2,2024-11-30,false,1,Mastercard|Visa,2022-04-14,HSBC
+TJ-0366,8558,debito,14289.83,2026-04-18,false,0,Amex,2023-05-16,Banrural
+TJ-0367,6937,credito,12127.0,2026-09-22,false,1,Visa|Mastercard,2023-03-30,BAC
+TJ-0368,1748,prepago,11095.07,2027-05-24,true,6,Mastercard|Amex,2022-02-01,Citibank
+TJ-0369,7772,prepago,4372.14,2029-12-13,false,2,Mastercard,2023-09-28,Banistmo
+TJ-0370,3143,credito,18951.45,2025-09-20,true,10,Visa|Mastercard,2022-11-26,Industrial
+TJ-0371,9045,debito,29585.2,2024-07-03,false,0,Visa,2019-10-19,G&T Continental
+TJ-0372,6267,debito,28280.64,2028-12-03,false,0,Mastercard|Visa,2019-04-27,HSBC
+TJ-0373,9607,credito,40080.23,2029-03-12,false,1,Mastercard|Amex,2020-11-13,BAC
+TJ-0374,4623,debito,19864.8,2027-12-17,false,1,Visa,2023-01-15,Banistmo
+TJ-0375,3281,credito,42885.56,2025-09-25,false,0,Amex,2019-06-05,Banrural
+TJ-0376,4482,prepago,21351.57,2025-11-06,false,1,Mastercard|Visa,2022-10-14,HSBC
+TJ-0377,4530,prepago,11093.53,2024-02-15,false,1,Amex|Mastercard,2019-11-12,BAC
+TJ-0378,7568,prepago,48364.49,2024-05-12,false,1,Visa|Amex,2020-01-15,Industrial
+TJ-0379,5335,credito,49925.58,2029-11-04,false,2,Amex|Visa,2019-04-06,HSBC
+TJ-0380,8094,debito,5805.82,2026-12-06,false,0,Visa,2022-05-12,Industrial
+TJ-0381,2447,debito,38099.97,2024-03-18,false,1,Mastercard,2020-10-30,Banrural
+TJ-0382,7730,prepago,17564.48,2027-12-03,true,8,Amex|Mastercard,2019-11-15,Banrural
+TJ-0383,9186,prepago,37980.57,2025-03-03,false,0,Visa|Mastercard,2021-10-10,Davivienda
+TJ-0384,7549,debito,21955.82,2029-07-09,false,1,Mastercard|Visa,2022-01-18,Banistmo
+TJ-0385,6056,credito,24790.79,2024-10-25,true,8,Amex,2018-04-07,HSBC
+TJ-0386,9050,credito,10407.44,2024-02-23,false,2,Mastercard|Visa,2022-01-28,BAC
+TJ-0387,2228,credito,11973.25,2025-03-11,true,8,Amex|Visa,2021-06-14,HSBC
+TJ-0388,4257,debito,48619.18,2029-08-07,false,2,Visa,2020-12-07,BAC
+TJ-0389,9594,debito,5765.19,2028-04-23,true,7,Amex|Visa,2021-07-01,Banrural
+TJ-0390,8884,credito,26985.46,2024-04-19,false,1,Amex|Mastercard,2023-03-07,Industrial
+TJ-0391,3973,credito,29617.63,2028-06-03,false,0,Visa,2020-03-04,Davivienda
+TJ-0392,6006,credito,34056.71,2024-08-22,false,1,Amex|Mastercard,2019-10-11,HSBC
+TJ-0393,8683,credito,33564.08,2028-01-31,false,1,Amex|Visa,2019-10-05,Davivienda
+TJ-0394,2942,credito,34383.24,2027-06-16,false,2,Mastercard,2023-08-07,Industrial
+TJ-0395,3996,prepago,41997.96,2028-08-21,false,0,Amex|Mastercard,2022-07-23,Banistmo
+TJ-0396,1572,prepago,17808.1,2029-04-26,false,0,Amex|Mastercard,2023-05-16,HSBC
+TJ-0397,4187,debito,14416.53,2029-07-25,false,0,Mastercard,2020-04-02,G&T Continental
+TJ-0398,9073,prepago,21790.56,2027-12-07,false,2,Mastercard|Amex,2023-10-24,Davivienda
+TJ-0399,7344,debito,31332.0,2026-12-21,false,1,Mastercard,2021-12-19,Industrial
+TJ-0400,8263,debito,43313.18,2024-05-27,false,2,Mastercard,2018-04-07,Citibank
+TJ-0401,9112,credito,30425.27,2024-01-23,false,2,Amex|Mastercard,2021-07-13,Industrial
+TJ-0402,5238,debito,43998.93,2026-08-28,false,1,Mastercard|Visa,2023-05-29,BAC
+TJ-0403,9717,credito,10737.36,2029-12-25,false,1,Amex|Visa,2020-02-04,Banrural
+TJ-0404,7222,debito,48824.88,2029-11-19,false,0,Visa|Mastercard,2020-06-25,Davivienda
+TJ-0405,5502,credito,18235.66,2028-05-01,false,0,Amex,2020-11-20,BAC
+TJ-0406,1751,prepago,44095.48,2028-07-27,false,1,Amex,2023-01-26,Banistmo
+TJ-0407,5773,debito,23896.68,2028-10-15,false,1,Mastercard|Visa,2020-10-11,Industrial
+TJ-0408,3236,debito,10631.73,2029-04-27,false,1,Mastercard,2019-08-24,BAC
+TJ-0409,5647,credito,3615.24,2024-12-29,false,0,Amex,2023-06-27,Banistmo
+TJ-0410,9737,credito,34421.02,2027-09-05,true,4,Mastercard|Amex,2023-03-06,Davivienda
+TJ-0411,8689,credito,26400.11,2026-08-24,false,0,Visa|Mastercard,2020-10-27,Industrial
+TJ-0412,8326,prepago,19189.03,2029-04-21,false,2,Mastercard,2018-04-04,Citibank
+TJ-0413,4005,debito,2553.51,2029-03-29,false,0,Amex|Mastercard,2021-09-30,Banistmo
+TJ-0414,1990,debito,5174.63,2025-05-05,false,0,Visa,2022-06-23,Banrural
+TJ-0415,2798,credito,10192.56,2029-03-06,false,1,Amex|Mastercard,2019-02-24,Industrial
+TJ-0416,5070,debito,21150.07,2029-08-12,false,1,Mastercard,2023-08-31,BAC
+TJ-0417,2083,credito,31770.46,2028-07-14,false,2,Visa|Amex,2022-10-17,HSBC
+TJ-0418,1586,debito,26857.8,2027-05-19,true,10,Amex|Visa,2018-02-13,Industrial
+TJ-0419,6755,debito,11440.27,2027-09-07,false,2,Amex|Visa,2021-04-07,HSBC
+TJ-0420,8851,credito,26189.56,2024-02-10,false,0,Mastercard,2023-09-04,Industrial
+TJ-0421,7389,debito,13039.52,2024-12-04,false,1,Amex|Mastercard,2023-08-21,HSBC
+TJ-0422,5377,credito,27990.47,2027-07-16,false,2,Visa,2020-03-29,G&T Continental
+TJ-0423,1551,debito,31690.33,2028-03-02,false,1,Amex,2021-11-02,G&T Continental
+TJ-0424,1886,credito,37417.64,2025-10-13,false,0,Visa,2022-07-06,Banistmo
+TJ-0425,1349,prepago,41303.53,2025-11-07,false,0,Mastercard|Amex,2020-12-20,BAC
+TJ-0426,1480,debito,30264.86,2025-04-25,false,1,Visa|Amex,2023-03-12,Industrial
+TJ-0427,1421,credito,8152.51,2028-01-03,false,0,Amex,2021-08-29,BAC
+TJ-0428,3097,credito,4840.92,2029-12-17,true,5,Amex,2022-04-24,G&T Continental
+TJ-0429,1908,debito,26888.93,2025-05-24,false,2,Amex,2020-08-30,BAC
+TJ-0430,6678,debito,27003.65,2029-01-10,false,0,Mastercard|Amex,2023-01-06,Industrial
+TJ-0431,9608,prepago,8367.69,2027-09-11,false,2,Visa|Amex,2022-03-15,Banrural
+TJ-0432,8962,credito,43118.58,2026-02-08,false,2,Mastercard,2021-01-29,G&T Continental
+TJ-0433,2613,prepago,17821.46,2028-01-24,false,1,Amex|Mastercard,2023-12-03,Banrural
+TJ-0434,6545,prepago,3009.92,2024-08-07,false,2,Amex,2022-09-30,Citibank
+TJ-0435,5289,prepago,25588.59,2028-05-06,false,0,Visa|Mastercard,2023-10-01,HSBC
+TJ-0436,2886,prepago,42420.03,2024-05-04,false,2,Amex,2020-11-11,HSBC
+TJ-0437,5759,credito,12629.03,2027-09-23,false,0,Mastercard|Amex,2021-11-20,Citibank
+TJ-0438,4446,debito,43186.19,2029-09-13,false,2,Visa,2023-09-11,G&T Continental
+TJ-0439,8317,debito,39022.24,2027-05-13,false,1,Amex|Mastercard,2023-07-13,HSBC
+TJ-0440,3947,debito,14909.72,2025-04-26,false,0,Amex,2023-01-07,G&T Continental
+TJ-0441,5068,debito,30210.62,2024-06-06,false,0,Visa|Mastercard,2021-09-17,Citibank
+TJ-0442,5656,prepago,41774.26,2028-08-31,false,1,Amex|Visa,2022-11-23,Banistmo
+TJ-0443,6585,debito,33290.56,2029-06-24,false,0,Mastercard,2022-01-31,Industrial
+TJ-0444,1489,credito,39049.64,2028-10-31,false,1,Amex|Visa,2022-03-19,HSBC
+TJ-0445,3537,credito,25050.13,2029-05-31,false,1,Visa|Amex,2021-03-05,Citibank
+TJ-0446,4308,debito,6057.73,2024-07-21,false,0,Mastercard|Amex,2021-10-09,Industrial
+TJ-0447,6786,debito,31501.86,2027-10-09,false,1,Visa|Amex,2022-10-03,Industrial
+TJ-0448,8924,prepago,48556.45,2028-08-25,false,1,Amex,2021-12-29,BAC
+TJ-0449,2501,credito,25634.36,2024-07-27,false,1,Visa,2023-04-25,Banrural
+TJ-0450,6400,prepago,24105.91,2027-08-08,false,0,Amex,2023-02-15,Industrial
+TJ-0451,7286,credito,39143.38,2026-09-20,false,0,Visa|Mastercard,2018-04-11,Banrural
+TJ-0452,7091,prepago,10648.27,2024-11-16,true,4,Mastercard,2020-04-18,G&T Continental
+TJ-0453,7650,debito,3375.89,2026-02-16,true,6,Amex,2022-11-11,Industrial
+TJ-0454,1697,credito,45572.71,2026-08-25,false,2,Amex|Visa,2018-09-15,Industrial
+TJ-0455,5642,debito,26466.92,2028-08-15,false,1,Mastercard|Visa,2021-01-23,G&T Continental
+TJ-0456,9907,credito,15649.9,2025-01-14,false,0,Visa|Mastercard,2022-11-17,HSBC
+TJ-0457,3439,prepago,40992.43,2027-06-11,false,1,Mastercard,2023-03-12,Industrial
+TJ-0458,3727,debito,30364.28,2028-11-13,false,1,Mastercard,2021-09-02,Banrural
+TJ-0459,8772,debito,41414.65,2027-05-23,false,1,Mastercard,2022-05-09,Davivienda
+TJ-0460,6012,debito,19817.09,2026-06-08,false,2,Visa|Amex,2021-09-01,Citibank
+TJ-0461,7608,debito,33026.13,2026-03-13,false,2,Visa|Amex,2022-04-01,BAC
+TJ-0462,7144,debito,38517.95,2028-05-10,false,1,Amex|Visa,2019-05-14,G&T Continental
+TJ-0463,3390,credito,33584.46,2025-07-12,false,1,Amex|Mastercard,2019-07-17,G&T Continental
+TJ-0464,4711,debito,11181.65,2029-06-13,false,2,Visa|Mastercard,2018-09-21,Industrial
+TJ-0465,9059,debito,35635.36,2029-11-03,false,1,Amex|Visa,2018-07-30,HSBC
+TJ-0466,6371,prepago,19867.07,2027-08-26,false,2,Amex|Mastercard,2022-03-04,Davivienda
+TJ-0467,1034,credito,44447.93,2027-10-13,false,0,Mastercard,2023-05-16,Banistmo
+TJ-0468,5185,prepago,13934.42,2028-08-23,false,0,Mastercard,2018-05-30,Citibank
+TJ-0469,5183,debito,18401.45,2026-10-26,false,1,Visa,2018-09-09,HSBC
+TJ-0470,9357,debito,22710.76,2029-02-10,false,2,Mastercard,2019-07-17,BAC
+TJ-0471,2356,prepago,29147.5,2029-12-01,false,1,Mastercard,2022-08-02,Citibank
+TJ-0472,4857,credito,16513.34,2027-08-01,false,0,Amex,2020-12-13,Industrial
+TJ-0473,4044,prepago,28570.08,2029-05-02,false,1,Amex|Visa,2020-02-02,Davivienda
+TJ-0474,1780,debito,7313.98,2026-04-17,false,2,Visa,2022-07-06,BAC
+TJ-0475,9280,prepago,48556.6,2029-07-04,false,0,Mastercard,2019-09-11,G&T Continental
+TJ-0476,9662,debito,18129.01,2027-04-25,false,2,Mastercard|Visa,2021-09-29,G&T Continental
+TJ-0477,3952,debito,31204.65,2028-10-24,false,0,Mastercard,2020-06-01,Citibank
+TJ-0478,9254,credito,3192.61,2024-01-26,false,2,Mastercard|Amex,2019-05-21,Industrial
+TJ-0479,2258,credito,30171.59,2025-09-19,true,5,Mastercard,2023-02-10,HSBC
+TJ-0480,4295,debito,6401.32,2029-01-04,false,0,Visa,2021-03-06,Industrial
+TJ-0481,3068,debito,14818.19,2024-12-22,true,5,Mastercard|Amex,2021-12-10,Banistmo
+TJ-0482,3875,credito,10861.07,2024-12-20,false,1,Mastercard|Visa,2022-09-11,G&T Continental
+TJ-0483,6338,debito,17580.23,2028-09-20,false,1,Visa,2020-09-18,Banistmo
+TJ-0484,8750,prepago,3814.71,2029-02-05,false,2,Visa|Amex,2018-02-01,Citibank
+TJ-0485,8153,prepago,24883.98,2028-10-11,false,2,Mastercard,2023-03-09,Banrural
+TJ-0486,3913,credito,35193.39,2025-01-09,false,1,Amex|Visa,2020-01-09,Industrial
+TJ-0487,4074,prepago,40369.68,2026-08-05,false,0,Mastercard|Amex,2021-08-02,Banrural
+TJ-0488,7858,debito,24180.94,2024-08-17,false,1,Visa|Amex,2019-03-20,Industrial
+TJ-0489,5446,credito,20401.3,2026-12-21,true,9,Amex|Mastercard,2019-03-29,BAC
+TJ-0490,1565,debito,4372.38,2024-09-22,false,1,Amex|Visa,2021-07-18,Banrural
+TJ-0491,4626,credito,14937.23,2028-02-04,true,6,Mastercard,2020-04-11,Industrial
+TJ-0492,8896,prepago,38840.06,2027-05-24,true,6,Amex|Visa,2018-01-12,HSBC
+TJ-0493,5317,credito,23091.02,2029-01-12,true,3,Visa,2023-03-10,BAC
+TJ-0494,5416,debito,4012.9,2026-01-23,false,1,Amex,2020-07-06,Industrial
+TJ-0495,8711,credito,23004.96,2028-03-12,false,1,Mastercard,2022-03-31,Davivienda
+TJ-0496,6809,prepago,5625.29,2026-08-27,false,2,Visa,2018-10-11,BAC
+TJ-0497,6948,prepago,5114.15,2028-03-30,false,2,Visa,2018-10-29,Davivienda
+TJ-0498,7156,debito,32535.57,2024-04-24,false,2,Amex|Mastercard,2018-06-26,Banistmo
+TJ-0499,5849,debito,41573.7,2027-09-30,false,2,Mastercard,2023-03-29,BAC
+TJ-0500,7261,debito,1328.62,2026-12-04,false,1,Visa,2023-04-05,Citibank
+TJ-0501,3986,debito,6422.31,2025-10-17,false,1,Visa,2022-04-18,Banrural
+TJ-0502,8145,prepago,43176.31,2024-03-22,false,2,Visa,2020-06-21,Banistmo
+TJ-0503,2114,prepago,14638.57,2024-01-15,false,2,Amex,2023-03-30,BAC
+TJ-0504,4216,credito,25480.11,2028-07-21,true,5,Mastercard,2023-11-16,Davivienda
+TJ-0505,9043,debito,39459.84,2024-12-12,false,1,Visa|Mastercard,2023-09-06,G&T Continental
+TJ-0506,2647,credito,28595.24,2028-10-14,false,2,Mastercard|Amex,2018-04-26,Davivienda
+TJ-0507,6209,prepago,18738.83,2025-04-04,false,2,Visa,2018-06-01,Citibank
+TJ-0508,2968,credito,19051.35,2026-09-10,false,2,Mastercard|Visa,2021-12-11,BAC
+TJ-0509,6847,credito,21796.37,2026-12-24,true,9,Visa|Mastercard,2019-05-10,G&T Continental
+TJ-0510,9029,prepago,25335.24,2029-09-18,false,1,Mastercard|Amex,2020-09-04,Citibank
+TJ-0511,6457,prepago,27953.24,2026-06-04,false,2,Mastercard,2022-05-03,Davivienda
+TJ-0512,3907,debito,8085.17,2024-05-27,false,0,Visa,2022-04-06,HSBC
+TJ-0513,3016,credito,19694.66,2029-07-03,false,0,Amex,2022-09-18,Industrial
+TJ-0514,4915,prepago,2841.01,2024-11-08,false,0,Amex|Visa,2018-06-12,Citibank
+TJ-0515,9689,credito,26264.38,2029-05-09,false,1,Visa,2021-09-11,Citibank
+TJ-0516,3812,credito,7651.82,2027-02-07,false,2,Mastercard|Amex,2023-08-28,Banrural
+TJ-0517,3582,debito,29953.62,2026-03-17,true,7,Visa|Mastercard,2020-08-03,G&T Continental
+TJ-0518,3251,prepago,11830.39,2028-12-09,false,2,Amex|Mastercard,2021-10-06,BAC
+TJ-0519,5536,prepago,36339.83,2028-12-04,false,1,Mastercard,2021-08-26,Davivienda
+TJ-0520,9109,prepago,24643.28,2024-11-19,false,1,Visa|Amex,2019-05-30,HSBC
+TJ-0521,6230,credito,18137.37,2029-08-21,false,2,Visa,2021-09-15,Davivienda
+TJ-0522,3305,debito,8738.14,2027-01-17,false,2,Amex,2020-02-10,Banistmo
+TJ-0523,7113,debito,32538.95,2028-09-06,false,0,Visa|Amex,2019-02-16,Banistmo
+TJ-0524,8546,credito,40522.74,2027-07-15,false,1,Mastercard,2021-01-20,Industrial
+TJ-0525,5466,debito,40291.41,2024-09-04,false,2,Visa,2021-05-13,G&T Continental
+TJ-0526,8765,debito,31489.46,2027-11-29,false,1,Visa,2018-01-06,Banrural
+TJ-0527,2163,prepago,27739.18,2028-08-29,false,2,Visa,2019-09-30,Industrial
+TJ-0528,6258,credito,26904.8,2029-08-21,false,2,Visa,2019-01-01,Citibank
+TJ-0529,1615,credito,15678.84,2028-02-22,false,1,Amex,2019-01-14,Banistmo
+TJ-0530,3643,debito,10181.44,2027-10-01,false,1,Mastercard|Visa,2018-01-14,G&T Continental
+TJ-0531,4776,debito,35743.39,2028-05-13,false,2,Visa,2020-10-20,HSBC
+TJ-0532,2365,debito,13059.88,2027-04-23,true,6,Mastercard|Amex,2018-09-12,Citibank
+TJ-0533,5246,debito,34573.84,2024-07-26,false,1,Visa,2023-11-23,Banrural
+TJ-0534,6856,credito,20167.96,2027-10-13,true,5,Mastercard,2018-12-16,G&T Continental
+TJ-0535,3792,credito,15262.19,2025-03-13,true,10,Mastercard|Visa,2022-04-18,BAC
+TJ-0536,6528,debito,13401.55,2024-12-17,false,2,Mastercard|Visa,2020-02-25,Industrial
+TJ-0537,8122,debito,18623.17,2024-02-20,false,0,Amex|Visa,2021-09-08,Banistmo
+TJ-0538,6234,prepago,6712.07,2025-02-09,false,2,Amex|Mastercard,2019-11-30,BAC
+TJ-0539,3911,prepago,40346.7,2025-12-31,false,0,Amex,2019-04-21,Banrural
+TJ-0540,3621,prepago,29561.94,2027-01-12,false,2,Mastercard,2019-03-28,HSBC
+TJ-0541,2377,credito,40962.8,2028-01-22,true,9,Amex,2019-05-11,HSBC
+TJ-0542,7753,debito,8537.98,2025-05-09,false,0,Visa,2023-01-19,HSBC
+TJ-0543,3492,credito,31344.71,2029-09-03,false,2,Amex|Mastercard,2022-11-21,Banistmo
+TJ-0544,5870,prepago,4631.04,2025-08-24,false,1,Amex,2019-05-26,Industrial
+TJ-0545,8488,prepago,17020.49,2025-02-20,false,1,Mastercard|Visa,2021-07-07,Industrial
+TJ-0546,2862,prepago,33076.94,2025-01-24,false,0,Visa,2023-10-21,Citibank
+TJ-0547,4567,credito,18605.89,2029-12-25,false,0,Mastercard,2020-01-20,HSBC
+TJ-0548,1202,prepago,7143.83,2026-10-28,false,1,Mastercard,2023-05-07,Banrural
+TJ-0549,3590,credito,49754.56,2027-07-06,false,0,Visa|Amex,2022-10-03,Davivienda
+TJ-0550,8343,debito,19858.39,2027-06-27,false,0,Amex,2023-07-15,Banistmo
+TJ-0551,8696,debito,3538.64,2029-08-06,false,1,Visa,2018-06-12,Davivienda
+TJ-0552,3924,debito,42299.05,2024-07-31,false,0,Visa,2018-05-27,Citibank
+TJ-0553,1305,prepago,33987.5,2029-07-12,false,0,Mastercard|Visa,2021-11-12,HSBC
+TJ-0554,6674,debito,44382.77,2028-11-24,false,2,Amex,2019-12-30,Davivienda
+TJ-0555,8117,prepago,47721.62,2026-08-16,false,2,Amex|Visa,2020-06-18,Banrural
+TJ-0556,3773,prepago,29251.35,2028-04-10,false,2,Amex,2019-11-13,Davivienda
+TJ-0557,7987,prepago,2045.75,2024-06-11,false,1,Amex,2020-08-09,Citibank
+TJ-0558,8481,prepago,12318.26,2029-11-04,false,2,Amex|Visa,2018-10-17,Banrural
+TJ-0559,4065,prepago,4962.87,2026-02-22,false,1,Mastercard,2023-03-31,BAC
+TJ-0560,8688,prepago,1161.53,2029-05-17,false,1,Amex,2021-05-03,HSBC
+TJ-0561,7545,credito,39329.67,2029-02-11,false,1,Amex|Mastercard,2019-05-29,Banrural
+TJ-0562,1188,debito,45685.68,2028-01-08,false,0,Amex|Mastercard,2022-01-10,HSBC
+TJ-0563,3668,debito,29552.25,2027-10-10,false,0,Visa,2018-05-22,Citibank
+TJ-0564,6751,debito,5717.1,2028-08-20,false,0,Visa|Amex,2018-04-17,Banistmo
+TJ-0565,6613,credito,33953.69,2028-10-22,false,0,Mastercard|Visa,2021-10-04,BAC
+TJ-0566,9048,credito,25334.75,2025-08-06,false,0,Mastercard,2019-07-05,Banistmo
+TJ-0567,8976,prepago,39555.45,2029-03-24,false,0,Amex,2019-12-08,Industrial
+TJ-0568,9929,credito,7856.45,2024-11-24,false,1,Amex,2020-07-31,Citibank
+TJ-0569,6033,prepago,22712.89,2027-08-04,false,0,Visa,2019-10-23,Davivienda
+TJ-0570,7932,credito,38113.58,2029-08-01,false,0,Visa,2021-06-06,Industrial
+TJ-0571,2722,credito,49819.27,2029-08-25,false,1,Visa,2018-08-09,Banistmo
+TJ-0572,6477,prepago,44542.39,2024-04-17,false,0,Amex,2019-01-27,BAC
+TJ-0573,7840,debito,27809.94,2028-03-04,false,2,Amex,2018-06-03,BAC
+TJ-0574,9205,credito,15923.03,2026-11-01,false,0,Mastercard,2018-07-06,G&T Continental
+TJ-0575,7924,credito,21805.98,2029-04-11,false,2,Amex|Visa,2020-01-23,Banrural
+TJ-0576,8835,credito,11271.6,2025-06-09,false,0,Visa|Mastercard,2023-07-23,HSBC
+TJ-0577,4357,debito,15966.33,2025-03-03,false,0,Mastercard|Visa,2018-07-04,BAC
+TJ-0578,7473,credito,4216.15,2027-04-12,false,0,Visa,2020-08-18,Citibank
+TJ-0579,8458,prepago,15869.61,2024-07-12,false,2,Visa|Amex,2020-08-08,Citibank
+TJ-0580,8606,credito,33189.89,2029-06-26,false,1,Amex,2023-11-12,Davivienda
+TJ-0581,8437,debito,21752.45,2028-11-28,false,1,Visa,2023-08-11,Davivienda
+TJ-0582,2252,credito,39701.86,2024-12-10,false,2,Amex,2023-02-13,G&T Continental
+TJ-0583,9301,debito,12016.41,2027-01-31,true,8,Amex,2020-11-01,Citibank
+TJ-0584,9213,debito,46540.24,2024-12-12,false,2,Amex|Visa,2021-02-23,Banrural
+TJ-0585,1501,debito,48130.18,2028-07-07,false,1,Visa,2019-03-15,Citibank
+TJ-0586,6226,prepago,17241.13,2026-02-28,false,2,Amex,2021-08-25,Industrial
+TJ-0587,3297,credito,18723.16,2027-02-16,false,1,Visa,2020-01-19,Davivienda
+TJ-0588,6180,debito,2523.74,2028-08-08,true,6,Mastercard|Amex,2018-02-04,G&T Continental
+TJ-0589,8671,prepago,4660.47,2027-12-25,false,0,Amex|Mastercard,2020-02-01,BAC
+TJ-0590,6674,debito,34439.63,2027-11-27,false,2,Visa|Mastercard,2020-12-29,HSBC
+TJ-0591,1590,debito,38183.39,2029-10-15,false,2,Mastercard|Amex,2023-08-24,G&T Continental
+TJ-0592,3218,credito,38352.01,2024-05-08,false,2,Mastercard,2019-07-27,BAC
+TJ-0593,1354,prepago,16207.43,2024-10-05,false,0,Mastercard,2022-07-07,Banrural
+TJ-0594,7013,prepago,25097.28,2024-03-04,false,1,Visa,2021-06-26,Banistmo
+TJ-0595,2340,prepago,21503.49,2027-01-24,false,0,Visa|Mastercard,2021-05-16,Davivienda
+TJ-0596,5239,prepago,27882.09,2029-04-09,true,4,Visa,2019-04-27,Davivienda
+TJ-0597,1225,credito,12867.19,2027-08-29,false,1,Amex,2021-03-14,HSBC
+TJ-0598,1477,debito,12969.42,2027-06-15,false,1,Amex|Mastercard,2020-11-16,BAC
+TJ-0599,1934,debito,40106.65,2026-07-21,false,2,Mastercard,2022-12-17,G&T Continental
+TJ-0600,3635,debito,23888.69,2027-03-03,false,2,Visa,2020-02-24,BAC
+TJ-0601,7979,debito,13007.99,2026-10-10,true,4,Mastercard|Amex,2022-03-03,Banrural
+TJ-0602,3043,credito,23722.1,2024-11-26,false,1,Visa,2020-10-03,HSBC
+TJ-0603,8541,debito,10692.71,2025-09-25,false,1,Amex|Mastercard,2021-04-27,BAC
+TJ-0604,6416,credito,19617.18,2027-07-15,false,0,Visa,2019-05-21,Banrural
+TJ-0605,5224,credito,32212.39,2025-04-10,false,2,Amex,2019-07-18,BAC
+TJ-0606,9008,credito,13144.48,2028-07-04,false,2,Visa,2018-05-16,Citibank
+TJ-0607,3892,credito,48910.77,2027-06-20,false,1,Amex,2022-10-03,Davivienda
+TJ-0608,5003,prepago,37951.9,2026-03-30,false,2,Amex|Visa,2021-07-18,Banistmo
+TJ-0609,7706,credito,48202.71,2027-07-04,true,7,Amex|Visa,2022-08-20,Banrural
+TJ-0610,6397,debito,11273.06,2027-07-21,false,2,Mastercard,2023-12-11,G&T Continental
+TJ-0611,7041,credito,27159.02,2027-01-09,false,2,Visa|Amex,2020-02-24,G&T Continental
+TJ-0612,7069,prepago,12269.5,2027-11-25,false,2,Amex,2020-04-24,Citibank
+TJ-0613,3808,prepago,26375.71,2027-10-08,false,0,Mastercard|Visa,2023-07-30,Banrural
+TJ-0614,8390,credito,18674.9,2027-04-22,false,0,Visa|Mastercard,2023-04-23,Davivienda
+TJ-0615,5146,debito,39151.64,2027-01-25,false,2,Mastercard|Visa,2018-05-19,HSBC
+TJ-0616,1866,credito,22303.29,2028-05-02,false,2,Mastercard,2021-05-04,Banistmo
+TJ-0617,8495,debito,40505.14,2026-05-01,false,1,Amex|Visa,2021-12-11,HSBC
+TJ-0618,7223,credito,29557.67,2025-07-26,false,0,Mastercard,2018-04-10,Davivienda
+TJ-0619,6905,debito,40681.48,2027-12-21,false,2,Amex,2022-11-18,BAC
+TJ-0620,8112,credito,29101.73,2026-06-30,true,5,Mastercard|Visa,2022-12-09,G&T Continental
+TJ-0621,3229,debito,33753.01,2025-03-02,false,2,Mastercard|Visa,2019-05-25,Banistmo
+TJ-0622,4565,credito,19214.91,2026-08-04,false,2,Visa|Mastercard,2020-12-31,G&T Continental
+TJ-0623,6857,credito,34598.27,2026-09-21,false,1,Mastercard,2020-12-19,Banistmo
+TJ-0624,6507,debito,30620.35,2027-12-22,false,2,Mastercard|Visa,2019-12-11,Davivienda
+TJ-0625,2789,debito,35771.9,2027-03-25,false,2,Mastercard,2019-03-13,Industrial
+TJ-0626,3376,prepago,14713.12,2024-04-06,false,0,Amex,2020-05-04,Banistmo
+TJ-0627,3119,debito,19985.68,2029-03-05,false,1,Amex|Visa,2021-02-07,BAC
+TJ-0628,7380,debito,33525.22,2025-02-10,false,0,Amex,2022-03-28,Industrial
+TJ-0629,3011,credito,18160.54,2025-07-10,false,2,Amex,2019-10-26,BAC
+TJ-0630,5783,prepago,32185.11,2027-12-31,false,0,Mastercard,2022-09-17,Davivienda
+TJ-0631,5471,credito,11107.62,2026-05-10,false,1,Visa|Amex,2023-02-15,Industrial
+TJ-0632,3182,prepago,22582.83,2026-06-03,false,2,Amex|Visa,2018-11-23,Citibank
+TJ-0633,1195,credito,19588.42,2029-06-28,true,10,Visa,2020-11-20,Industrial
+TJ-0634,5118,prepago,26574.33,2028-04-16,false,1,Mastercard,2018-10-07,Citibank
+TJ-0635,8805,credito,6458.54,2024-04-17,false,1,Visa,2020-03-07,Banrural
+TJ-0636,4636,credito,33598.02,2028-01-20,false,0,Amex|Visa,2020-08-12,Davivienda
+TJ-0637,4731,credito,49137.87,2029-05-05,false,0,Visa|Mastercard,2023-10-20,Citibank
+TJ-0638,3619,prepago,34826.11,2028-03-08,true,3,Mastercard,2018-03-17,BAC
+TJ-0639,8734,credito,9468.25,2029-05-10,false,0,Visa,2023-11-10,HSBC
+TJ-0640,5019,prepago,49802.34,2027-08-17,false,2,Visa|Amex,2020-08-18,Industrial
+TJ-0641,6371,prepago,45439.72,2029-10-14,true,10,Visa|Mastercard,2022-01-17,Davivienda
+TJ-0642,1484,credito,9200.15,2024-02-26,false,2,Mastercard,2018-01-13,HSBC
+TJ-0643,8616,debito,1577.57,2027-02-19,false,0,Visa,2018-07-12,Davivienda
+TJ-0644,9949,debito,25187.62,2027-12-02,false,2,Mastercard|Amex,2021-10-16,BAC
+TJ-0645,2588,debito,17427.64,2027-04-30,false,2,Visa|Amex,2022-05-20,Banistmo
+TJ-0646,7444,credito,22820.34,2029-08-16,false,1,Visa|Amex,2021-03-25,G&T Continental
+TJ-0647,4702,prepago,28118.68,2027-08-19,true,3,Mastercard|Visa,2019-03-11,Davivienda
+TJ-0648,5272,prepago,10475.56,2027-04-26,false,2,Amex,2021-03-19,Banrural
+TJ-0649,7187,debito,13564.07,2024-05-17,false,1,Amex|Mastercard,2023-12-23,Citibank
+TJ-0650,2234,credito,3675.47,2028-11-23,false,1,Mastercard,2021-04-01,Banrural
+TJ-0651,4869,prepago,29374.12,2027-07-22,false,0,Mastercard|Visa,2018-10-24,G&T Continental
+TJ-0652,4485,credito,22126.85,2026-12-25,false,1,Mastercard,2020-10-08,Davivienda
+TJ-0653,5430,debito,1134.4,2024-06-09,false,1,Mastercard,2021-11-12,Banrural
+TJ-0654,8324,debito,20301.7,2025-12-31,false,1,Visa,2020-06-22,G&T Continental
+TJ-0655,4413,debito,39039.41,2025-04-27,false,0,Mastercard|Amex,2020-01-27,Banrural
+TJ-0656,5082,credito,2316.33,2027-10-30,false,1,Amex|Visa,2022-02-13,Industrial
+TJ-0657,5996,credito,17680.54,2028-05-09,false,1,Visa,2018-01-04,Citibank
+TJ-0658,9809,credito,20955.95,2024-07-08,false,2,Visa,2020-04-08,HSBC
+TJ-0659,5028,prepago,20877.45,2026-02-13,true,5,Mastercard|Amex,2022-12-23,Davivienda
+TJ-0660,1452,prepago,25418.42,2024-06-27,false,1,Visa,2023-08-05,HSBC
+TJ-0661,2627,debito,39571.79,2026-10-10,false,1,Visa,2021-02-11,Banrural
+TJ-0662,8998,debito,44695.12,2027-03-08,false,0,Amex|Mastercard,2018-12-04,Banistmo
+TJ-0663,8510,debito,10136.47,2024-11-20,false,1,Amex|Mastercard,2021-05-18,BAC
+TJ-0664,5177,debito,41833.66,2028-11-25,false,1,Amex,2019-09-04,HSBC
+TJ-0665,9183,debito,4286.36,2025-11-28,false,1,Visa|Amex,2020-10-23,Banrural
+TJ-0666,9243,prepago,24036.17,2028-09-09,false,0,Amex|Visa,2018-12-03,G&T Continental
+TJ-0667,4584,prepago,43606.43,2029-11-16,false,0,Mastercard,2018-04-08,BAC
+TJ-0668,3013,credito,43197.12,2025-07-21,false,2,Mastercard,2021-01-23,HSBC
+TJ-0669,6752,debito,23215.59,2029-06-01,false,0,Amex|Mastercard,2019-03-29,Davivienda
+TJ-0670,7223,debito,1346.25,2027-07-16,false,1,Amex,2018-12-13,Banrural
+TJ-0671,6080,debito,22568.39,2028-06-29,false,1,Mastercard|Amex,2023-04-25,Banistmo
+TJ-0672,5123,debito,48660.57,2024-07-10,false,2,Visa|Amex,2023-08-11,Citibank
+TJ-0673,3288,prepago,22353.73,2027-09-11,false,1,Visa,2023-07-05,Citibank
+TJ-0674,9802,prepago,25260.29,2025-07-04,true,10,Mastercard,2022-01-16,HSBC
+TJ-0675,3322,credito,1242.4,2024-11-11,false,2,Amex|Visa,2022-08-24,G&T Continental
+TJ-0676,9785,debito,39398.18,2026-08-08,false,2,Amex|Mastercard,2018-05-23,BAC
+TJ-0677,8847,credito,15959.21,2028-11-03,false,0,Visa,2019-10-27,Banrural
+TJ-0678,1911,credito,5359.14,2026-02-16,false,2,Visa,2018-03-23,Banrural
+TJ-0679,2835,prepago,13879.41,2024-03-28,true,9,Mastercard|Amex,2021-11-06,Davivienda
+TJ-0680,3186,prepago,15187.93,2025-09-20,false,2,Visa|Mastercard,2018-11-03,HSBC
+TJ-0681,8495,debito,17975.66,2029-11-13,false,0,Visa|Mastercard,2020-03-29,Davivienda
+TJ-0682,2458,prepago,12835.26,2027-11-30,false,1,Amex|Mastercard,2020-10-10,Industrial
+TJ-0683,9890,prepago,40475.08,2027-12-26,false,2,Amex|Mastercard,2018-10-07,Davivienda
+TJ-0684,3307,debito,47282.99,2028-05-04,false,0,Amex,2019-03-31,Banistmo
+TJ-0685,7956,prepago,16019.42,2029-04-11,false,1,Amex,2020-03-13,Banistmo
+TJ-0686,9792,debito,7732.02,2029-11-21,false,1,Mastercard,2023-02-18,Industrial
+TJ-0687,1796,credito,40819.99,2024-01-17,false,0,Visa|Amex,2021-07-05,G&T Continental
+TJ-0688,4078,prepago,47800.27,2029-02-03,false,0,Visa,2019-05-24,Citibank
+TJ-0689,1679,prepago,14426.79,2027-12-12,false,2,Visa|Mastercard,2021-01-13,Banistmo
+TJ-0690,3465,credito,5598.67,2027-10-10,false,1,Visa|Amex,2020-05-18,Citibank
+TJ-0691,3550,debito,10241.92,2025-06-22,true,9,Mastercard,2020-09-12,Banrural
+TJ-0692,1237,credito,3629.06,2029-07-18,false,1,Amex|Mastercard,2018-09-26,HSBC
+TJ-0693,2004,credito,44323.13,2029-12-07,false,1,Mastercard,2018-07-21,Davivienda
+TJ-0694,1237,prepago,30412.2,2026-10-07,false,0,Amex,2023-03-23,BAC
+TJ-0695,5420,credito,15811.72,2026-04-08,false,0,Amex,2018-02-19,Davivienda
+TJ-0696,3849,credito,34206.24,2026-09-16,false,0,Mastercard|Visa,2023-06-29,Banistmo
+TJ-0697,5214,debito,20494.01,2028-11-27,false,0,Mastercard|Amex,2020-07-11,Citibank
+TJ-0698,2748,debito,23939.48,2025-02-02,false,0,Mastercard|Amex,2019-03-10,Citibank
+TJ-0699,5047,prepago,11640.63,2025-06-06,false,2,Visa|Mastercard,2018-07-28,G&T Continental
+TJ-0700,6664,credito,46753.14,2025-02-06,false,0,Visa|Amex,2018-07-27,Banistmo
+TJ-0701,9840,prepago,32557.67,2027-09-15,false,2,Mastercard,2023-01-03,Davivienda
+TJ-0702,2144,credito,30548.04,2024-06-26,false,0,Visa|Amex,2019-08-30,Davivienda
+TJ-0703,4971,prepago,35144.06,2028-01-25,false,1,Amex|Visa,2021-03-24,G&T Continental
+TJ-0704,2467,debito,47080.21,2026-02-04,true,5,Amex,2022-05-23,Citibank
+TJ-0705,1751,credito,36139.93,2026-10-26,false,0,Mastercard|Visa,2022-05-26,HSBC
+TJ-0706,4444,credito,37688.69,2028-09-09,false,2,Mastercard,2019-08-27,G&T Continental
+TJ-0707,1122,prepago,3762.35,2025-09-07,false,0,Mastercard|Visa,2021-07-31,G&T Continental
+TJ-0708,1769,prepago,25856.28,2028-12-31,false,2,Amex|Mastercard,2019-03-12,BAC
+TJ-0709,4576,credito,27479.94,2028-03-04,false,0,Visa,2018-06-28,BAC
+TJ-0710,7930,credito,32072.68,2025-07-29,false,1,Amex|Mastercard,2023-01-01,Citibank
+TJ-0711,7056,prepago,21246.21,2029-05-17,false,0,Mastercard|Visa,2020-09-15,HSBC
+TJ-0712,7900,prepago,11613.31,2026-01-22,false,2,Mastercard|Amex,2022-08-20,HSBC
+TJ-0713,2065,debito,15537.63,2028-08-09,false,2,Mastercard,2019-05-11,Davivienda
+TJ-0714,4342,debito,48670.5,2024-10-05,false,2,Visa|Mastercard,2022-06-10,Banistmo
+TJ-0715,6913,prepago,21011.02,2028-08-13,false,0,Amex,2020-07-25,Industrial
+TJ-0716,6157,credito,9934.58,2028-06-06,false,2,Amex|Mastercard,2019-07-27,Banrural
+TJ-0717,3617,credito,48567.34,2025-06-07,true,8,Amex,2020-12-23,Citibank
+TJ-0718,7033,prepago,10700.05,2025-06-18,false,0,Mastercard|Amex,2018-07-04,HSBC
+TJ-0719,3358,debito,16037.36,2024-08-23,true,5,Visa|Amex,2020-06-22,Davivienda
+TJ-0720,3338,credito,1790.91,2026-03-31,false,1,Mastercard,2020-02-19,G&T Continental
+TJ-0721,7050,credito,5260.51,2027-06-05,false,2,Visa|Mastercard,2018-04-15,Davivienda
+TJ-0722,6380,credito,30569.41,2029-03-31,false,2,Amex,2021-04-19,Davivienda
+TJ-0723,1393,credito,47593.32,2028-11-30,false,2,Mastercard,2021-05-27,Banistmo
+TJ-0724,7424,debito,30770.74,2026-06-28,false,1,Amex,2021-06-20,Industrial
+TJ-0725,9283,credito,44061.02,2027-12-29,false,2,Amex,2021-09-01,Citibank
+TJ-0726,6475,prepago,21931.51,2029-05-06,false,0,Mastercard|Visa,2020-05-13,G&T Continental
+TJ-0727,3602,debito,13007.33,2027-05-30,false,2,Amex|Visa,2023-04-24,BAC
+TJ-0728,5431,debito,9664.95,2026-09-13,false,1,Mastercard|Amex,2022-06-18,Banrural
+TJ-0729,2640,debito,30375.27,2028-05-01,true,4,Mastercard,2023-10-04,Banistmo
+TJ-0730,9993,debito,38129.82,2029-10-30,false,2,Amex|Visa,2021-01-18,HSBC
+TJ-0731,5174,credito,37941.67,2028-01-15,false,0,Amex|Mastercard,2022-09-05,Banrural
+TJ-0732,5910,debito,3305.45,2026-07-22,false,2,Visa,2020-10-11,BAC
+TJ-0733,4123,debito,23976.88,2024-10-06,false,0,Mastercard,2023-07-16,Industrial
+TJ-0734,1038,credito,39018.89,2025-10-08,false,0,Visa,2022-04-29,Industrial
+TJ-0735,7013,credito,2522.89,2025-09-19,true,6,Mastercard,2019-09-15,Industrial
+TJ-0736,4192,credito,40870.74,2028-06-05,true,6,Mastercard,2018-01-20,G&T Continental
+TJ-0737,8946,credito,9995.96,2025-05-15,true,9,Visa|Amex,2019-04-06,G&T Continental
+TJ-0738,1297,credito,5786.48,2029-02-12,false,1,Mastercard|Visa,2018-02-01,BAC
+TJ-0739,2297,debito,19434.69,2027-11-04,false,0,Mastercard,2021-06-19,Industrial
+TJ-0740,4583,prepago,45573.86,2029-05-24,false,0,Visa|Mastercard,2021-03-12,Davivienda
+TJ-0741,2888,credito,23794.61,2024-08-27,false,2,Visa|Amex,2023-05-31,G&T Continental
+TJ-0742,4053,credito,42344.54,2024-08-06,false,0,Amex,2023-10-30,BAC
+TJ-0743,9934,prepago,10903.17,2025-04-12,false,0,Visa,2019-04-09,Banistmo
+TJ-0744,1206,credito,19358.24,2026-05-29,false,0,Amex|Visa,2020-08-14,G&T Continental
+TJ-0745,6739,credito,35858.54,2028-04-23,false,0,Visa|Amex,2019-11-03,Banrural
+TJ-0746,2617,debito,23898.8,2027-11-19,false,2,Visa|Amex,2019-11-17,Banistmo
+TJ-0747,1435,credito,37715.7,2024-12-07,false,1,Amex|Visa,2019-04-08,Banistmo
+TJ-0748,8672,prepago,27313.86,2025-07-09,false,2,Visa,2021-08-03,Banrural
+TJ-0749,9309,debito,43858.97,2025-11-24,false,1,Visa|Amex,2019-11-30,G&T Continental
+TJ-0750,5896,credito,24683.04,2027-10-16,true,6,Mastercard,2018-02-18,Citibank
+TJ-0751,2271,prepago,26573.39,2024-10-31,false,0,Visa|Mastercard,2021-08-13,Citibank
+TJ-0752,5250,prepago,16675.59,2027-04-07,true,9,Mastercard|Visa,2020-08-11,Davivienda
+TJ-0753,8146,debito,30888.61,2024-07-21,false,2,Amex,2020-07-19,BAC
+TJ-0754,7434,debito,33334.09,2024-06-14,false,1,Mastercard,2021-09-04,BAC
+TJ-0755,3677,debito,9182.9,2028-12-18,true,6,Amex,2020-02-07,BAC
+TJ-0756,9964,credito,7391.37,2028-01-18,true,4,Visa,2018-09-16,Industrial
+TJ-0757,7998,credito,42641.76,2029-12-27,false,0,Amex,2018-06-11,Citibank
+TJ-0758,5961,credito,20660.26,2024-09-20,true,4,Amex|Mastercard,2023-04-29,Banrural
+TJ-0759,8551,credito,33746.37,2027-01-17,false,2,Mastercard|Amex,2023-09-21,Banistmo
+TJ-0760,2467,credito,44817.48,2026-11-08,false,0,Amex|Visa,2021-06-15,HSBC
+TJ-0761,2314,credito,27578.03,2029-11-04,false,0,Visa,2019-02-13,HSBC
+TJ-0762,6493,prepago,20936.84,2028-07-05,false,1,Mastercard|Visa,2021-10-17,G&T Continental
+TJ-0763,7538,prepago,2420.38,2029-06-05,false,0,Visa,2023-01-17,Banistmo
+TJ-0764,2230,debito,43630.08,2029-03-26,false,0,Visa,2020-04-22,BAC
+TJ-0765,6734,credito,15961.35,2029-08-29,false,0,Mastercard|Visa,2021-08-14,Industrial
+TJ-0766,1971,prepago,45952.9,2026-01-17,false,2,Amex|Mastercard,2020-08-23,Citibank
+TJ-0767,9173,credito,48945.03,2025-12-03,false,2,Visa,2021-10-22,Davivienda
+TJ-0768,1260,credito,35301.36,2026-11-10,false,0,Amex,2023-08-23,Banistmo
+TJ-0769,4202,prepago,30714.91,2029-12-04,false,1,Mastercard|Amex,2020-12-27,G&T Continental
+TJ-0770,5070,prepago,28304.6,2027-07-31,false,2,Amex|Mastercard,2019-06-21,Industrial
+TJ-0771,7820,prepago,23244.72,2025-11-11,false,0,Visa|Mastercard,2020-07-13,Industrial
+TJ-0772,1048,debito,31907.67,2024-08-19,false,0,Mastercard|Visa,2020-10-03,HSBC
+TJ-0773,2911,debito,34866.67,2025-06-29,false,0,Mastercard|Visa,2020-11-12,Citibank
+TJ-0774,7809,credito,20656.43,2029-12-03,false,2,Visa|Amex,2020-03-09,Citibank
+TJ-0775,5641,debito,14050.88,2028-01-27,false,2,Amex,2021-06-09,Industrial
+TJ-0776,5759,credito,5118.58,2025-03-07,false,1,Mastercard|Amex,2021-04-15,Citibank
+TJ-0777,5732,credito,38500.15,2024-11-27,false,2,Visa|Mastercard,2022-03-31,Industrial
+TJ-0778,7014,credito,8909.58,2025-03-31,false,0,Mastercard|Amex,2019-12-13,HSBC
+TJ-0779,5723,credito,29745.16,2029-08-14,false,1,Mastercard,2022-12-12,Industrial
+TJ-0780,9655,debito,19358.2,2025-04-29,false,1,Visa,2018-09-08,Davivienda
+TJ-0781,2953,debito,19060.61,2024-11-04,false,2,Mastercard,2023-05-21,G&T Continental
+TJ-0782,4843,credito,17640.61,2029-03-21,false,2,Mastercard,2021-08-21,Industrial
+TJ-0783,1421,prepago,25655.43,2025-07-28,false,1,Mastercard|Visa,2023-05-14,Banistmo
+TJ-0784,6055,credito,37494.08,2024-10-17,false,1,Visa|Mastercard,2022-09-20,Banistmo
+TJ-0785,1433,debito,40641.13,2028-08-19,true,6,Mastercard|Visa,2019-08-26,Banrural
+TJ-0786,9045,prepago,47831.85,2024-05-31,false,1,Visa|Mastercard,2018-11-14,HSBC
+TJ-0787,6734,prepago,1440.45,2025-03-16,false,0,Visa|Amex,2020-02-22,Banrural
+TJ-0788,1026,debito,38315.45,2026-02-05,false,1,Amex,2022-08-30,Industrial
+TJ-0789,2848,credito,3943.82,2028-05-20,false,0,Amex|Mastercard,2019-08-01,Citibank
+TJ-0790,8570,prepago,20356.45,2028-04-08,true,10,Visa|Amex,2018-09-10,Banrural
+TJ-0791,5559,debito,7684.33,2028-05-25,false,0,Visa|Mastercard,2019-11-26,Industrial
+TJ-0792,9736,debito,4318.76,2027-12-20,false,2,Visa|Mastercard,2021-01-24,Davivienda
+TJ-0793,8709,prepago,22404.02,2029-06-29,false,2,Amex,2020-07-29,BAC
+TJ-0794,9174,debito,29164.29,2029-12-29,false,0,Mastercard|Amex,2018-03-06,Davivienda
+TJ-0795,2633,credito,19079.62,2026-06-13,false,2,Amex|Visa,2021-07-20,BAC
+TJ-0796,4766,prepago,3728.07,2026-08-26,false,1,Amex|Visa,2019-07-01,Citibank
+TJ-0797,7714,prepago,32003.52,2028-04-18,false,1,Amex,2022-09-13,Industrial
+TJ-0798,8667,debito,1837.46,2029-06-14,false,1,Visa,2018-12-23,BAC
+TJ-0799,5767,credito,20081.57,2025-07-14,true,9,Amex|Mastercard,2019-03-02,BAC
+TJ-0800,3140,debito,17916.39,2027-04-16,false,0,Amex|Visa,2021-08-10,Banistmo
